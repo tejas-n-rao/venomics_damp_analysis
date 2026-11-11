@@ -1,0 +1,78 @@
+population,grouping,group,feature,n_sequences,weight_sum,mean,median,q25,q75,quantiles_weighting
+all_complete,group,All negative,length,24878,24878.0,25.611423747889702,26.0,14.0,36.0,unweighted sequences
+all_complete,group,All negative,KR_fraction,24878,24878.0,0.16517087455893428,0.15000000000000002,0.09090909090909091,0.22580645161290322,unweighted sequences
+all_complete,group,All negative,DE_fraction,24878,24878.0,0.07621618332554743,0.0625,0.0,0.12244897959183673,unweighted sequences
+all_complete,group,All negative,charge_proxy,24878,24878.0,0.08895469123338685,0.08695652173913043,0.0,0.1764705882352941,unweighted sequences
+all_complete,group,All negative,hydrophobic_fraction,24878,24878.0,0.41618809071423857,0.4117647058823529,0.3333333333333333,0.5,unweighted sequences
+all_complete,group,All negative,contains_C,24878,24878.0,0.2533161829729078,0.0,0.0,1.0,unweighted sequences
+all_complete,group,All negative,entropy_bits,24878,24878.0,3.221491458827479,3.3248629576173574,2.94770277922009,3.5605173424005265,unweighted sequences
+all_complete,group,All positive,length,42645,42645.0,18.80834798921327,17.0,13.0,22.0,unweighted sequences
+all_complete,group,All positive,KR_fraction,42645,42645.0,0.30358383017661034,0.3076923076923077,0.21428571428571427,0.38461538461538464,unweighted sequences
+all_complete,group,All positive,DE_fraction,42645,42645.0,0.011622624950625932,0.0,0.0,0.0,unweighted sequences
+all_complete,group,All positive,charge_proxy,42645,42645.0,0.2919612052259844,0.3,0.2,0.375,unweighted sequences
+all_complete,group,All positive,hydrophobic_fraction,42645,42645.0,0.4878735548726805,0.5,0.411764705882353,0.5714285714285714,unweighted sequences
+all_complete,group,All positive,contains_C,42645,42645.0,0.17776996130847697,0.0,0.0,0.0,unweighted sequences
+all_complete,group,All positive,entropy_bits,42645,42645.0,2.6688334086696144,2.759079570624175,2.353533948577482,3.068571098893852,unweighted sequences
+all_complete,group,Mixed,length,128097,128097.0,27.225672732382492,26.0,17.0,37.0,unweighted sequences
+all_complete,group,Mixed,KR_fraction,128097,128097.0,0.24178314787792904,0.23809523809523808,0.16666666666666666,0.3103448275862069,unweighted sequences
+all_complete,group,Mixed,DE_fraction,128097,128097.0,0.032545712433876446,0.0,0.0,0.05,unweighted sequences
+all_complete,group,Mixed,charge_proxy,128097,128097.0,0.20923743544405254,0.20833333333333331,0.13333333333333333,0.2857142857142857,unweighted sequences
+all_complete,group,Mixed,hydrophobic_fraction,128097,128097.0,0.4532684602373104,0.45000000000000007,0.36585365853658536,0.5454545454545454,unweighted sequences
+all_complete,group,Mixed,contains_C,128097,128097.0,0.2931450385254924,0.0,0.0,1.0,unweighted sequences
+all_complete,group,Mixed,entropy_bits,128097,128097.0,3.1180481616987086,3.2388241519198506,2.875,3.476200104379858,unweighted sequences
+all_complete,votes,0,length,24878,24878.0,25.611423747889702,26.0,14.0,36.0,unweighted sequences
+all_complete,votes,0,KR_fraction,24878,24878.0,0.16517087455893428,0.15000000000000002,0.09090909090909091,0.22580645161290322,unweighted sequences
+all_complete,votes,0,DE_fraction,24878,24878.0,0.07621618332554743,0.0625,0.0,0.12244897959183673,unweighted sequences
+all_complete,votes,0,charge_proxy,24878,24878.0,0.08895469123338685,0.08695652173913043,0.0,0.1764705882352941,unweighted sequences
+all_complete,votes,0,hydrophobic_fraction,24878,24878.0,0.41618809071423857,0.4117647058823529,0.3333333333333333,0.5,unweighted sequences
+all_complete,votes,0,contains_C,24878,24878.0,0.2533161829729078,0.0,0.0,1.0,unweighted sequences
+all_complete,votes,0,entropy_bits,24878,24878.0,3.221491458827479,3.3248629576173574,2.94770277922009,3.5605173424005265,unweighted sequences
+all_complete,votes,1,length,42225,42225.0,29.630053285968028,31.0,20.0,40.0,unweighted sequences
+all_complete,votes,1,KR_fraction,42225,42225.0,0.21073007136503766,0.20588235294117646,0.13793103448275862,0.28,unweighted sequences
+all_complete,votes,1,DE_fraction,42225,42225.0,0.04997476771393049,0.030303030303030304,0.0,0.07692307692307693,unweighted sequences
+all_complete,votes,1,charge_proxy,42225,42225.0,0.16075530365110718,0.16666666666666666,0.08823529411764705,0.23529411764705882,unweighted sequences
+all_complete,votes,1,hydrophobic_fraction,42225,42225.0,0.43448968934958443,0.42857142857142855,0.34782608695652173,0.5238095238095237,unweighted sequences
+all_complete,votes,1,contains_C,42225,42225.0,0.31166370633510954,0.0,0.0,1.0,unweighted sequences
+all_complete,votes,1,entropy_bits,42225,42225.0,3.24194171186484,3.3636085007312415,3.0472103113389792,3.5654272563066676,unweighted sequences
+all_complete,votes,2,length,45391,45391.0,29.184309664911545,30.0,19.0,40.0,unweighted sequences
+all_complete,votes,2,KR_fraction,45391,45391.0,0.24166942210179054,0.24000000000000002,0.17391304347826086,0.3076923076923077,unweighted sequences
+all_complete,votes,2,DE_fraction,45391,45391.0,0.03021193636472795,0.0,0.0,0.04878048780487805,unweighted sequences
+all_complete,votes,2,charge_proxy,45391,45391.0,0.21145748573706263,0.21052631578947367,0.14285714285714285,0.2777777777777778,unweighted sequences
+all_complete,votes,2,hydrophobic_fraction,45391,45391.0,0.45019593652638135,0.4444444444444444,0.36363636363636365,0.5365853658536586,unweighted sequences
+all_complete,votes,2,contains_C,45391,45391.0,0.3220021590183076,0.0,0.0,1.0,unweighted sequences
+all_complete,votes,2,entropy_bits,45391,45391.0,3.1789804570350078,3.3021390820667533,2.9852281360342516,3.501273537974369,unweighted sequences
+all_complete,votes,3,length,40481,40481.0,22.52150391541711,21.0,15.0,28.0,unweighted sequences
+all_complete,votes,3,KR_fraction,40481,40481.0,0.27430157090259577,0.26666666666666666,0.19999999999999998,0.3448275862068966,unweighted sequences
+all_complete,votes,3,DE_fraction,40481,40481.0,0.0169826228450431,0.0,0.0,0.02857142857142857,unweighted sequences
+all_complete,votes,3,charge_proxy,40481,40481.0,0.2573189480575527,0.25,0.175,0.3333333333333333,unweighted sequences
+all_complete,votes,3,hydrophobic_fraction,40481,40481.0,0.4763014516282592,0.48148148148148145,0.3939393939393939,0.5652173913043478,unweighted sequences
+all_complete,votes,3,contains_C,40481,40481.0,0.24147130752698798,0.0,0.0,0.0,unweighted sequences
+all_complete,votes,3,entropy_bits,40481,40481.0,2.9204941740656225,3.0217768532941647,2.6612262562697895,3.2806390622295662,unweighted sequences
+all_complete,votes,4,length,42645,42645.0,18.80834798921327,17.0,13.0,22.0,unweighted sequences
+all_complete,votes,4,KR_fraction,42645,42645.0,0.30358383017661034,0.3076923076923077,0.21428571428571427,0.38461538461538464,unweighted sequences
+all_complete,votes,4,DE_fraction,42645,42645.0,0.011622624950625932,0.0,0.0,0.0,unweighted sequences
+all_complete,votes,4,charge_proxy,42645,42645.0,0.2919612052259844,0.3,0.2,0.375,unweighted sequences
+all_complete,votes,4,hydrophobic_fraction,42645,42645.0,0.4878735548726805,0.5,0.411764705882353,0.5714285714285714,unweighted sequences
+all_complete,votes,4,contains_C,42645,42645.0,0.17776996130847697,0.0,0.0,0.0,unweighted sequences
+all_complete,votes,4,entropy_bits,42645,42645.0,2.6688334086696144,2.759079570624175,2.353533948577482,3.068571098893852,unweighted sequences
+mapped_equal_source_component,group,All negative,length,24826,18348.79574025858,25.326788356814973,26.0,14.0,36.0,unweighted sequences
+mapped_equal_source_component,group,All negative,KR_fraction,24826,18348.79574025858,0.157761554349804,0.15000000000000002,0.09090909090909091,0.22580645161290322,unweighted sequences
+mapped_equal_source_component,group,All negative,DE_fraction,24826,18348.79574025858,0.08409535095544216,0.0625,0.0,0.12244897959183673,unweighted sequences
+mapped_equal_source_component,group,All negative,charge_proxy,24826,18348.79574025858,0.07366620339436182,0.08695652173913043,0.0,0.1764705882352941,unweighted sequences
+mapped_equal_source_component,group,All negative,hydrophobic_fraction,24826,18348.79574025858,0.4003325520305245,0.411764705882353,0.3333333333333333,0.5,unweighted sequences
+mapped_equal_source_component,group,All negative,contains_C,24826,18348.79574025858,0.3112021618400583,0.0,0.0,1.0,unweighted sequences
+mapped_equal_source_component,group,All negative,entropy_bits,24826,18348.79574025858,3.2333248610136955,3.326226605071411,2.94770277922009,3.5612167310421197,unweighted sequences
+mapped_equal_source_component,group,All positive,length,42643,21341.835971696706,19.45989884896676,17.0,13.0,22.0,unweighted sequences
+mapped_equal_source_component,group,All positive,KR_fraction,42643,21341.835971696706,0.29786383824525947,0.3076923076923077,0.21428571428571427,0.38461538461538464,unweighted sequences
+mapped_equal_source_component,group,All positive,DE_fraction,42643,21341.835971696706,0.0129187200164575,0.0,0.0,0.0,unweighted sequences
+mapped_equal_source_component,group,All positive,charge_proxy,42643,21341.835971696706,0.284945118228802,0.3,0.2,0.375,unweighted sequences
+mapped_equal_source_component,group,All positive,hydrophobic_fraction,42643,21341.835971696706,0.4793524322161344,0.5,0.411764705882353,0.5714285714285714,unweighted sequences
+mapped_equal_source_component,group,All positive,contains_C,42643,21341.835971696706,0.21040560904858757,0.0,0.0,0.0,unweighted sequences
+mapped_equal_source_component,group,All positive,entropy_bits,42643,21341.835971696706,2.6410403835154854,2.7594777826895114,2.353533948577482,3.0688373950639942,unweighted sequences
+mapped_equal_source_component,group,Mixed,length,127478,71880.36828804472,26.48325240054174,27.0,17.0,37.0,unweighted sequences
+mapped_equal_source_component,group,Mixed,KR_fraction,127478,71880.36828804472,0.23579481268554356,0.23809523809523808,0.16666666666666666,0.3103448275862069,unweighted sequences
+mapped_equal_source_component,group,Mixed,DE_fraction,127478,71880.36828804472,0.035764966365351716,0.0,0.0,0.05,unweighted sequences
+mapped_equal_source_component,group,Mixed,charge_proxy,127478,71880.36828804472,0.20002984632019183,0.20833333333333331,0.13333333333333333,0.2857142857142857,unweighted sequences
+mapped_equal_source_component,group,Mixed,hydrophobic_fraction,127478,71880.36828804472,0.43610034365864087,0.45000000000000007,0.36666666666666664,0.5454545454545454,unweighted sequences
+mapped_equal_source_component,group,Mixed,contains_C,127478,71880.36828804472,0.366151417857106,0.0,0.0,1.0,unweighted sequences
+mapped_equal_source_component,group,Mixed,entropy_bits,127478,71880.36828804472,3.102158308001768,3.239097917988786,2.8879867072237704,3.4776015519734123,unweighted sequences

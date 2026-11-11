@@ -1,0 +1,37 @@
+{
+  "scope": "Exploratory classifier-group composition and sequence-neighbor analysis; no biological accuracy claim",
+  "date": "2026-11-10",
+  "n_complete": 195620,
+  "n_component_mapped": 194947,
+  "software_versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.1.4"
+  },
+  "n_component_unmapped": 673,
+  "models": {
+    "MACREL": "macrel_general_AMP",
+    "AI4AMP": "ai4amp_general_AMP",
+    "AMP-CLIP": "amp_clip_general_AMP",
+    "AMPlify": "amplify_general_AMP"
+  },
+  "positive_rule": "score >= 0.5; AMP-CLIP is already binary",
+  "neighbor_scope": "Previously enumerated same-source one-substitution pairs in the MIC-complete cohort, not exhaustive classifier-wide neighbors",
+  "matched_estimate": "Within source/exact-length mean differences, weighted by smaller group mass; no matching on model outputs",
+  "inputs_sha256": {
+    "df_damp_195625x57.tsv": "ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600",
+    "scratchpad/source_sequences.tsv": "0f0f6b0b88bac304de91c8052e9daaaa37c03979a032e65e168b70e16b96373a",
+    "analysis_review/outputs/sanity_checks/broader_sequence_components.csv": "526e3b604459d967c026b95e4a8221e18ae918bd8a7cb7ed56e9ce71f96f6c7c",
+    "analysis_review/outputs/sequence_disagreement/single_substitution_pairs.csv.gz": "8cddb973220e9e3174f3eed923bba12af5403f7d6c4931db81f933ef0c60417a"
+  },
+  "checks": {
+    "195620_classifier_complete_sequences": true,
+    "vote_counts_match_independently_saved_16_patterns": true,
+    "three_way_partition_matches_existing_counts": true,
+    "residue_fractions_sum_to_one": true,
+    "exact_length_matched_contrasts_are_zero": true,
+    "one_substitution_catalogue_retained": true,
+    "pairs_same_source_and_single_substitution": true,
+    "no_duplicate_unordered_pairs": true
+  },
+  "elapsed_seconds": 10.100253791999421
+}

@@ -1,0 +1,73 @@
+{
+  "purpose": "Documentation, interpretation, and attribution revision; calculations unchanged.",
+  "before_markdown_sha256": {
+    "FINAL_ANALYSIS.md": "4cb0a79b90eea571c78a3eeae1c47c0d212465f0cd7ccf8b524fe258dfa64a25",
+    "agentic_results.md": "5b115e7f15379b6fa5ee9ecf9af2a7b71b0eeaa842d90f6f08b4a0317b12252f",
+    "agentic_synthesis.md": "365a942bab9936e46984ca0c7386ec99a38e22984d13f552a9d0c8d543eb5d5a",
+    "SEQUENCE_FINDINGS.md": "d6ae4626373e657938c071971573b19993360591b2319abe3cd05b5e99e0f7fb",
+    "README.md": "7c3d339babda0e75c089c3cb457895af62a059f48f115404a86f18b56cf911f2",
+    "mic_variability_context.md": "d8b075f5ad915f6dd4b2228a5e4a09f2c3172d15235fa0fd43a12aae99346728",
+    "scratchpad/mic_comparability_audit.md": "2334f78936eab96e95c6f7235b33ded511d8101f9da8d599b428a788121f991c",
+    "analysis_review/SCIENTIFIC_AUDIT.md": "b8e7a81359292d5ab351bf797155d9d6e811827cdf6ce7811cf3477daa992ba3"
+  },
+  "notebooks": {
+    "agentic.ipynb": {
+      "code_cells_before": 20,
+      "code_cells_sha256_before": "dba9459dfd43d58ea408b0bb8019eab64d1de1b8c4e5e61e6361e5c272620508",
+      "code_cells_sha256_after": "dba9459dfd43d58ea408b0bb8019eab64d1de1b8c4e5e61e6361e5c272620508",
+      "code_cells_after": 20,
+      "rationale_cells_added": 24,
+      "all_code_execution_counts_and_outputs_preserved": true,
+      "schema_valid": true
+    },
+    "eda.ipynb": {
+      "code_cells_before": 11,
+      "code_cells_sha256_before": "1ad6aadb74d426a15d8cad20b64a56a6130c5ad7e8b10165c216efd1d9647458",
+      "code_cells_sha256_after": "1ad6aadb74d426a15d8cad20b64a56a6130c5ad7e8b10165c216efd1d9647458",
+      "code_cells_after": 11,
+      "rationale_cells_added": 8,
+      "all_code_execution_counts_and_outputs_preserved": true,
+      "schema_valid": true
+    }
+  },
+  "checks": {
+    "both_notebook_schemas_and_full_code_objects_preserved": true,
+    "current_authored_markdown_uses_no_collective_first_person": true,
+    "all_report_and_notebook_local_links_resolve": true,
+    "matching_six_section_reports": true,
+    "attribution_present_in_both_technical_PDFs": true,
+    "existing_decision_table_hashes_unchanged": true,
+    "input_prediction_table_unchanged": true
+  },
+  "revision_date": "2026-11-09",
+  "rendered_reports": {
+    "FINAL_ANALYSIS": {
+      "pages": 5,
+      "text_and_navigation_valid": true
+    },
+    "TECHNICAL_OVERVIEW": {
+      "pages": 4,
+      "text_and_navigation_valid": true
+    },
+    "OVERVIEW": {
+      "pages": 3,
+      "text_and_navigation_valid": true
+    },
+    "SEQUENCE_FINDINGS": {
+      "pages": 3,
+      "text_and_navigation_valid": true
+    }
+  },
+  "decision_tables_verified_unchanged": 21,
+  "after_markdown_sha256": {
+    "FINAL_ANALYSIS.md": "3b6a6cd5570eda97989f726d2e8b545c1c9cf3348a038d7482a25498288b52fb",
+    "agentic_results.md": "d37af52474b2a9d2971ad13439c38d40bf64ab251833fcba98f8a447b7a43c96",
+    "agentic_synthesis.md": "c188ca1211d9babffe64dc458f45a88c421cd9488344fba180ea4ab39ad14e6f",
+    "SEQUENCE_FINDINGS.md": "322277efe515b3fa76f2c01089776d2153329c645ea3f80a641b55a051cc8d4b",
+    "README.md": "aa1c7f9cc5fe26f531284477cea6d31c20255216e6fade397347b1fcb14b071b",
+    "mic_variability_context.md": "54343bf45768e201696a168f116b2b6db56a73d69e331d74ad71cfc88e7f45d6",
+    "scratchpad/mic_comparability_audit.md": "7fe7c7ee3891bd0e73f2adff83a8873362495e0dedef9e6d68418889e72de45b",
+    "analysis_review/SCIENTIFIC_AUDIT.md": "88aa3e4959de405048aed013e2854c259540de649018d72a6cd64bed1e10aa78"
+  },
+  "all_checks_passed": true
+}

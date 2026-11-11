@@ -1,0 +1,11 @@
+comparison,target,paired_n,paired_with_component_map_n
+APEX_version_same_strain,A. baumannii ATCC 19606,195625,194947
+APEX_version_same_strain,E. coli ATCC 11775,195625,194947
+APEX_version_same_strain,K. pneumoniae ATCC 13883,195625,194947
+APEX_version_same_strain,P. aeruginosa PA14,195625,194947
+APEX_version_same_strain,S. aureus ATCC 12600,195625,194947
+APEX_version_same_strain,S. aureus (ATCC BAA-1556) - MRSA,195625,194947
+APEX_version_same_strain,vancomycin-resistant E. faecalis ATCC 700802,195625,194947
+APEX_version_same_strain,vancomycin-resistant E. faecium ATCC 700221,195625,194947
+DeepAMP_same_Gram_group,Gram-negative,190876,190198
+DeepAMP_same_Gram_group,Gram-positive,190876,190198

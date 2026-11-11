@@ -1,0 +1,9 @@
+control,matching,log2_median_MIC_bin_width,target_n,control_n,common_strata,unweighted_matching_capacity,capacity_fraction_of_target,target_sequences_in_common_strata,fraction_target_in_common_strata
+rest_of_collection,source_length,,1155,193792,120,1155.0,1.0,1155,1.0
+rest_of_collection,source_length_median_MIC,1.0,1155,193792,315,1155.0,1.0,1155,1.0
+rest_of_collection,source_length_median_MIC,0.5,1155,193792,446,1150.0,0.9956709956709957,1154,0.9991341991341991
+rest_of_collection,source_length_median_MIC,0.25,1155,193792,617,1148.0,0.9939393939393939,1151,0.9965367965367965
+MIC_agreement_smaller_rank_gap,source_length,,1155,323,71,212.0,0.18354978354978355,843,0.7298701298701299
+MIC_agreement_smaller_rank_gap,source_length_median_MIC,1.0,1155,323,46,73.0,0.0632034632034632,128,0.11082251082251082
+MIC_agreement_smaller_rank_gap,source_length_median_MIC,0.5,1155,323,35,45.0,0.03896103896103896,76,0.0658008658008658
+MIC_agreement_smaller_rank_gap,source_length_median_MIC,0.25,1155,323,28,31.0,0.02683982683982684,42,0.03636363636363636

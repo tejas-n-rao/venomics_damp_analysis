@@ -1,0 +1,8 @@
+pattern,exclusive_count,selected_by_n_models,APEX 1.1,MBC-Attention,AMPredictor
+100,3642,1,1,0,0
+001,3433,1,0,0,1
+010,3362,1,0,1,0
+011,362,2,0,1,1
+110,153,2,1,1,0
+101,82,2,1,0,1
+111,22,3,1,1,1

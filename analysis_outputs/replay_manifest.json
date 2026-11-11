@@ -1,0 +1,23 @@
+{
+  "tensorflow": "2.19.0",
+  "revision": "0a31ad796732b5e5874c3f92e771057e887f58a9",
+  "weights_sha256": {
+    "scratchpad/replay/saved_models/paper/regressor/LSTM_gr_neg/keras_metadata.pb": "212295080d4a6e39073ca229f0f0e36e1f4aeb03efaf8565190c397047fb0418",
+    "scratchpad/replay/saved_models/paper/regressor/LSTM_gr_neg/saved_model.pb": "77c8c717a9200dead0264a382c8b14c5ddb5d0697a732a733e18584567a608e3",
+    "scratchpad/replay/saved_models/paper/regressor/LSTM_gr_neg/variables/variables.data-00000-of-00001": "828387179dbd0e2c26561b3f8b3efab9dbcff5fad5fa1c2d26ab6108736f8757",
+    "scratchpad/replay/saved_models/paper/regressor/LSTM_gr_neg/variables/variables.index": "4d3c52a1b14e78804621aa1fefa3ea8839bb734e35851bb5191f564f9a5a5bdb",
+    "scratchpad/replay/saved_models/paper/regressor/CNN_gr_neg/keras_metadata.pb": "64a68b0671c98a58cea68ee725f54bf72a22feacc6d5f2bbe768d88ece522827",
+    "scratchpad/replay/saved_models/paper/regressor/CNN_gr_neg/saved_model.pb": "70c1bd2e6c0f02d758bff767394abbc627a290b91bfbea023bdf3233c5bdceea",
+    "scratchpad/replay/saved_models/paper/regressor/CNN_gr_neg/variables/variables.data-00000-of-00001": "473eb22a085e288e7603e8a513e426726d03d5b4b68adfbd5f36b2fcf5b02b8b",
+    "scratchpad/replay/saved_models/paper/regressor/CNN_gr_neg/variables/variables.index": "b94829fe4947eb521342f3f28d1efb79c70a12efb40574c43ed3fa98bb31c86b",
+    "scratchpad/replay/saved_models/paper/regressor/LSTM_gr_pos/keras_metadata.pb": "212295080d4a6e39073ca229f0f0e36e1f4aeb03efaf8565190c397047fb0418",
+    "scratchpad/replay/saved_models/paper/regressor/LSTM_gr_pos/saved_model.pb": "bcb1c33b33d664e9bcc2abe34afec6a4a0230350ba407917b72e506248042ecb",
+    "scratchpad/replay/saved_models/paper/regressor/LSTM_gr_pos/variables/variables.data-00000-of-00001": "462ab64ffac48f504a6d21ba10f3a293959bc5e36414d13562074ec1fc661d9c",
+    "scratchpad/replay/saved_models/paper/regressor/LSTM_gr_pos/variables/variables.index": "a2fbf89365216bdef5a34c843a222e1e80b8e0682d389e189b8b97c0e574e629",
+    "scratchpad/replay/saved_models/paper/regressor/CNN_gr_pos/keras_metadata.pb": "64a68b0671c98a58cea68ee725f54bf72a22feacc6d5f2bbe768d88ece522827",
+    "scratchpad/replay/saved_models/paper/regressor/CNN_gr_pos/saved_model.pb": "642133815e3bb39ae6bfc8471114431355b4724fd291d6d13b865ee49fc2b62e",
+    "scratchpad/replay/saved_models/paper/regressor/CNN_gr_pos/variables/variables.data-00000-of-00001": "ee75f90b975d7af6a35e13fc16d588bd5d9ecc085c8aaf25cc193746f547ff69",
+    "scratchpad/replay/saved_models/paper/regressor/CNN_gr_pos/variables/variables.index": "d0c618cf7fa529dcdfdac9122ff7d04adfa2f9a46e74512aad8aec3a09166749"
+  },
+  "n_sequences": 40
+}

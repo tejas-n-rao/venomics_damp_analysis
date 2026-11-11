@@ -1,0 +1,10 @@
+{
+  "original_APEX_methods": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11310081/",
+  "original_APEX_article": "https://doi.org/10.1038/s41551-024-01201-x",
+  "original_inactive_threshold_uM": 128,
+  "original_inactive_pseudolabel_uM": 140,
+  "APEX_1_1_methods": "https://www.nature.com/articles/s41564-025-02061-0",
+  "APEX_1_1_inactive_pseudolabel_uM": 512,
+  "ratio": 3.657142857142857,
+  "interpretation": "Plausible scale contributor; training corpora and tasks also changed. No causal attribution or calibrated conversion is established."
+}

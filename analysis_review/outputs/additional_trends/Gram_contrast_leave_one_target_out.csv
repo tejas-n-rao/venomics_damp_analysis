@@ -1,0 +1,9 @@
+omitted_target,remaining_Gram_negative_targets,remaining_Gram_positive_targets,cross_version_spearman
+A. baumannii ATCC 19606,3,4,0.5402076518576867
+E. coli ATCC 11775,3,4,0.7565901452753401
+K. pneumoniae ATCC 13883,3,4,0.8121361808898904
+P. aeruginosa PA14,3,4,0.6875590589378054
+S. aureus ATCC 12600,4,3,0.6686248985868772
+S. aureus (ATCC BAA-1556) - MRSA,4,3,0.6515156170004208
+vancomycin-resistant E. faecalis ATCC 700802,4,3,0.6255885272818428
+vancomycin-resistant E. faecium ATCC 700221,4,3,0.8625881434570851

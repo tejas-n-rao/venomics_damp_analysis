@@ -1,0 +1,13 @@
+check,passed
+complete case denominator,True
+positive finite exports and source/component coverage,True
+direct ratio and log range agree,True
+all subgroup cases are MIC-agreed,True
+reference percentiles reproduce tied ranks APEX 1.1,True
+reference percentiles reproduce tied ranks MBC-Attention,True
+reference percentiles reproduce tied ranks AMPredictor,True
+composition-preserving adjacency expectation,True
+source counts sum to subgroup size,True
+target and control disjoint rest_of_collection,True
+target and control disjoint MIC_agreement_smaller_rank_gap,True
+exact length matching gives zero length differences,True

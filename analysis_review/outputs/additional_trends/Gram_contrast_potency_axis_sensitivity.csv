@@ -1,0 +1,3 @@
+version,n,Gram_contrast_vs_mean_log2_MIC_spearman,absolute_Gram_contrast_vs_PC1_spearman,cross_version_rank_residual_correlation_after_cubic_rank_PC1
+APEX 1.0,195625,-0.594467814794908,0.6208522485219791,0.5297448498351007
+APEX 1.1,195625,-0.7100487685186445,0.7089984803681146,0.5297448498351007

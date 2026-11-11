@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-10",
+  "all_checks_passed": true,
+  "all_184_prior_numerical_tables_unchanged": true,
+  "input_and_both_notebooks_byte_identical": true,
+  "six_section_companions_linked": [
+    "ROBUSTNESS_FINDINGS.md",
+    "mic_variability_context.md",
+    "MATCHED_TARGET_FINDINGS.md",
+    "CLASSIFIER_FINDINGS.md",
+    "SEQUENCE_FINDINGS.md",
+    "INTERPRETATION_FINDINGS.md"
+  ],
+  "all_11_previous_main_figures_retained_across_section_reports": true,
+  "markdown_and_HTML_links_and_anchors_valid": true,
+  "separate_reproducibility_and_preliminary_reports": true,
+  "new_figures_and_main_classifier_PDF_layout_visually_reviewed": true,
+  "new_classifier_checks": {
+    "all_checks_passed": true,
+    "raw_vote_counts": {
+      "0": 24878,
+      "1": 42225,
+      "2": 45391,
+      "3": 40481,
+      "4": 42645
+    },
+    "direct_same_group_pairs": 32423,
+    "neighbor_references_explicitly_recomputed_for_24_pairs": true,
+    "standardized_KR_contrast_recomputed_cell_by_cell": true,
+    "all_pair_model_bit_changes_independently_recomputed": true,
+    "unanimous_switch_pairs": 73,
+    "unanimous_switch_components": 11,
+    "largest_three_switch_components_pairs": 62
+  },
+  "reports": {
+    "FINAL_ANALYSIS": {
+      "pages": 7,
+      "images": 6,
+      "words": 1567
+    },
+    "TECHNICAL_OVERVIEW": {
+      "pages": 4,
+      "images": 1,
+      "words": 1331
+    },
+    "OVERVIEW": {
+      "pages": 3,
+      "images": 0,
+      "words": 1076
+    },
+    "SEQUENCE_FINDINGS": {
+      "pages": 6,
+      "images": 5,
+      "words": 1610
+    },
+    "MIC_VARIABILITY": {
+      "pages": 4,
+      "images": 3,
+      "words": 896
+    },
+    "MODEL_COMPARISON": {
+      "pages": 4,
+      "images": 2,
+      "words": 1105
+    },
+    "VALIDATION_FINDINGS": {
+      "pages": 2,
+      "images": 1,
+      "words": 454
+    },
+    "ROBUSTNESS_FINDINGS": {
+      "pages": 4,
+      "images": 2,
+      "words": 1110
+    },
+    "AGREEMENT_FINDINGS": {
+      "pages": 4,
+      "images": 2,
+      "words": 1151
+    },
+    "OUTPUT_PATTERNS": {
+      "pages": 4,
+      "images": 1,
+      "words": 1260
+    },
+    "EXPERIMENTAL_CURATION": {
+      "pages": 3,
+      "images": 0,
+      "words": 1034
+    },
+    "ANALYSIS_MAP": {
+      "pages": 4,
+      "images": 0,
+      "words": 1002
+    },
+    "MATCHED_TARGET_FINDINGS": {
+      "pages": 2,
+      "images": 1,
+      "words": 559
+    },
+    "CLASSIFIER_FINDINGS": {
+      "pages": 6,
+      "images": 5,
+      "words": 1498
+    },
+    "INTERPRETATION_FINDINGS": {
+      "pages": 2,
+      "images": 1,
+      "words": 465
+    },
+    "REPRODUCIBILITY": {
+      "pages": 2,
+      "images": 0,
+      "words": 548
+    },
+    "PRELIMINARY_ANALYSES": {
+      "pages": 2,
+      "images": 0,
+      "words": 413
+    }
+  }
+}

@@ -1,0 +1,12 @@
+# Input data and downloaded upstream repository remain local.
+df_damp_195625x57.tsv
+wet_lab_validated_amp_sources.xlsx
+scratchpad/DAMP/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+scratchpad/replay/venv/
+scratchpad/replay/saved_models/
+# Downloaded synthesis certificates remain cached locally; curation records
+# their public URL and SHA256 in analysis_review/outputs/.
+analysis_review/inputs/*.zip

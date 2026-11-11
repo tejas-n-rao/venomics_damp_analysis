@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-09",
+  "authorization": "User requested deletion of unused files and code condensation.",
+  "removed_files": [
+    {
+      "path": "scratchpad/build_analysis.py",
+      "sha256": "7354a39075f686ef24057ed1dece8d283491d8acac94c3d3a00b56e38f920d45",
+      "bytes": 18196,
+      "lines": 218,
+      "reason": "Obsolete notebook constructor; current notebook code and reviewed Markdown are the maintained source.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/extend_analysis.py",
+      "sha256": "4d433e51d7704c0ce59895198c6a1e7daff92640b9d745aa589f7ece96087425",
+      "bytes": 7385,
+      "lines": 86,
+      "reason": "One-time notebook append/rewrite utility; rerunning can duplicate or replace current content.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/finish_research.py",
+      "sha256": "22efe0c02855e97399c747113cb66c9386166161d4efaddd0ac7f5e21b54440c",
+      "bytes": 5249,
+      "lines": 31,
+      "reason": "One-time notebook append utility; completed code and outputs are retained in the notebook.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/write_high_low_results.py",
+      "sha256": "5b0d1e23e7f3050b25a9b4cb24d979a602a5aee57da9d361c9845bd8e2a8815c",
+      "bytes": 15553,
+      "lines": 122,
+      "reason": "Obsolete prose/notebook generator that would overwrite reviewed reports.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/append_mic_variability_section.py",
+      "sha256": "c78b9aec8adba6b3a08b2f810a44927d0322329232a3921c72818cea04fad924",
+      "bytes": 3323,
+      "lines": 58,
+      "reason": "One-time append-and-execute wrapper; the resulting notebook section and standalone analysis remain.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/tree_apex.json",
+      "sha256": "083af4886b4ff1c7d6596c95904254e9109111da38613a756dcaacb3f12b977b",
+      "bytes": 20215,
+      "lines": 493,
+      "reason": "Unreferenced one-off repository directory listing; pinned revisions and source snapshots are retained.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/tree_ampredictor.json",
+      "sha256": "c2f52611582a3d2771ddfee39648605c2a43484f47d317b415dc0e5733e7a58e",
+      "bytes": 9960,
+      "lines": 268,
+      "reason": "Unreferenced one-off repository directory listing; pinned revisions and source snapshots are retained.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/tree_deep-amp.json",
+      "sha256": "2d964dac2193245367be5d398358d1aec8ffd2a0615cd3ed269a6197e99ffa47",
+      "bytes": 26847,
+      "lines": 664,
+      "reason": "Unreferenced one-off repository directory listing; weight/source manifests are retained.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/tree_mbc-attention.json",
+      "sha256": "4e52711a5b04fd41d42925f69113e56c5ad1df9e7bc987b7b5249bafb19a87ba",
+      "bytes": 121521,
+      "lines": 2991,
+      "reason": "Unreferenced one-off repository directory listing; pinned revisions and source snapshots are retained.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/experimental_run.txt",
+      "sha256": "e70f45fd13ddd8f577fc37cea58877d145a83e9f5011f2431eb1aae0a7dec01f",
+      "bytes": 2255,
+      "lines": 21,
+      "reason": "Unreferenced disposable console capture; structured assay diagnostics and tables are retained.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/high_low_run.txt",
+      "sha256": "dff307ed19b80d91779a9a75f78f0b99017d970ce34686e3c6eece7b98973972",
+      "bytes": 5569,
+      "lines": 38,
+      "reason": "Unreferenced disposable console capture; numerical tables and audit interpretation are retained.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/low_agreement_run.txt",
+      "sha256": "7e5b63170b2219e576dec555b819a0b9b63cecd1676d371812944e7dc64b186a",
+      "bytes": 4650,
+      "lines": 44,
+      "reason": "Unreferenced disposable console capture; numerical tables and audit interpretation are retained.",
+      "active_references_after_documentation_update": []
+    },
+    {
+      "path": "scratchpad/replay_run.txt",
+      "sha256": "d127f3899cfe13a7a0aa40baa098c4c773426bf403a9d83cd8bec4259d87fb15",
+      "bytes": 680,
+      "lines": 10,
+      "reason": "Unreferenced disposable console capture; replay provenance, summary, and numerical outputs are retained.",
+      "active_references_after_documentation_update": []
+    }
+  ],
+  "removed_count": 13,
+  "removed_bytes": 241403,
+  "preserved": [
+    "Input data and experimental workbooks",
+    "All numerical tables and scientific manifests",
+    "All notebook code cells and saved outputs",
+    "Pinned model/source snapshots and cached replay assets",
+    "Archived reports and unique Colab reference probes"
+  ],
+  "code_changes": [
+    "Shared cached-table plotting in report_figures.py",
+    "Duplicate plot bodies removed from two analysis/plot scripts",
+    "One report catalogue and --all batch rendering"
+  ]
+}

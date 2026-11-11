@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-10",
+  "all_checks_passed": true,
+  "checks": {
+    "all_184_numerical_tables_byte_identical": true,
+    "both_notebooks_and_raw_TSV_byte_identical": true,
+    "all_24_reviewed_notebook_sections_mapped": true,
+    "current_markdown_links_and_anchors_resolve": true,
+    "all_12_reports_render_with_embedded_figures_and_valid_HTML_crosslinks": true,
+    "supplement_PDF_layouts_visually_reviewed": true
+  },
+  "reports": {
+    "FINAL_ANALYSIS": {
+      "pages": 11,
+      "words": 3411,
+      "embedded_images": 11
+    },
+    "TECHNICAL_OVERVIEW": {
+      "pages": 4,
+      "words": 1262,
+      "embedded_images": 1
+    },
+    "OVERVIEW": {
+      "pages": 3,
+      "words": 961,
+      "embedded_images": 0
+    },
+    "SEQUENCE_FINDINGS": {
+      "pages": 5,
+      "words": 1392,
+      "embedded_images": 3
+    },
+    "MIC_VARIABILITY": {
+      "pages": 3,
+      "words": 750,
+      "embedded_images": 2
+    },
+    "MODEL_COMPARISON": {
+      "pages": 4,
+      "words": 1105,
+      "embedded_images": 2
+    },
+    "VALIDATION_FINDINGS": {
+      "pages": 2,
+      "words": 590,
+      "embedded_images": 1
+    },
+    "ROBUSTNESS_FINDINGS": {
+      "pages": 3,
+      "words": 941,
+      "embedded_images": 1
+    },
+    "AGREEMENT_FINDINGS": {
+      "pages": 4,
+      "words": 1151,
+      "embedded_images": 2
+    },
+    "OUTPUT_PATTERNS": {
+      "pages": 4,
+      "words": 1292,
+      "embedded_images": 1
+    },
+    "EXPERIMENTAL_CURATION": {
+      "pages": 3,
+      "words": 1034,
+      "embedded_images": 0
+    },
+    "ANALYSIS_MAP": {
+      "pages": 4,
+      "words": 967,
+      "embedded_images": 0
+    }
+  }
+}

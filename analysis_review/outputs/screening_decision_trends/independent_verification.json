@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "All primary cutoff counts and intersections independently reproduced from numpy arrays": true,
+    "All ten matched-target decision tables independently reproduce at all six cutoffs": true,
+    "Classifier consensus independently reproduced without treating missing outputs as negative": true,
+    "All controlled pair compositions, source annotations and component IDs independently verified": true,
+    "Greedy sensitivity never reuses an observed component across retained pairs": true,
+    "All four primary order-response tables independently reproduced by explicit sequence lookup": true,
+    "Input TSV hash unchanged": true
+  },
+  "all_passed": true,
+  "scope": "Independent computational recomputation from the same raw data, not independent biological evidence."
+}

@@ -1,0 +1,13 @@
+rank_reference,raw_group,n,median_rank_spread
+global,low,9748,0.5707961651115432
+global,middle,175451,0.30202054917490395
+global,high,9748,0.5871390685673542
+within_source,low,9748,0.6122201227298136
+within_source,middle,175451,0.3419947714489424
+within_source,high,9748,0.5466681601350898
+within_source_exact_length,low,9748,0.488600079347439
+within_source_exact_length,middle,175451,0.36962025316455693
+within_source_exact_length,high,9748,0.564910916553895
+equal_source_weight_ECDF,low,9748,0.5425359729981156
+equal_source_weight_ECDF,middle,175451,0.29257669874623143
+equal_source_weight_ECDF,high,9748,0.5791919473974418

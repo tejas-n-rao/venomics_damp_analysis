@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-10",
+  "main_section_count": 6,
+  "ranking_location": "Section 1 table; companion subsection 3",
+  "restored_strain_context": "Section 2 with embedded plot",
+  "standalone_ranking_companion_removed": true,
+  "latest_user_main_wording_preserved": true,
+  "scientific_calculations_changed": false,
+  "removed_superseded_exports": [
+    {
+      "path": "reports/exports/04_matched_targets.html",
+      "sha256": "8a19f8b963c1a379938cb65ec646d933ac74ac299f8ff00b4eaa63771d43fd50"
+    },
+    {
+      "path": "reports/exports/03_concentration_rules.pdf",
+      "sha256": "0d28b1072dcb8b0acbf3fe6d129f9b89c4716c27373d1fcf05b1ba685657bee2"
+    },
+    {
+      "path": "reports/exports/05_classifier_sequences.pdf",
+      "sha256": "51aaff4a227d88dac506f8ead0a4c4bbb6d904b8d7d737e0f97f3cdf79d53e4c"
+    },
+    {
+      "path": "reports/exports/02_rank_agreement.html",
+      "sha256": "b19bf0c3943c5a70ff3c75e2c95c5685b8e130c26450e640c10e0f8afd98c3fa"
+    },
+    {
+      "path": "reports/exports/07_interpretation.pdf",
+      "sha256": "8ed210868559255dafeb8f2147f451d5c0c5f821c57ca19e3dac88ed74a33a14"
+    },
+    {
+      "path": "reports/exports/02_rank_agreement.pdf",
+      "sha256": "1dc3f2f84a9a09a96e9b650a5a1805e5599937eefe0041fb8287ba7aabe83622"
+    },
+    {
+      "path": "reports/exports/07_interpretation.html",
+      "sha256": "b7db479fe7a76151f46bcde38c716a39f01b0a6974e37930d74329798bd4249e"
+    },
+    {
+      "path": "reports/exports/06_sequence_responses.html",
+      "sha256": "57090607fa3e15394832f21cfa79685f22e0faba7cc475f79764a21047a0325c"
+    },
+    {
+      "path": "reports/exports/05_classifier_sequences.html",
+      "sha256": "7513b624d6d3db453bf7fa5c2ceaf638d288494b0d8a00769f38200433ed1353"
+    },
+    {
+      "path": "reports/exports/03_concentration_rules.html",
+      "sha256": "537db741415e2ad4163fc861020a17dac54afc9574bc44ce2ffcdd5a51b88806"
+    },
+    {
+      "path": "reports/exports/04_matched_targets.pdf",
+      "sha256": "f4d408900b4efc4329f73de50d717b5861bab037fcbc7a2806038363159b9470"
+    },
+    {
+      "path": "reports/exports/06_sequence_responses.pdf",
+      "sha256": "702b87355c9c14a97b55b94c13e67c0ae71e9fc1ff7c57a96ca316b34cef850e"
+    }
+  ],
+  "validation": {
+    "all_checks_passed": true,
+    "six_main_sections": true,
+    "rank_table_in_section_1": true,
+    "concise_companion_rank_subsection_number_3": true,
+    "strain_summary_and_inline_plot_in_section_2": true,
+    "latest_user_wording_preserved": true,
+    "source_links_and_anchors_valid": true,
+    "all_ten_export_pairs_and_crosslinks_valid": true,
+    "scientific_data_and_notebook_code_outputs_unchanged": true
+  }
+}

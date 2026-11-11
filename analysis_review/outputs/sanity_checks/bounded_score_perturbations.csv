@@ -1,0 +1,1251 @@
+kind,bound_log2,repeat,left,right,shared_fraction
+same_model_original_vs_perturbed,0.01,0,APEX 1.0,APEX 1.0,0.9964102564102564
+same_model_original_vs_perturbed,0.01,0,APEX 1.1,APEX 1.1,0.997948717948718
+same_model_original_vs_perturbed,0.01,0,MBC-Attention,MBC-Attention,0.9974358974358974
+same_model_original_vs_perturbed,0.01,0,AMPredictor,AMPredictor,0.9953846153846154
+two_perturbed_models,0.01,0,APEX 1.0,APEX 1.1,0.3861538461538462
+two_perturbed_models,0.01,0,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,0,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.01,0,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,0,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,0,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,1,APEX 1.0,APEX 1.0,0.9953846153846154
+same_model_original_vs_perturbed,0.01,1,APEX 1.1,APEX 1.1,0.9964102564102564
+same_model_original_vs_perturbed,0.01,1,MBC-Attention,MBC-Attention,0.9964102564102564
+same_model_original_vs_perturbed,0.01,1,AMPredictor,AMPredictor,0.9958974358974358
+two_perturbed_models,0.01,1,APEX 1.0,APEX 1.1,0.3851282051282051
+two_perturbed_models,0.01,1,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,1,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.01,1,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,1,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,1,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,2,APEX 1.0,APEX 1.0,0.9943589743589744
+same_model_original_vs_perturbed,0.01,2,APEX 1.1,APEX 1.1,0.9953846153846154
+same_model_original_vs_perturbed,0.01,2,MBC-Attention,MBC-Attention,0.9964102564102564
+same_model_original_vs_perturbed,0.01,2,AMPredictor,AMPredictor,0.9948717948717949
+two_perturbed_models,0.01,2,APEX 1.0,APEX 1.1,0.3861538461538462
+two_perturbed_models,0.01,2,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,2,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.01,2,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,2,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,2,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,3,APEX 1.0,APEX 1.0,0.9943589743589744
+same_model_original_vs_perturbed,0.01,3,APEX 1.1,APEX 1.1,0.9969230769230769
+same_model_original_vs_perturbed,0.01,3,MBC-Attention,MBC-Attention,0.9974358974358974
+same_model_original_vs_perturbed,0.01,3,AMPredictor,AMPredictor,0.9943589743589744
+two_perturbed_models,0.01,3,APEX 1.0,APEX 1.1,0.38769230769230767
+two_perturbed_models,0.01,3,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,3,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.01,3,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,3,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,3,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,4,APEX 1.0,APEX 1.0,0.9958974358974358
+same_model_original_vs_perturbed,0.01,4,APEX 1.1,APEX 1.1,0.9958974358974358
+same_model_original_vs_perturbed,0.01,4,MBC-Attention,MBC-Attention,0.9958974358974358
+same_model_original_vs_perturbed,0.01,4,AMPredictor,AMPredictor,0.9933333333333333
+two_perturbed_models,0.01,4,APEX 1.0,APEX 1.1,0.3851282051282051
+two_perturbed_models,0.01,4,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,4,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.01,4,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,4,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,4,MBC-Attention,AMPredictor,0.0558974358974359
+same_model_original_vs_perturbed,0.01,5,APEX 1.0,APEX 1.0,0.9943589743589744
+same_model_original_vs_perturbed,0.01,5,APEX 1.1,APEX 1.1,0.9964102564102564
+same_model_original_vs_perturbed,0.01,5,MBC-Attention,MBC-Attention,0.9964102564102564
+same_model_original_vs_perturbed,0.01,5,AMPredictor,AMPredictor,0.9948717948717949
+two_perturbed_models,0.01,5,APEX 1.0,APEX 1.1,0.38564102564102565
+two_perturbed_models,0.01,5,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,5,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,5,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.01,5,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,5,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,6,APEX 1.0,APEX 1.0,0.9943589743589744
+same_model_original_vs_perturbed,0.01,6,APEX 1.1,APEX 1.1,0.997948717948718
+same_model_original_vs_perturbed,0.01,6,MBC-Attention,MBC-Attention,0.9969230769230769
+same_model_original_vs_perturbed,0.01,6,AMPredictor,AMPredictor,0.9948717948717949
+two_perturbed_models,0.01,6,APEX 1.0,APEX 1.1,0.38564102564102565
+two_perturbed_models,0.01,6,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,6,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.01,6,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,6,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,6,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,7,APEX 1.0,APEX 1.0,0.9938461538461538
+same_model_original_vs_perturbed,0.01,7,APEX 1.1,APEX 1.1,0.9958974358974358
+same_model_original_vs_perturbed,0.01,7,MBC-Attention,MBC-Attention,0.9958974358974358
+same_model_original_vs_perturbed,0.01,7,AMPredictor,AMPredictor,0.9938461538461538
+two_perturbed_models,0.01,7,APEX 1.0,APEX 1.1,0.3861538461538462
+two_perturbed_models,0.01,7,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,7,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.01,7,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.01,7,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,7,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,8,APEX 1.0,APEX 1.0,0.9933333333333333
+same_model_original_vs_perturbed,0.01,8,APEX 1.1,APEX 1.1,0.9974358974358974
+same_model_original_vs_perturbed,0.01,8,MBC-Attention,MBC-Attention,0.9969230769230769
+same_model_original_vs_perturbed,0.01,8,AMPredictor,AMPredictor,0.9928205128205129
+two_perturbed_models,0.01,8,APEX 1.0,APEX 1.1,0.38461538461538464
+two_perturbed_models,0.01,8,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,8,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,8,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,8,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,8,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,9,APEX 1.0,APEX 1.0,0.9958974358974358
+same_model_original_vs_perturbed,0.01,9,APEX 1.1,APEX 1.1,0.9958974358974358
+same_model_original_vs_perturbed,0.01,9,MBC-Attention,MBC-Attention,0.9974358974358974
+same_model_original_vs_perturbed,0.01,9,AMPredictor,AMPredictor,0.9958974358974358
+two_perturbed_models,0.01,9,APEX 1.0,APEX 1.1,0.3851282051282051
+two_perturbed_models,0.01,9,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,9,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,9,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,9,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,9,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,10,APEX 1.0,APEX 1.0,0.9948717948717949
+same_model_original_vs_perturbed,0.01,10,APEX 1.1,APEX 1.1,0.9958974358974358
+same_model_original_vs_perturbed,0.01,10,MBC-Attention,MBC-Attention,0.9964102564102564
+same_model_original_vs_perturbed,0.01,10,AMPredictor,AMPredictor,0.9943589743589744
+two_perturbed_models,0.01,10,APEX 1.0,APEX 1.1,0.3851282051282051
+two_perturbed_models,0.01,10,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,10,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,10,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,10,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,10,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,11,APEX 1.0,APEX 1.0,0.9964102564102564
+same_model_original_vs_perturbed,0.01,11,APEX 1.1,APEX 1.1,0.9964102564102564
+same_model_original_vs_perturbed,0.01,11,MBC-Attention,MBC-Attention,0.9969230769230769
+same_model_original_vs_perturbed,0.01,11,AMPredictor,AMPredictor,0.9953846153846154
+two_perturbed_models,0.01,11,APEX 1.0,APEX 1.1,0.3871794871794872
+two_perturbed_models,0.01,11,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,11,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,11,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.01,11,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,11,MBC-Attention,AMPredictor,0.0558974358974359
+same_model_original_vs_perturbed,0.01,12,APEX 1.0,APEX 1.0,0.9943589743589744
+same_model_original_vs_perturbed,0.01,12,APEX 1.1,APEX 1.1,0.9964102564102564
+same_model_original_vs_perturbed,0.01,12,MBC-Attention,MBC-Attention,0.9964102564102564
+same_model_original_vs_perturbed,0.01,12,AMPredictor,AMPredictor,0.9969230769230769
+two_perturbed_models,0.01,12,APEX 1.0,APEX 1.1,0.38769230769230767
+two_perturbed_models,0.01,12,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,12,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,12,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,12,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,12,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,13,APEX 1.0,APEX 1.0,0.9953846153846154
+same_model_original_vs_perturbed,0.01,13,APEX 1.1,APEX 1.1,0.9958974358974358
+same_model_original_vs_perturbed,0.01,13,MBC-Attention,MBC-Attention,0.9974358974358974
+same_model_original_vs_perturbed,0.01,13,AMPredictor,AMPredictor,0.9958974358974358
+two_perturbed_models,0.01,13,APEX 1.0,APEX 1.1,0.38461538461538464
+two_perturbed_models,0.01,13,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,13,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,13,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,13,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,13,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,14,APEX 1.0,APEX 1.0,0.9948717948717949
+same_model_original_vs_perturbed,0.01,14,APEX 1.1,APEX 1.1,0.9969230769230769
+same_model_original_vs_perturbed,0.01,14,MBC-Attention,MBC-Attention,0.9969230769230769
+same_model_original_vs_perturbed,0.01,14,AMPredictor,AMPredictor,0.9933333333333333
+two_perturbed_models,0.01,14,APEX 1.0,APEX 1.1,0.3851282051282051
+two_perturbed_models,0.01,14,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,14,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,14,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,14,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,14,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,15,APEX 1.0,APEX 1.0,0.9953846153846154
+same_model_original_vs_perturbed,0.01,15,APEX 1.1,APEX 1.1,0.9948717948717949
+same_model_original_vs_perturbed,0.01,15,MBC-Attention,MBC-Attention,0.9953846153846154
+same_model_original_vs_perturbed,0.01,15,AMPredictor,AMPredictor,0.9958974358974358
+two_perturbed_models,0.01,15,APEX 1.0,APEX 1.1,0.3841025641025641
+two_perturbed_models,0.01,15,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,15,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.01,15,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,15,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,15,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,16,APEX 1.0,APEX 1.0,0.9938461538461538
+same_model_original_vs_perturbed,0.01,16,APEX 1.1,APEX 1.1,0.9989743589743589
+same_model_original_vs_perturbed,0.01,16,MBC-Attention,MBC-Attention,0.9974358974358974
+same_model_original_vs_perturbed,0.01,16,AMPredictor,AMPredictor,0.9943589743589744
+two_perturbed_models,0.01,16,APEX 1.0,APEX 1.1,0.38461538461538464
+two_perturbed_models,0.01,16,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,16,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,16,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,16,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,16,MBC-Attention,AMPredictor,0.0558974358974359
+same_model_original_vs_perturbed,0.01,17,APEX 1.0,APEX 1.0,0.9958974358974358
+same_model_original_vs_perturbed,0.01,17,APEX 1.1,APEX 1.1,0.9964102564102564
+same_model_original_vs_perturbed,0.01,17,MBC-Attention,MBC-Attention,0.9953846153846154
+same_model_original_vs_perturbed,0.01,17,AMPredictor,AMPredictor,0.9958974358974358
+two_perturbed_models,0.01,17,APEX 1.0,APEX 1.1,0.3841025641025641
+two_perturbed_models,0.01,17,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,17,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.01,17,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,17,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,17,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,18,APEX 1.0,APEX 1.0,0.9938461538461538
+same_model_original_vs_perturbed,0.01,18,APEX 1.1,APEX 1.1,0.9958974358974358
+same_model_original_vs_perturbed,0.01,18,MBC-Attention,MBC-Attention,0.9964102564102564
+same_model_original_vs_perturbed,0.01,18,AMPredictor,AMPredictor,0.9958974358974358
+two_perturbed_models,0.01,18,APEX 1.0,APEX 1.1,0.38564102564102565
+two_perturbed_models,0.01,18,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,18,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,18,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,18,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,18,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.01,19,APEX 1.0,APEX 1.0,0.9933333333333333
+same_model_original_vs_perturbed,0.01,19,APEX 1.1,APEX 1.1,0.9964102564102564
+same_model_original_vs_perturbed,0.01,19,MBC-Attention,MBC-Attention,0.9969230769230769
+same_model_original_vs_perturbed,0.01,19,AMPredictor,AMPredictor,0.9964102564102564
+two_perturbed_models,0.01,19,APEX 1.0,APEX 1.1,0.3861538461538462
+two_perturbed_models,0.01,19,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,19,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.01,19,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,19,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,19,MBC-Attention,AMPredictor,0.05435897435897436
+same_model_original_vs_perturbed,0.01,20,APEX 1.0,APEX 1.0,0.9943589743589744
+same_model_original_vs_perturbed,0.01,20,APEX 1.1,APEX 1.1,0.9958974358974358
+same_model_original_vs_perturbed,0.01,20,MBC-Attention,MBC-Attention,0.9969230769230769
+same_model_original_vs_perturbed,0.01,20,AMPredictor,AMPredictor,0.9953846153846154
+two_perturbed_models,0.01,20,APEX 1.0,APEX 1.1,0.38666666666666666
+two_perturbed_models,0.01,20,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,20,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.01,20,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.01,20,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,20,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,21,APEX 1.0,APEX 1.0,0.9948717948717949
+same_model_original_vs_perturbed,0.01,21,APEX 1.1,APEX 1.1,0.9969230769230769
+same_model_original_vs_perturbed,0.01,21,MBC-Attention,MBC-Attention,0.9969230769230769
+same_model_original_vs_perturbed,0.01,21,AMPredictor,AMPredictor,0.9938461538461538
+two_perturbed_models,0.01,21,APEX 1.0,APEX 1.1,0.38564102564102565
+two_perturbed_models,0.01,21,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,21,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.01,21,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.01,21,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,21,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,22,APEX 1.0,APEX 1.0,0.9958974358974358
+same_model_original_vs_perturbed,0.01,22,APEX 1.1,APEX 1.1,0.9943589743589744
+same_model_original_vs_perturbed,0.01,22,MBC-Attention,MBC-Attention,0.9969230769230769
+same_model_original_vs_perturbed,0.01,22,AMPredictor,AMPredictor,0.9948717948717949
+two_perturbed_models,0.01,22,APEX 1.0,APEX 1.1,0.38461538461538464
+two_perturbed_models,0.01,22,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,22,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.01,22,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.01,22,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.01,22,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,23,APEX 1.0,APEX 1.0,0.9938461538461538
+same_model_original_vs_perturbed,0.01,23,APEX 1.1,APEX 1.1,0.9964102564102564
+same_model_original_vs_perturbed,0.01,23,MBC-Attention,MBC-Attention,0.9958974358974358
+same_model_original_vs_perturbed,0.01,23,AMPredictor,AMPredictor,0.9938461538461538
+two_perturbed_models,0.01,23,APEX 1.0,APEX 1.1,0.3841025641025641
+two_perturbed_models,0.01,23,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,23,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.01,23,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,23,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,23,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.01,24,APEX 1.0,APEX 1.0,0.9943589743589744
+same_model_original_vs_perturbed,0.01,24,APEX 1.1,APEX 1.1,0.9958974358974358
+same_model_original_vs_perturbed,0.01,24,MBC-Attention,MBC-Attention,0.9958974358974358
+same_model_original_vs_perturbed,0.01,24,AMPredictor,AMPredictor,0.9953846153846154
+two_perturbed_models,0.01,24,APEX 1.0,APEX 1.1,0.38564102564102565
+two_perturbed_models,0.01,24,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.01,24,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.01,24,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.01,24,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.01,24,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.1,0,APEX 1.0,APEX 1.0,0.9461538461538461
+same_model_original_vs_perturbed,0.1,0,APEX 1.1,APEX 1.1,0.9594871794871795
+same_model_original_vs_perturbed,0.1,0,MBC-Attention,MBC-Attention,0.9666666666666667
+same_model_original_vs_perturbed,0.1,0,AMPredictor,AMPredictor,0.9497435897435897
+two_perturbed_models,0.1,0,APEX 1.0,APEX 1.1,0.38256410256410256
+two_perturbed_models,0.1,0,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.1,0,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.1,0,APEX 1.1,MBC-Attention,0.022564102564102566
+two_perturbed_models,0.1,0,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,0,MBC-Attention,AMPredictor,0.05846153846153846
+same_model_original_vs_perturbed,0.1,1,APEX 1.0,APEX 1.0,0.9451282051282052
+same_model_original_vs_perturbed,0.1,1,APEX 1.1,APEX 1.1,0.961025641025641
+same_model_original_vs_perturbed,0.1,1,MBC-Attention,MBC-Attention,0.9625641025641025
+same_model_original_vs_perturbed,0.1,1,AMPredictor,AMPredictor,0.9528205128205128
+two_perturbed_models,0.1,1,APEX 1.0,APEX 1.1,0.382051282051282
+two_perturbed_models,0.1,1,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.1,1,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.1,1,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.1,1,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,1,MBC-Attention,AMPredictor,0.05641025641025641
+same_model_original_vs_perturbed,0.1,2,APEX 1.0,APEX 1.0,0.9441025641025641
+same_model_original_vs_perturbed,0.1,2,APEX 1.1,APEX 1.1,0.963076923076923
+same_model_original_vs_perturbed,0.1,2,MBC-Attention,MBC-Attention,0.9635897435897436
+same_model_original_vs_perturbed,0.1,2,AMPredictor,AMPredictor,0.9482051282051283
+two_perturbed_models,0.1,2,APEX 1.0,APEX 1.1,0.38256410256410256
+two_perturbed_models,0.1,2,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.1,2,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,0.1,2,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.1,2,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,2,MBC-Attention,AMPredictor,0.05692307692307692
+same_model_original_vs_perturbed,0.1,3,APEX 1.0,APEX 1.0,0.9461538461538461
+same_model_original_vs_perturbed,0.1,3,APEX 1.1,APEX 1.1,0.9625641025641025
+same_model_original_vs_perturbed,0.1,3,MBC-Attention,MBC-Attention,0.9651282051282051
+same_model_original_vs_perturbed,0.1,3,AMPredictor,AMPredictor,0.9543589743589743
+two_perturbed_models,0.1,3,APEX 1.0,APEX 1.1,0.3871794871794872
+two_perturbed_models,0.1,3,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,3,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,0.1,3,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.1,3,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,3,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.1,4,APEX 1.0,APEX 1.0,0.9420512820512821
+same_model_original_vs_perturbed,0.1,4,APEX 1.1,APEX 1.1,0.9620512820512821
+same_model_original_vs_perturbed,0.1,4,MBC-Attention,MBC-Attention,0.9605128205128205
+same_model_original_vs_perturbed,0.1,4,AMPredictor,AMPredictor,0.9517948717948718
+two_perturbed_models,0.1,4,APEX 1.0,APEX 1.1,0.3892307692307692
+two_perturbed_models,0.1,4,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.1,4,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.1,4,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,4,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,0.1,4,MBC-Attention,AMPredictor,0.0558974358974359
+same_model_original_vs_perturbed,0.1,5,APEX 1.0,APEX 1.0,0.9512820512820512
+same_model_original_vs_perturbed,0.1,5,APEX 1.1,APEX 1.1,0.9635897435897436
+same_model_original_vs_perturbed,0.1,5,MBC-Attention,MBC-Attention,0.9625641025641025
+same_model_original_vs_perturbed,0.1,5,AMPredictor,AMPredictor,0.9564102564102565
+two_perturbed_models,0.1,5,APEX 1.0,APEX 1.1,0.378974358974359
+two_perturbed_models,0.1,5,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,5,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,0.1,5,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.1,5,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,5,MBC-Attention,AMPredictor,0.05333333333333334
+same_model_original_vs_perturbed,0.1,6,APEX 1.0,APEX 1.0,0.9492307692307692
+same_model_original_vs_perturbed,0.1,6,APEX 1.1,APEX 1.1,0.9661538461538461
+same_model_original_vs_perturbed,0.1,6,MBC-Attention,MBC-Attention,0.9676923076923077
+same_model_original_vs_perturbed,0.1,6,AMPredictor,AMPredictor,0.9471794871794872
+two_perturbed_models,0.1,6,APEX 1.0,APEX 1.1,0.3841025641025641
+two_perturbed_models,0.1,6,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,6,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.1,6,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.1,6,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.1,6,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.1,7,APEX 1.0,APEX 1.0,0.9466666666666667
+same_model_original_vs_perturbed,0.1,7,APEX 1.1,APEX 1.1,0.9635897435897436
+same_model_original_vs_perturbed,0.1,7,MBC-Attention,MBC-Attention,0.963076923076923
+same_model_original_vs_perturbed,0.1,7,AMPredictor,AMPredictor,0.9502564102564103
+two_perturbed_models,0.1,7,APEX 1.0,APEX 1.1,0.3861538461538462
+two_perturbed_models,0.1,7,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,7,APEX 1.0,AMPredictor,0.020512820512820513
+two_perturbed_models,0.1,7,APEX 1.1,MBC-Attention,0.023076923076923078
+two_perturbed_models,0.1,7,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,7,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.1,8,APEX 1.0,APEX 1.0,0.94
+same_model_original_vs_perturbed,0.1,8,APEX 1.1,APEX 1.1,0.9625641025641025
+same_model_original_vs_perturbed,0.1,8,MBC-Attention,MBC-Attention,0.9641025641025641
+same_model_original_vs_perturbed,0.1,8,AMPredictor,AMPredictor,0.9497435897435897
+two_perturbed_models,0.1,8,APEX 1.0,APEX 1.1,0.38256410256410256
+two_perturbed_models,0.1,8,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,8,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,0.1,8,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.1,8,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,8,MBC-Attention,AMPredictor,0.05333333333333334
+same_model_original_vs_perturbed,0.1,9,APEX 1.0,APEX 1.0,0.9466666666666667
+same_model_original_vs_perturbed,0.1,9,APEX 1.1,APEX 1.1,0.9615384615384616
+same_model_original_vs_perturbed,0.1,9,MBC-Attention,MBC-Attention,0.9635897435897436
+same_model_original_vs_perturbed,0.1,9,AMPredictor,AMPredictor,0.9492307692307692
+two_perturbed_models,0.1,9,APEX 1.0,APEX 1.1,0.37846153846153846
+two_perturbed_models,0.1,9,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,9,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.1,9,APEX 1.1,MBC-Attention,0.018974358974358976
+two_perturbed_models,0.1,9,APEX 1.1,AMPredictor,0.019487179487179488
+two_perturbed_models,0.1,9,MBC-Attention,AMPredictor,0.05846153846153846
+same_model_original_vs_perturbed,0.1,10,APEX 1.0,APEX 1.0,0.9512820512820512
+same_model_original_vs_perturbed,0.1,10,APEX 1.1,APEX 1.1,0.9641025641025641
+same_model_original_vs_perturbed,0.1,10,MBC-Attention,MBC-Attention,0.9594871794871795
+same_model_original_vs_perturbed,0.1,10,AMPredictor,AMPredictor,0.9507692307692308
+two_perturbed_models,0.1,10,APEX 1.0,APEX 1.1,0.38256410256410256
+two_perturbed_models,0.1,10,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,10,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.1,10,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,10,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,10,MBC-Attention,AMPredictor,0.052307692307692305
+same_model_original_vs_perturbed,0.1,11,APEX 1.0,APEX 1.0,0.9461538461538461
+same_model_original_vs_perturbed,0.1,11,APEX 1.1,APEX 1.1,0.9646153846153847
+same_model_original_vs_perturbed,0.1,11,MBC-Attention,MBC-Attention,0.9635897435897436
+same_model_original_vs_perturbed,0.1,11,AMPredictor,AMPredictor,0.9482051282051283
+two_perturbed_models,0.1,11,APEX 1.0,APEX 1.1,0.37948717948717947
+two_perturbed_models,0.1,11,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.1,11,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.1,11,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,11,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,11,MBC-Attention,AMPredictor,0.05641025641025641
+same_model_original_vs_perturbed,0.1,12,APEX 1.0,APEX 1.0,0.9502564102564103
+same_model_original_vs_perturbed,0.1,12,APEX 1.1,APEX 1.1,0.9615384615384616
+same_model_original_vs_perturbed,0.1,12,MBC-Attention,MBC-Attention,0.9671794871794872
+same_model_original_vs_perturbed,0.1,12,AMPredictor,AMPredictor,0.9512820512820512
+two_perturbed_models,0.1,12,APEX 1.0,APEX 1.1,0.3841025641025641
+two_perturbed_models,0.1,12,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,12,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.1,12,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,12,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,12,MBC-Attention,AMPredictor,0.05692307692307692
+same_model_original_vs_perturbed,0.1,13,APEX 1.0,APEX 1.0,0.9441025641025641
+same_model_original_vs_perturbed,0.1,13,APEX 1.1,APEX 1.1,0.9646153846153847
+same_model_original_vs_perturbed,0.1,13,MBC-Attention,MBC-Attention,0.9625641025641025
+same_model_original_vs_perturbed,0.1,13,AMPredictor,AMPredictor,0.9492307692307692
+two_perturbed_models,0.1,13,APEX 1.0,APEX 1.1,0.3830769230769231
+two_perturbed_models,0.1,13,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.1,13,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,0.1,13,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.1,13,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,13,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.1,14,APEX 1.0,APEX 1.0,0.9441025641025641
+same_model_original_vs_perturbed,0.1,14,APEX 1.1,APEX 1.1,0.96
+same_model_original_vs_perturbed,0.1,14,MBC-Attention,MBC-Attention,0.961025641025641
+same_model_original_vs_perturbed,0.1,14,AMPredictor,AMPredictor,0.9476923076923077
+two_perturbed_models,0.1,14,APEX 1.0,APEX 1.1,0.3882051282051282
+two_perturbed_models,0.1,14,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.1,14,APEX 1.0,AMPredictor,0.02
+two_perturbed_models,0.1,14,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,14,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.1,14,MBC-Attention,AMPredictor,0.057435897435897436
+same_model_original_vs_perturbed,0.1,15,APEX 1.0,APEX 1.0,0.9461538461538461
+same_model_original_vs_perturbed,0.1,15,APEX 1.1,APEX 1.1,0.963076923076923
+same_model_original_vs_perturbed,0.1,15,MBC-Attention,MBC-Attention,0.963076923076923
+same_model_original_vs_perturbed,0.1,15,AMPredictor,AMPredictor,0.9492307692307692
+two_perturbed_models,0.1,15,APEX 1.0,APEX 1.1,0.381025641025641
+two_perturbed_models,0.1,15,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.1,15,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.1,15,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,15,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,15,MBC-Attention,AMPredictor,0.0558974358974359
+same_model_original_vs_perturbed,0.1,16,APEX 1.0,APEX 1.0,0.9456410256410256
+same_model_original_vs_perturbed,0.1,16,APEX 1.1,APEX 1.1,0.9620512820512821
+same_model_original_vs_perturbed,0.1,16,MBC-Attention,MBC-Attention,0.9671794871794872
+same_model_original_vs_perturbed,0.1,16,AMPredictor,AMPredictor,0.943076923076923
+two_perturbed_models,0.1,16,APEX 1.0,APEX 1.1,0.38358974358974357
+two_perturbed_models,0.1,16,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.1,16,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,0.1,16,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,16,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,16,MBC-Attention,AMPredictor,0.05435897435897436
+same_model_original_vs_perturbed,0.1,17,APEX 1.0,APEX 1.0,0.9461538461538461
+same_model_original_vs_perturbed,0.1,17,APEX 1.1,APEX 1.1,0.9569230769230769
+same_model_original_vs_perturbed,0.1,17,MBC-Attention,MBC-Attention,0.9671794871794872
+same_model_original_vs_perturbed,0.1,17,AMPredictor,AMPredictor,0.9523076923076923
+two_perturbed_models,0.1,17,APEX 1.0,APEX 1.1,0.382051282051282
+two_perturbed_models,0.1,17,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.1,17,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.1,17,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,17,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,17,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.1,18,APEX 1.0,APEX 1.0,0.9446153846153846
+same_model_original_vs_perturbed,0.1,18,APEX 1.1,APEX 1.1,0.9625641025641025
+same_model_original_vs_perturbed,0.1,18,MBC-Attention,MBC-Attention,0.9625641025641025
+same_model_original_vs_perturbed,0.1,18,AMPredictor,AMPredictor,0.9523076923076923
+two_perturbed_models,0.1,18,APEX 1.0,APEX 1.1,0.3851282051282051
+two_perturbed_models,0.1,18,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.1,18,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.1,18,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,18,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,18,MBC-Attention,AMPredictor,0.05846153846153846
+same_model_original_vs_perturbed,0.1,19,APEX 1.0,APEX 1.0,0.9456410256410256
+same_model_original_vs_perturbed,0.1,19,APEX 1.1,APEX 1.1,0.9666666666666667
+same_model_original_vs_perturbed,0.1,19,MBC-Attention,MBC-Attention,0.9661538461538461
+same_model_original_vs_perturbed,0.1,19,AMPredictor,AMPredictor,0.9471794871794872
+two_perturbed_models,0.1,19,APEX 1.0,APEX 1.1,0.38564102564102565
+two_perturbed_models,0.1,19,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.1,19,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.1,19,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.1,19,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,19,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.1,20,APEX 1.0,APEX 1.0,0.9446153846153846
+same_model_original_vs_perturbed,0.1,20,APEX 1.1,APEX 1.1,0.9594871794871795
+same_model_original_vs_perturbed,0.1,20,MBC-Attention,MBC-Attention,0.9676923076923077
+same_model_original_vs_perturbed,0.1,20,AMPredictor,AMPredictor,0.9466666666666667
+two_perturbed_models,0.1,20,APEX 1.0,APEX 1.1,0.3892307692307692
+two_perturbed_models,0.1,20,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.1,20,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.1,20,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.1,20,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,20,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.1,21,APEX 1.0,APEX 1.0,0.9466666666666667
+same_model_original_vs_perturbed,0.1,21,APEX 1.1,APEX 1.1,0.9661538461538461
+same_model_original_vs_perturbed,0.1,21,MBC-Attention,MBC-Attention,0.9605128205128205
+same_model_original_vs_perturbed,0.1,21,AMPredictor,AMPredictor,0.9461538461538461
+two_perturbed_models,0.1,21,APEX 1.0,APEX 1.1,0.38256410256410256
+two_perturbed_models,0.1,21,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,21,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.1,21,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.1,21,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,21,MBC-Attention,AMPredictor,0.05692307692307692
+same_model_original_vs_perturbed,0.1,22,APEX 1.0,APEX 1.0,0.9466666666666667
+same_model_original_vs_perturbed,0.1,22,APEX 1.1,APEX 1.1,0.9584615384615385
+same_model_original_vs_perturbed,0.1,22,MBC-Attention,MBC-Attention,0.9682051282051282
+same_model_original_vs_perturbed,0.1,22,AMPredictor,AMPredictor,0.9543589743589743
+two_perturbed_models,0.1,22,APEX 1.0,APEX 1.1,0.3779487179487179
+two_perturbed_models,0.1,22,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.1,22,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.1,22,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.1,22,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.1,22,MBC-Attention,AMPredictor,0.057435897435897436
+same_model_original_vs_perturbed,0.1,23,APEX 1.0,APEX 1.0,0.9415384615384615
+same_model_original_vs_perturbed,0.1,23,APEX 1.1,APEX 1.1,0.9635897435897436
+same_model_original_vs_perturbed,0.1,23,MBC-Attention,MBC-Attention,0.9687179487179487
+same_model_original_vs_perturbed,0.1,23,AMPredictor,AMPredictor,0.9502564102564103
+two_perturbed_models,0.1,23,APEX 1.0,APEX 1.1,0.37948717948717947
+two_perturbed_models,0.1,23,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.1,23,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.1,23,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.1,23,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.1,23,MBC-Attention,AMPredictor,0.05794871794871795
+same_model_original_vs_perturbed,0.1,24,APEX 1.0,APEX 1.0,0.9482051282051283
+same_model_original_vs_perturbed,0.1,24,APEX 1.1,APEX 1.1,0.9620512820512821
+same_model_original_vs_perturbed,0.1,24,MBC-Attention,MBC-Attention,0.96
+same_model_original_vs_perturbed,0.1,24,AMPredictor,AMPredictor,0.9497435897435897
+two_perturbed_models,0.1,24,APEX 1.0,APEX 1.1,0.38564102564102565
+two_perturbed_models,0.1,24,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.1,24,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.1,24,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.1,24,APEX 1.1,AMPredictor,0.015897435897435898
+two_perturbed_models,0.1,24,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.25,0,APEX 1.0,APEX 1.0,0.8728205128205129
+same_model_original_vs_perturbed,0.25,0,APEX 1.1,APEX 1.1,0.9061538461538462
+same_model_original_vs_perturbed,0.25,0,MBC-Attention,MBC-Attention,0.9102564102564102
+same_model_original_vs_perturbed,0.25,0,AMPredictor,AMPredictor,0.8758974358974358
+two_perturbed_models,0.25,0,APEX 1.0,APEX 1.1,0.3779487179487179
+two_perturbed_models,0.25,0,APEX 1.0,MBC-Attention,0.011794871794871795
+two_perturbed_models,0.25,0,APEX 1.0,AMPredictor,0.024102564102564103
+two_perturbed_models,0.25,0,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.25,0,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.25,0,MBC-Attention,AMPredictor,0.05692307692307692
+same_model_original_vs_perturbed,0.25,1,APEX 1.0,APEX 1.0,0.8712820512820513
+same_model_original_vs_perturbed,0.25,1,APEX 1.1,APEX 1.1,0.9092307692307692
+same_model_original_vs_perturbed,0.25,1,MBC-Attention,MBC-Attention,0.902051282051282
+same_model_original_vs_perturbed,0.25,1,AMPredictor,AMPredictor,0.8707692307692307
+two_perturbed_models,0.25,1,APEX 1.0,APEX 1.1,0.3635897435897436
+two_perturbed_models,0.25,1,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.25,1,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,0.25,1,APEX 1.1,MBC-Attention,0.018974358974358976
+two_perturbed_models,0.25,1,APEX 1.1,AMPredictor,0.015897435897435898
+two_perturbed_models,0.25,1,MBC-Attention,AMPredictor,0.05333333333333334
+same_model_original_vs_perturbed,0.25,2,APEX 1.0,APEX 1.0,0.861025641025641
+same_model_original_vs_perturbed,0.25,2,APEX 1.1,APEX 1.1,0.9138461538461539
+same_model_original_vs_perturbed,0.25,2,MBC-Attention,MBC-Attention,0.9092307692307692
+same_model_original_vs_perturbed,0.25,2,AMPredictor,AMPredictor,0.8753846153846154
+two_perturbed_models,0.25,2,APEX 1.0,APEX 1.1,0.37948717948717947
+two_perturbed_models,0.25,2,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.25,2,APEX 1.0,AMPredictor,0.020512820512820513
+two_perturbed_models,0.25,2,APEX 1.1,MBC-Attention,0.02
+two_perturbed_models,0.25,2,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.25,2,MBC-Attention,AMPredictor,0.05282051282051282
+same_model_original_vs_perturbed,0.25,3,APEX 1.0,APEX 1.0,0.8569230769230769
+same_model_original_vs_perturbed,0.25,3,APEX 1.1,APEX 1.1,0.9005128205128206
+same_model_original_vs_perturbed,0.25,3,MBC-Attention,MBC-Attention,0.9092307692307692
+same_model_original_vs_perturbed,0.25,3,AMPredictor,AMPredictor,0.8717948717948718
+two_perturbed_models,0.25,3,APEX 1.0,APEX 1.1,0.37948717948717947
+two_perturbed_models,0.25,3,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.25,3,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.25,3,APEX 1.1,MBC-Attention,0.019487179487179488
+two_perturbed_models,0.25,3,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,0.25,3,MBC-Attention,AMPredictor,0.05692307692307692
+same_model_original_vs_perturbed,0.25,4,APEX 1.0,APEX 1.0,0.86
+same_model_original_vs_perturbed,0.25,4,APEX 1.1,APEX 1.1,0.9092307692307692
+same_model_original_vs_perturbed,0.25,4,MBC-Attention,MBC-Attention,0.9117948717948718
+same_model_original_vs_perturbed,0.25,4,AMPredictor,AMPredictor,0.8738461538461538
+two_perturbed_models,0.25,4,APEX 1.0,APEX 1.1,0.3758974358974359
+two_perturbed_models,0.25,4,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.25,4,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.25,4,APEX 1.1,MBC-Attention,0.018461538461538463
+two_perturbed_models,0.25,4,APEX 1.1,AMPredictor,0.019487179487179488
+two_perturbed_models,0.25,4,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.25,5,APEX 1.0,APEX 1.0,0.8656410256410256
+same_model_original_vs_perturbed,0.25,5,APEX 1.1,APEX 1.1,0.9102564102564102
+same_model_original_vs_perturbed,0.25,5,MBC-Attention,MBC-Attention,0.9082051282051282
+same_model_original_vs_perturbed,0.25,5,AMPredictor,AMPredictor,0.8733333333333333
+two_perturbed_models,0.25,5,APEX 1.0,APEX 1.1,0.37538461538461537
+two_perturbed_models,0.25,5,APEX 1.0,MBC-Attention,0.013333333333333334
+two_perturbed_models,0.25,5,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.25,5,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.25,5,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.25,5,MBC-Attention,AMPredictor,0.05435897435897436
+same_model_original_vs_perturbed,0.25,6,APEX 1.0,APEX 1.0,0.8661538461538462
+same_model_original_vs_perturbed,0.25,6,APEX 1.1,APEX 1.1,0.9056410256410257
+same_model_original_vs_perturbed,0.25,6,MBC-Attention,MBC-Attention,0.9143589743589744
+same_model_original_vs_perturbed,0.25,6,AMPredictor,AMPredictor,0.8707692307692307
+two_perturbed_models,0.25,6,APEX 1.0,APEX 1.1,0.38256410256410256
+two_perturbed_models,0.25,6,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.25,6,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.25,6,APEX 1.1,MBC-Attention,0.017948717948717947
+two_perturbed_models,0.25,6,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.25,6,MBC-Attention,AMPredictor,0.050256410256410255
+same_model_original_vs_perturbed,0.25,7,APEX 1.0,APEX 1.0,0.861025641025641
+same_model_original_vs_perturbed,0.25,7,APEX 1.1,APEX 1.1,0.9056410256410257
+same_model_original_vs_perturbed,0.25,7,MBC-Attention,MBC-Attention,0.9123076923076923
+same_model_original_vs_perturbed,0.25,7,AMPredictor,AMPredictor,0.8748717948717949
+two_perturbed_models,0.25,7,APEX 1.0,APEX 1.1,0.3682051282051282
+two_perturbed_models,0.25,7,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.25,7,APEX 1.0,AMPredictor,0.02
+two_perturbed_models,0.25,7,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.25,7,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.25,7,MBC-Attention,AMPredictor,0.05641025641025641
+same_model_original_vs_perturbed,0.25,8,APEX 1.0,APEX 1.0,0.8615384615384616
+same_model_original_vs_perturbed,0.25,8,APEX 1.1,APEX 1.1,0.9107692307692308
+same_model_original_vs_perturbed,0.25,8,MBC-Attention,MBC-Attention,0.9061538461538462
+same_model_original_vs_perturbed,0.25,8,AMPredictor,AMPredictor,0.8702564102564102
+two_perturbed_models,0.25,8,APEX 1.0,APEX 1.1,0.3717948717948718
+two_perturbed_models,0.25,8,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.25,8,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.25,8,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.25,8,APEX 1.1,AMPredictor,0.019487179487179488
+two_perturbed_models,0.25,8,MBC-Attention,AMPredictor,0.0558974358974359
+same_model_original_vs_perturbed,0.25,9,APEX 1.0,APEX 1.0,0.862051282051282
+same_model_original_vs_perturbed,0.25,9,APEX 1.1,APEX 1.1,0.9030769230769231
+same_model_original_vs_perturbed,0.25,9,MBC-Attention,MBC-Attention,0.9133333333333333
+same_model_original_vs_perturbed,0.25,9,AMPredictor,AMPredictor,0.8641025641025641
+two_perturbed_models,0.25,9,APEX 1.0,APEX 1.1,0.37948717948717947
+two_perturbed_models,0.25,9,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.25,9,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.25,9,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.25,9,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,0.25,9,MBC-Attention,AMPredictor,0.05282051282051282
+same_model_original_vs_perturbed,0.25,10,APEX 1.0,APEX 1.0,0.8615384615384616
+same_model_original_vs_perturbed,0.25,10,APEX 1.1,APEX 1.1,0.9051282051282051
+same_model_original_vs_perturbed,0.25,10,MBC-Attention,MBC-Attention,0.9107692307692308
+same_model_original_vs_perturbed,0.25,10,AMPredictor,AMPredictor,0.8764102564102564
+two_perturbed_models,0.25,10,APEX 1.0,APEX 1.1,0.3676923076923077
+two_perturbed_models,0.25,10,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.25,10,APEX 1.0,AMPredictor,0.018461538461538463
+two_perturbed_models,0.25,10,APEX 1.1,MBC-Attention,0.023076923076923078
+two_perturbed_models,0.25,10,APEX 1.1,AMPredictor,0.019487179487179488
+two_perturbed_models,0.25,10,MBC-Attention,AMPredictor,0.05435897435897436
+same_model_original_vs_perturbed,0.25,11,APEX 1.0,APEX 1.0,0.8646153846153846
+same_model_original_vs_perturbed,0.25,11,APEX 1.1,APEX 1.1,0.9097435897435897
+same_model_original_vs_perturbed,0.25,11,MBC-Attention,MBC-Attention,0.9092307692307692
+same_model_original_vs_perturbed,0.25,11,AMPredictor,AMPredictor,0.8748717948717949
+two_perturbed_models,0.25,11,APEX 1.0,APEX 1.1,0.3748717948717949
+two_perturbed_models,0.25,11,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.25,11,APEX 1.0,AMPredictor,0.024102564102564103
+two_perturbed_models,0.25,11,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.25,11,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.25,11,MBC-Attention,AMPredictor,0.05384615384615385
+same_model_original_vs_perturbed,0.25,12,APEX 1.0,APEX 1.0,0.8743589743589744
+same_model_original_vs_perturbed,0.25,12,APEX 1.1,APEX 1.1,0.9138461538461539
+same_model_original_vs_perturbed,0.25,12,MBC-Attention,MBC-Attention,0.9112820512820513
+same_model_original_vs_perturbed,0.25,12,AMPredictor,AMPredictor,0.8723076923076923
+two_perturbed_models,0.25,12,APEX 1.0,APEX 1.1,0.37538461538461537
+two_perturbed_models,0.25,12,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.25,12,APEX 1.0,AMPredictor,0.020512820512820513
+two_perturbed_models,0.25,12,APEX 1.1,MBC-Attention,0.02358974358974359
+two_perturbed_models,0.25,12,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.25,12,MBC-Attention,AMPredictor,0.05384615384615385
+same_model_original_vs_perturbed,0.25,13,APEX 1.0,APEX 1.0,0.8671794871794872
+same_model_original_vs_perturbed,0.25,13,APEX 1.1,APEX 1.1,0.9087179487179488
+same_model_original_vs_perturbed,0.25,13,MBC-Attention,MBC-Attention,0.9025641025641026
+same_model_original_vs_perturbed,0.25,13,AMPredictor,AMPredictor,0.8815384615384615
+two_perturbed_models,0.25,13,APEX 1.0,APEX 1.1,0.3712820512820513
+two_perturbed_models,0.25,13,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.25,13,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,0.25,13,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.25,13,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.25,13,MBC-Attention,AMPredictor,0.05128205128205128
+same_model_original_vs_perturbed,0.25,14,APEX 1.0,APEX 1.0,0.8738461538461538
+same_model_original_vs_perturbed,0.25,14,APEX 1.1,APEX 1.1,0.9158974358974359
+same_model_original_vs_perturbed,0.25,14,MBC-Attention,MBC-Attention,0.9076923076923077
+same_model_original_vs_perturbed,0.25,14,AMPredictor,AMPredictor,0.8748717948717949
+two_perturbed_models,0.25,14,APEX 1.0,APEX 1.1,0.38256410256410256
+two_perturbed_models,0.25,14,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.25,14,APEX 1.0,AMPredictor,0.02
+two_perturbed_models,0.25,14,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.25,14,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.25,14,MBC-Attention,AMPredictor,0.052307692307692305
+same_model_original_vs_perturbed,0.25,15,APEX 1.0,APEX 1.0,0.8589743589743589
+same_model_original_vs_perturbed,0.25,15,APEX 1.1,APEX 1.1,0.9071794871794872
+same_model_original_vs_perturbed,0.25,15,MBC-Attention,MBC-Attention,0.9051282051282051
+same_model_original_vs_perturbed,0.25,15,AMPredictor,AMPredictor,0.8682051282051282
+two_perturbed_models,0.25,15,APEX 1.0,APEX 1.1,0.37846153846153846
+two_perturbed_models,0.25,15,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.25,15,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.25,15,APEX 1.1,MBC-Attention,0.019487179487179488
+two_perturbed_models,0.25,15,APEX 1.1,AMPredictor,0.015384615384615385
+two_perturbed_models,0.25,15,MBC-Attention,AMPredictor,0.05794871794871795
+same_model_original_vs_perturbed,0.25,16,APEX 1.0,APEX 1.0,0.8661538461538462
+same_model_original_vs_perturbed,0.25,16,APEX 1.1,APEX 1.1,0.9112820512820513
+same_model_original_vs_perturbed,0.25,16,MBC-Attention,MBC-Attention,0.9087179487179488
+same_model_original_vs_perturbed,0.25,16,AMPredictor,AMPredictor,0.8835897435897436
+two_perturbed_models,0.25,16,APEX 1.0,APEX 1.1,0.37948717948717947
+two_perturbed_models,0.25,16,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.25,16,APEX 1.0,AMPredictor,0.020512820512820513
+two_perturbed_models,0.25,16,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,0.25,16,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.25,16,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.25,17,APEX 1.0,APEX 1.0,0.8687179487179487
+same_model_original_vs_perturbed,0.25,17,APEX 1.1,APEX 1.1,0.9097435897435897
+same_model_original_vs_perturbed,0.25,17,MBC-Attention,MBC-Attention,0.9061538461538462
+same_model_original_vs_perturbed,0.25,17,AMPredictor,AMPredictor,0.8815384615384615
+two_perturbed_models,0.25,17,APEX 1.0,APEX 1.1,0.38358974358974357
+two_perturbed_models,0.25,17,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.25,17,APEX 1.0,AMPredictor,0.02358974358974359
+two_perturbed_models,0.25,17,APEX 1.1,MBC-Attention,0.018974358974358976
+two_perturbed_models,0.25,17,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,0.25,17,MBC-Attention,AMPredictor,0.057435897435897436
+same_model_original_vs_perturbed,0.25,18,APEX 1.0,APEX 1.0,0.862051282051282
+same_model_original_vs_perturbed,0.25,18,APEX 1.1,APEX 1.1,0.9041025641025641
+same_model_original_vs_perturbed,0.25,18,MBC-Attention,MBC-Attention,0.9117948717948718
+same_model_original_vs_perturbed,0.25,18,AMPredictor,AMPredictor,0.8687179487179487
+two_perturbed_models,0.25,18,APEX 1.0,APEX 1.1,0.36923076923076925
+two_perturbed_models,0.25,18,APEX 1.0,MBC-Attention,0.008205128205128205
+two_perturbed_models,0.25,18,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.25,18,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.25,18,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.25,18,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.25,19,APEX 1.0,APEX 1.0,0.8651282051282051
+same_model_original_vs_perturbed,0.25,19,APEX 1.1,APEX 1.1,0.9117948717948718
+same_model_original_vs_perturbed,0.25,19,MBC-Attention,MBC-Attention,0.9092307692307692
+same_model_original_vs_perturbed,0.25,19,AMPredictor,AMPredictor,0.8733333333333333
+two_perturbed_models,0.25,19,APEX 1.0,APEX 1.1,0.37948717948717947
+two_perturbed_models,0.25,19,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.25,19,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.25,19,APEX 1.1,MBC-Attention,0.019487179487179488
+two_perturbed_models,0.25,19,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.25,19,MBC-Attention,AMPredictor,0.05641025641025641
+same_model_original_vs_perturbed,0.25,20,APEX 1.0,APEX 1.0,0.8758974358974358
+same_model_original_vs_perturbed,0.25,20,APEX 1.1,APEX 1.1,0.9097435897435897
+same_model_original_vs_perturbed,0.25,20,MBC-Attention,MBC-Attention,0.9117948717948718
+same_model_original_vs_perturbed,0.25,20,AMPredictor,AMPredictor,0.8712820512820513
+two_perturbed_models,0.25,20,APEX 1.0,APEX 1.1,0.3758974358974359
+two_perturbed_models,0.25,20,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.25,20,APEX 1.0,AMPredictor,0.020512820512820513
+two_perturbed_models,0.25,20,APEX 1.1,MBC-Attention,0.02
+two_perturbed_models,0.25,20,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.25,20,MBC-Attention,AMPredictor,0.05282051282051282
+same_model_original_vs_perturbed,0.25,21,APEX 1.0,APEX 1.0,0.8574358974358974
+same_model_original_vs_perturbed,0.25,21,APEX 1.1,APEX 1.1,0.9061538461538462
+same_model_original_vs_perturbed,0.25,21,MBC-Attention,MBC-Attention,0.9128205128205128
+same_model_original_vs_perturbed,0.25,21,AMPredictor,AMPredictor,0.8661538461538462
+two_perturbed_models,0.25,21,APEX 1.0,APEX 1.1,0.3728205128205128
+two_perturbed_models,0.25,21,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.25,21,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.25,21,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.25,21,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.25,21,MBC-Attention,AMPredictor,0.05846153846153846
+same_model_original_vs_perturbed,0.25,22,APEX 1.0,APEX 1.0,0.8630769230769231
+same_model_original_vs_perturbed,0.25,22,APEX 1.1,APEX 1.1,0.9092307692307692
+same_model_original_vs_perturbed,0.25,22,MBC-Attention,MBC-Attention,0.9082051282051282
+same_model_original_vs_perturbed,0.25,22,AMPredictor,AMPredictor,0.882051282051282
+two_perturbed_models,0.25,22,APEX 1.0,APEX 1.1,0.37333333333333335
+two_perturbed_models,0.25,22,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.25,22,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.25,22,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.25,22,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.25,22,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.25,23,APEX 1.0,APEX 1.0,0.8625641025641025
+same_model_original_vs_perturbed,0.25,23,APEX 1.1,APEX 1.1,0.9041025641025641
+same_model_original_vs_perturbed,0.25,23,MBC-Attention,MBC-Attention,0.9117948717948718
+same_model_original_vs_perturbed,0.25,23,AMPredictor,AMPredictor,0.8769230769230769
+two_perturbed_models,0.25,23,APEX 1.0,APEX 1.1,0.37025641025641026
+two_perturbed_models,0.25,23,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.25,23,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,0.25,23,APEX 1.1,MBC-Attention,0.024102564102564103
+two_perturbed_models,0.25,23,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.25,23,MBC-Attention,AMPredictor,0.05641025641025641
+same_model_original_vs_perturbed,0.25,24,APEX 1.0,APEX 1.0,0.8656410256410256
+same_model_original_vs_perturbed,0.25,24,APEX 1.1,APEX 1.1,0.9066666666666666
+same_model_original_vs_perturbed,0.25,24,MBC-Attention,MBC-Attention,0.9092307692307692
+same_model_original_vs_perturbed,0.25,24,AMPredictor,AMPredictor,0.8712820512820513
+two_perturbed_models,0.25,24,APEX 1.0,APEX 1.1,0.38
+two_perturbed_models,0.25,24,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.25,24,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.25,24,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.25,24,APEX 1.1,AMPredictor,0.020512820512820513
+two_perturbed_models,0.25,24,MBC-Attention,AMPredictor,0.05282051282051282
+same_model_original_vs_perturbed,0.5,0,APEX 1.0,APEX 1.0,0.7369230769230769
+same_model_original_vs_perturbed,0.5,0,APEX 1.1,APEX 1.1,0.8241025641025641
+same_model_original_vs_perturbed,0.5,0,MBC-Attention,MBC-Attention,0.8271794871794872
+same_model_original_vs_perturbed,0.5,0,AMPredictor,AMPredictor,0.7610256410256411
+two_perturbed_models,0.5,0,APEX 1.0,APEX 1.1,0.3435897435897436
+two_perturbed_models,0.5,0,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.5,0,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,0.5,0,APEX 1.1,MBC-Attention,0.025128205128205128
+two_perturbed_models,0.5,0,APEX 1.1,AMPredictor,0.021538461538461538
+two_perturbed_models,0.5,0,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.5,1,APEX 1.0,APEX 1.0,0.7384615384615385
+same_model_original_vs_perturbed,0.5,1,APEX 1.1,APEX 1.1,0.8194871794871795
+same_model_original_vs_perturbed,0.5,1,MBC-Attention,MBC-Attention,0.8256410256410256
+same_model_original_vs_perturbed,0.5,1,AMPredictor,AMPredictor,0.7743589743589744
+two_perturbed_models,0.5,1,APEX 1.0,APEX 1.1,0.3476923076923077
+two_perturbed_models,0.5,1,APEX 1.0,MBC-Attention,0.007692307692307693
+two_perturbed_models,0.5,1,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,0.5,1,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.5,1,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,0.5,1,MBC-Attention,AMPredictor,0.04974358974358974
+same_model_original_vs_perturbed,0.5,2,APEX 1.0,APEX 1.0,0.7471794871794872
+same_model_original_vs_perturbed,0.5,2,APEX 1.1,APEX 1.1,0.8205128205128205
+same_model_original_vs_perturbed,0.5,2,MBC-Attention,MBC-Attention,0.8256410256410256
+same_model_original_vs_perturbed,0.5,2,AMPredictor,AMPredictor,0.7682051282051282
+two_perturbed_models,0.5,2,APEX 1.0,APEX 1.1,0.3394871794871795
+two_perturbed_models,0.5,2,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.5,2,APEX 1.0,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,2,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.5,2,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.5,2,MBC-Attention,AMPredictor,0.05128205128205128
+same_model_original_vs_perturbed,0.5,3,APEX 1.0,APEX 1.0,0.7430769230769231
+same_model_original_vs_perturbed,0.5,3,APEX 1.1,APEX 1.1,0.8215384615384616
+same_model_original_vs_perturbed,0.5,3,MBC-Attention,MBC-Attention,0.8179487179487179
+same_model_original_vs_perturbed,0.5,3,AMPredictor,AMPredictor,0.7507692307692307
+two_perturbed_models,0.5,3,APEX 1.0,APEX 1.1,0.35333333333333333
+two_perturbed_models,0.5,3,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.5,3,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,0.5,3,APEX 1.1,MBC-Attention,0.019487179487179488
+two_perturbed_models,0.5,3,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.5,3,MBC-Attention,AMPredictor,0.05128205128205128
+same_model_original_vs_perturbed,0.5,4,APEX 1.0,APEX 1.0,0.7389743589743589
+same_model_original_vs_perturbed,0.5,4,APEX 1.1,APEX 1.1,0.8184615384615385
+same_model_original_vs_perturbed,0.5,4,MBC-Attention,MBC-Attention,0.818974358974359
+same_model_original_vs_perturbed,0.5,4,AMPredictor,AMPredictor,0.7605128205128205
+two_perturbed_models,0.5,4,APEX 1.0,APEX 1.1,0.3323076923076923
+two_perturbed_models,0.5,4,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.5,4,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.5,4,APEX 1.1,MBC-Attention,0.022564102564102566
+two_perturbed_models,0.5,4,APEX 1.1,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,4,MBC-Attention,AMPredictor,0.05897435897435897
+same_model_original_vs_perturbed,0.5,5,APEX 1.0,APEX 1.0,0.7389743589743589
+same_model_original_vs_perturbed,0.5,5,APEX 1.1,APEX 1.1,0.8235897435897436
+same_model_original_vs_perturbed,0.5,5,MBC-Attention,MBC-Attention,0.8435897435897436
+same_model_original_vs_perturbed,0.5,5,AMPredictor,AMPredictor,0.7512820512820513
+two_perturbed_models,0.5,5,APEX 1.0,APEX 1.1,0.34717948717948716
+two_perturbed_models,0.5,5,APEX 1.0,MBC-Attention,0.007692307692307693
+two_perturbed_models,0.5,5,APEX 1.0,AMPredictor,0.020512820512820513
+two_perturbed_models,0.5,5,APEX 1.1,MBC-Attention,0.021025641025641025
+two_perturbed_models,0.5,5,APEX 1.1,AMPredictor,0.021025641025641025
+two_perturbed_models,0.5,5,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.5,6,APEX 1.0,APEX 1.0,0.7492307692307693
+same_model_original_vs_perturbed,0.5,6,APEX 1.1,APEX 1.1,0.8133333333333334
+same_model_original_vs_perturbed,0.5,6,MBC-Attention,MBC-Attention,0.8338461538461538
+same_model_original_vs_perturbed,0.5,6,AMPredictor,AMPredictor,0.7697435897435897
+two_perturbed_models,0.5,6,APEX 1.0,APEX 1.1,0.33589743589743587
+two_perturbed_models,0.5,6,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.5,6,APEX 1.0,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,6,APEX 1.1,MBC-Attention,0.02358974358974359
+two_perturbed_models,0.5,6,APEX 1.1,AMPredictor,0.014871794871794871
+two_perturbed_models,0.5,6,MBC-Attention,AMPredictor,0.05128205128205128
+same_model_original_vs_perturbed,0.5,7,APEX 1.0,APEX 1.0,0.7343589743589743
+same_model_original_vs_perturbed,0.5,7,APEX 1.1,APEX 1.1,0.821025641025641
+same_model_original_vs_perturbed,0.5,7,MBC-Attention,MBC-Attention,0.8323076923076923
+same_model_original_vs_perturbed,0.5,7,AMPredictor,AMPredictor,0.764102564102564
+two_perturbed_models,0.5,7,APEX 1.0,APEX 1.1,0.34512820512820513
+two_perturbed_models,0.5,7,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.5,7,APEX 1.0,AMPredictor,0.020512820512820513
+two_perturbed_models,0.5,7,APEX 1.1,MBC-Attention,0.024615384615384615
+two_perturbed_models,0.5,7,APEX 1.1,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,7,MBC-Attention,AMPredictor,0.05128205128205128
+same_model_original_vs_perturbed,0.5,8,APEX 1.0,APEX 1.0,0.7517948717948718
+same_model_original_vs_perturbed,0.5,8,APEX 1.1,APEX 1.1,0.8297435897435897
+same_model_original_vs_perturbed,0.5,8,MBC-Attention,MBC-Attention,0.8251282051282052
+same_model_original_vs_perturbed,0.5,8,AMPredictor,AMPredictor,0.7666666666666667
+two_perturbed_models,0.5,8,APEX 1.0,APEX 1.1,0.3523076923076923
+two_perturbed_models,0.5,8,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.5,8,APEX 1.0,AMPredictor,0.02
+two_perturbed_models,0.5,8,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.5,8,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.5,8,MBC-Attention,AMPredictor,0.05435897435897436
+same_model_original_vs_perturbed,0.5,9,APEX 1.0,APEX 1.0,0.7487179487179487
+same_model_original_vs_perturbed,0.5,9,APEX 1.1,APEX 1.1,0.8148717948717948
+same_model_original_vs_perturbed,0.5,9,MBC-Attention,MBC-Attention,0.8287179487179487
+same_model_original_vs_perturbed,0.5,9,AMPredictor,AMPredictor,0.7630769230769231
+two_perturbed_models,0.5,9,APEX 1.0,APEX 1.1,0.3476923076923077
+two_perturbed_models,0.5,9,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.5,9,APEX 1.0,AMPredictor,0.024615384615384615
+two_perturbed_models,0.5,9,APEX 1.1,MBC-Attention,0.02
+two_perturbed_models,0.5,9,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,0.5,9,MBC-Attention,AMPredictor,0.054871794871794874
+same_model_original_vs_perturbed,0.5,10,APEX 1.0,APEX 1.0,0.7353846153846154
+same_model_original_vs_perturbed,0.5,10,APEX 1.1,APEX 1.1,0.8148717948717948
+same_model_original_vs_perturbed,0.5,10,MBC-Attention,MBC-Attention,0.8215384615384616
+same_model_original_vs_perturbed,0.5,10,AMPredictor,AMPredictor,0.7625641025641026
+two_perturbed_models,0.5,10,APEX 1.0,APEX 1.1,0.3435897435897436
+two_perturbed_models,0.5,10,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.5,10,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,0.5,10,APEX 1.1,MBC-Attention,0.018974358974358976
+two_perturbed_models,0.5,10,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.5,10,MBC-Attention,AMPredictor,0.052307692307692305
+same_model_original_vs_perturbed,0.5,11,APEX 1.0,APEX 1.0,0.7405128205128205
+same_model_original_vs_perturbed,0.5,11,APEX 1.1,APEX 1.1,0.8143589743589743
+same_model_original_vs_perturbed,0.5,11,MBC-Attention,MBC-Attention,0.8241025641025641
+same_model_original_vs_perturbed,0.5,11,AMPredictor,AMPredictor,0.7471794871794872
+two_perturbed_models,0.5,11,APEX 1.0,APEX 1.1,0.34307692307692306
+two_perturbed_models,0.5,11,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.5,11,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,0.5,11,APEX 1.1,MBC-Attention,0.018461538461538463
+two_perturbed_models,0.5,11,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.5,11,MBC-Attention,AMPredictor,0.05076923076923077
+same_model_original_vs_perturbed,0.5,12,APEX 1.0,APEX 1.0,0.7348717948717949
+same_model_original_vs_perturbed,0.5,12,APEX 1.1,APEX 1.1,0.8302564102564103
+same_model_original_vs_perturbed,0.5,12,MBC-Attention,MBC-Attention,0.8328205128205128
+same_model_original_vs_perturbed,0.5,12,AMPredictor,AMPredictor,0.7610256410256411
+two_perturbed_models,0.5,12,APEX 1.0,APEX 1.1,0.3384615384615385
+two_perturbed_models,0.5,12,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.5,12,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.5,12,APEX 1.1,MBC-Attention,0.022564102564102566
+two_perturbed_models,0.5,12,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.5,12,MBC-Attention,AMPredictor,0.055384615384615386
+same_model_original_vs_perturbed,0.5,13,APEX 1.0,APEX 1.0,0.74
+same_model_original_vs_perturbed,0.5,13,APEX 1.1,APEX 1.1,0.8082051282051282
+same_model_original_vs_perturbed,0.5,13,MBC-Attention,MBC-Attention,0.8302564102564103
+same_model_original_vs_perturbed,0.5,13,AMPredictor,AMPredictor,0.7543589743589744
+two_perturbed_models,0.5,13,APEX 1.0,APEX 1.1,0.34512820512820513
+two_perturbed_models,0.5,13,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,0.5,13,APEX 1.0,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,13,APEX 1.1,MBC-Attention,0.022564102564102566
+two_perturbed_models,0.5,13,APEX 1.1,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,13,MBC-Attention,AMPredictor,0.05128205128205128
+same_model_original_vs_perturbed,0.5,14,APEX 1.0,APEX 1.0,0.7384615384615385
+same_model_original_vs_perturbed,0.5,14,APEX 1.1,APEX 1.1,0.8128205128205128
+same_model_original_vs_perturbed,0.5,14,MBC-Attention,MBC-Attention,0.8338461538461538
+same_model_original_vs_perturbed,0.5,14,AMPredictor,AMPredictor,0.7574358974358975
+two_perturbed_models,0.5,14,APEX 1.0,APEX 1.1,0.34717948717948716
+two_perturbed_models,0.5,14,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.5,14,APEX 1.0,AMPredictor,0.017948717948717947
+two_perturbed_models,0.5,14,APEX 1.1,MBC-Attention,0.02
+two_perturbed_models,0.5,14,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.5,14,MBC-Attention,AMPredictor,0.05384615384615385
+same_model_original_vs_perturbed,0.5,15,APEX 1.0,APEX 1.0,0.7471794871794872
+same_model_original_vs_perturbed,0.5,15,APEX 1.1,APEX 1.1,0.8194871794871795
+same_model_original_vs_perturbed,0.5,15,MBC-Attention,MBC-Attention,0.8364102564102565
+same_model_original_vs_perturbed,0.5,15,AMPredictor,AMPredictor,0.764102564102564
+two_perturbed_models,0.5,15,APEX 1.0,APEX 1.1,0.33794871794871795
+two_perturbed_models,0.5,15,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.5,15,APEX 1.0,AMPredictor,0.018974358974358976
+two_perturbed_models,0.5,15,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,0.5,15,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.5,15,MBC-Attention,AMPredictor,0.05692307692307692
+same_model_original_vs_perturbed,0.5,16,APEX 1.0,APEX 1.0,0.7389743589743589
+same_model_original_vs_perturbed,0.5,16,APEX 1.1,APEX 1.1,0.8071794871794872
+same_model_original_vs_perturbed,0.5,16,MBC-Attention,MBC-Attention,0.8317948717948718
+same_model_original_vs_perturbed,0.5,16,AMPredictor,AMPredictor,0.7661538461538462
+two_perturbed_models,0.5,16,APEX 1.0,APEX 1.1,0.34717948717948716
+two_perturbed_models,0.5,16,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,0.5,16,APEX 1.0,AMPredictor,0.02
+two_perturbed_models,0.5,16,APEX 1.1,MBC-Attention,0.024615384615384615
+two_perturbed_models,0.5,16,APEX 1.1,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,16,MBC-Attention,AMPredictor,0.05435897435897436
+same_model_original_vs_perturbed,0.5,17,APEX 1.0,APEX 1.0,0.7138461538461538
+same_model_original_vs_perturbed,0.5,17,APEX 1.1,APEX 1.1,0.8148717948717948
+same_model_original_vs_perturbed,0.5,17,MBC-Attention,MBC-Attention,0.8287179487179487
+same_model_original_vs_perturbed,0.5,17,AMPredictor,AMPredictor,0.7553846153846154
+two_perturbed_models,0.5,17,APEX 1.0,APEX 1.1,0.34615384615384615
+two_perturbed_models,0.5,17,APEX 1.0,MBC-Attention,0.006666666666666667
+two_perturbed_models,0.5,17,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,0.5,17,APEX 1.1,MBC-Attention,0.016923076923076923
+two_perturbed_models,0.5,17,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,0.5,17,MBC-Attention,AMPredictor,0.05435897435897436
+same_model_original_vs_perturbed,0.5,18,APEX 1.0,APEX 1.0,0.7251282051282051
+same_model_original_vs_perturbed,0.5,18,APEX 1.1,APEX 1.1,0.8107692307692308
+same_model_original_vs_perturbed,0.5,18,MBC-Attention,MBC-Attention,0.8338461538461538
+same_model_original_vs_perturbed,0.5,18,AMPredictor,AMPredictor,0.7692307692307693
+two_perturbed_models,0.5,18,APEX 1.0,APEX 1.1,0.34205128205128205
+two_perturbed_models,0.5,18,APEX 1.0,MBC-Attention,0.012307692307692308
+two_perturbed_models,0.5,18,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.5,18,APEX 1.1,MBC-Attention,0.018974358974358976
+two_perturbed_models,0.5,18,APEX 1.1,AMPredictor,0.015384615384615385
+two_perturbed_models,0.5,18,MBC-Attention,AMPredictor,0.057435897435897436
+same_model_original_vs_perturbed,0.5,19,APEX 1.0,APEX 1.0,0.7430769230769231
+same_model_original_vs_perturbed,0.5,19,APEX 1.1,APEX 1.1,0.8153846153846154
+same_model_original_vs_perturbed,0.5,19,MBC-Attention,MBC-Attention,0.8287179487179487
+same_model_original_vs_perturbed,0.5,19,AMPredictor,AMPredictor,0.7594871794871795
+two_perturbed_models,0.5,19,APEX 1.0,APEX 1.1,0.35846153846153844
+two_perturbed_models,0.5,19,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,0.5,19,APEX 1.0,AMPredictor,0.02205128205128205
+two_perturbed_models,0.5,19,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,0.5,19,APEX 1.1,AMPredictor,0.017435897435897435
+two_perturbed_models,0.5,19,MBC-Attention,AMPredictor,0.05076923076923077
+same_model_original_vs_perturbed,0.5,20,APEX 1.0,APEX 1.0,0.7323076923076923
+same_model_original_vs_perturbed,0.5,20,APEX 1.1,APEX 1.1,0.8266666666666667
+same_model_original_vs_perturbed,0.5,20,MBC-Attention,MBC-Attention,0.8246153846153846
+same_model_original_vs_perturbed,0.5,20,AMPredictor,AMPredictor,0.7671794871794871
+two_perturbed_models,0.5,20,APEX 1.0,APEX 1.1,0.3353846153846154
+two_perturbed_models,0.5,20,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.5,20,APEX 1.0,AMPredictor,0.020512820512820513
+two_perturbed_models,0.5,20,APEX 1.1,MBC-Attention,0.015384615384615385
+two_perturbed_models,0.5,20,APEX 1.1,AMPredictor,0.015897435897435898
+two_perturbed_models,0.5,20,MBC-Attention,AMPredictor,0.04871794871794872
+same_model_original_vs_perturbed,0.5,21,APEX 1.0,APEX 1.0,0.7323076923076923
+same_model_original_vs_perturbed,0.5,21,APEX 1.1,APEX 1.1,0.8128205128205128
+same_model_original_vs_perturbed,0.5,21,MBC-Attention,MBC-Attention,0.8194871794871795
+same_model_original_vs_perturbed,0.5,21,AMPredictor,AMPredictor,0.7625641025641026
+two_perturbed_models,0.5,21,APEX 1.0,APEX 1.1,0.33897435897435896
+two_perturbed_models,0.5,21,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.5,21,APEX 1.0,AMPredictor,0.023076923076923078
+two_perturbed_models,0.5,21,APEX 1.1,MBC-Attention,0.019487179487179488
+two_perturbed_models,0.5,21,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.5,21,MBC-Attention,AMPredictor,0.04974358974358974
+same_model_original_vs_perturbed,0.5,22,APEX 1.0,APEX 1.0,0.7441025641025641
+same_model_original_vs_perturbed,0.5,22,APEX 1.1,APEX 1.1,0.8148717948717948
+same_model_original_vs_perturbed,0.5,22,MBC-Attention,MBC-Attention,0.8317948717948718
+same_model_original_vs_perturbed,0.5,22,AMPredictor,AMPredictor,0.7610256410256411
+two_perturbed_models,0.5,22,APEX 1.0,APEX 1.1,0.3425641025641026
+two_perturbed_models,0.5,22,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,0.5,22,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,0.5,22,APEX 1.1,MBC-Attention,0.019487179487179488
+two_perturbed_models,0.5,22,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,0.5,22,MBC-Attention,AMPredictor,0.05333333333333334
+same_model_original_vs_perturbed,0.5,23,APEX 1.0,APEX 1.0,0.7456410256410256
+same_model_original_vs_perturbed,0.5,23,APEX 1.1,APEX 1.1,0.8225641025641026
+same_model_original_vs_perturbed,0.5,23,MBC-Attention,MBC-Attention,0.823076923076923
+same_model_original_vs_perturbed,0.5,23,AMPredictor,AMPredictor,0.7553846153846154
+two_perturbed_models,0.5,23,APEX 1.0,APEX 1.1,0.33589743589743587
+two_perturbed_models,0.5,23,APEX 1.0,MBC-Attention,0.007692307692307693
+two_perturbed_models,0.5,23,APEX 1.0,AMPredictor,0.022564102564102566
+two_perturbed_models,0.5,23,APEX 1.1,MBC-Attention,0.024102564102564103
+two_perturbed_models,0.5,23,APEX 1.1,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,23,MBC-Attention,AMPredictor,0.045641025641025644
+same_model_original_vs_perturbed,0.5,24,APEX 1.0,APEX 1.0,0.742051282051282
+same_model_original_vs_perturbed,0.5,24,APEX 1.1,APEX 1.1,0.8143589743589743
+same_model_original_vs_perturbed,0.5,24,MBC-Attention,MBC-Attention,0.8256410256410256
+same_model_original_vs_perturbed,0.5,24,AMPredictor,AMPredictor,0.7558974358974359
+two_perturbed_models,0.5,24,APEX 1.0,APEX 1.1,0.34
+two_perturbed_models,0.5,24,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,0.5,24,APEX 1.0,AMPredictor,0.021538461538461538
+two_perturbed_models,0.5,24,APEX 1.1,MBC-Attention,0.024615384615384615
+two_perturbed_models,0.5,24,APEX 1.1,AMPredictor,0.018461538461538463
+two_perturbed_models,0.5,24,MBC-Attention,AMPredictor,0.0558974358974359
+same_model_original_vs_perturbed,1.0,0,APEX 1.0,APEX 1.0,0.5282051282051282
+same_model_original_vs_perturbed,1.0,0,APEX 1.1,APEX 1.1,0.6584615384615384
+same_model_original_vs_perturbed,1.0,0,MBC-Attention,MBC-Attention,0.638974358974359
+same_model_original_vs_perturbed,1.0,0,AMPredictor,AMPredictor,0.5723076923076923
+two_perturbed_models,1.0,0,APEX 1.0,APEX 1.1,0.2630769230769231
+two_perturbed_models,1.0,0,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,1.0,0,APEX 1.0,AMPredictor,0.014358974358974359
+two_perturbed_models,1.0,0,APEX 1.1,MBC-Attention,0.017948717948717947
+two_perturbed_models,1.0,0,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,1.0,0,MBC-Attention,AMPredictor,0.047692307692307694
+same_model_original_vs_perturbed,1.0,1,APEX 1.0,APEX 1.0,0.563076923076923
+same_model_original_vs_perturbed,1.0,1,APEX 1.1,APEX 1.1,0.6466666666666666
+same_model_original_vs_perturbed,1.0,1,MBC-Attention,MBC-Attention,0.6579487179487179
+same_model_original_vs_perturbed,1.0,1,AMPredictor,AMPredictor,0.5923076923076923
+two_perturbed_models,1.0,1,APEX 1.0,APEX 1.1,0.2594871794871795
+two_perturbed_models,1.0,1,APEX 1.0,MBC-Attention,0.008205128205128205
+two_perturbed_models,1.0,1,APEX 1.0,AMPredictor,0.016923076923076923
+two_perturbed_models,1.0,1,APEX 1.1,MBC-Attention,0.023076923076923078
+two_perturbed_models,1.0,1,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,1.0,1,MBC-Attention,AMPredictor,0.04923076923076923
+same_model_original_vs_perturbed,1.0,2,APEX 1.0,APEX 1.0,0.5548717948717948
+same_model_original_vs_perturbed,1.0,2,APEX 1.1,APEX 1.1,0.6712820512820513
+same_model_original_vs_perturbed,1.0,2,MBC-Attention,MBC-Attention,0.66
+same_model_original_vs_perturbed,1.0,2,AMPredictor,AMPredictor,0.583076923076923
+two_perturbed_models,1.0,2,APEX 1.0,APEX 1.1,0.261025641025641
+two_perturbed_models,1.0,2,APEX 1.0,MBC-Attention,0.006666666666666667
+two_perturbed_models,1.0,2,APEX 1.0,AMPredictor,0.01641025641025641
+two_perturbed_models,1.0,2,APEX 1.1,MBC-Attention,0.018461538461538463
+two_perturbed_models,1.0,2,APEX 1.1,AMPredictor,0.015897435897435898
+two_perturbed_models,1.0,2,MBC-Attention,AMPredictor,0.04923076923076923
+same_model_original_vs_perturbed,1.0,3,APEX 1.0,APEX 1.0,0.5558974358974359
+same_model_original_vs_perturbed,1.0,3,APEX 1.1,APEX 1.1,0.6605128205128206
+same_model_original_vs_perturbed,1.0,3,MBC-Attention,MBC-Attention,0.6651282051282051
+same_model_original_vs_perturbed,1.0,3,AMPredictor,AMPredictor,0.5815384615384616
+two_perturbed_models,1.0,3,APEX 1.0,APEX 1.1,0.26205128205128203
+two_perturbed_models,1.0,3,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,1.0,3,APEX 1.0,AMPredictor,0.017948717948717947
+two_perturbed_models,1.0,3,APEX 1.1,MBC-Attention,0.02205128205128205
+two_perturbed_models,1.0,3,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,1.0,3,MBC-Attention,AMPredictor,0.05128205128205128
+same_model_original_vs_perturbed,1.0,4,APEX 1.0,APEX 1.0,0.5594871794871795
+same_model_original_vs_perturbed,1.0,4,APEX 1.1,APEX 1.1,0.6835897435897436
+same_model_original_vs_perturbed,1.0,4,MBC-Attention,MBC-Attention,0.662051282051282
+same_model_original_vs_perturbed,1.0,4,AMPredictor,AMPredictor,0.5738461538461539
+two_perturbed_models,1.0,4,APEX 1.0,APEX 1.1,0.27487179487179486
+two_perturbed_models,1.0,4,APEX 1.0,MBC-Attention,0.008717948717948718
+two_perturbed_models,1.0,4,APEX 1.0,AMPredictor,0.017948717948717947
+two_perturbed_models,1.0,4,APEX 1.1,MBC-Attention,0.017948717948717947
+two_perturbed_models,1.0,4,APEX 1.1,AMPredictor,0.017948717948717947
+two_perturbed_models,1.0,4,MBC-Attention,AMPredictor,0.04666666666666667
+same_model_original_vs_perturbed,1.0,5,APEX 1.0,APEX 1.0,0.5374358974358975
+same_model_original_vs_perturbed,1.0,5,APEX 1.1,APEX 1.1,0.6574358974358975
+same_model_original_vs_perturbed,1.0,5,MBC-Attention,MBC-Attention,0.661025641025641
+same_model_original_vs_perturbed,1.0,5,AMPredictor,AMPredictor,0.581025641025641
+two_perturbed_models,1.0,5,APEX 1.0,APEX 1.1,0.25794871794871793
+two_perturbed_models,1.0,5,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,1.0,5,APEX 1.0,AMPredictor,0.014871794871794871
+two_perturbed_models,1.0,5,APEX 1.1,MBC-Attention,0.02358974358974359
+two_perturbed_models,1.0,5,APEX 1.1,AMPredictor,0.014358974358974359
+two_perturbed_models,1.0,5,MBC-Attention,AMPredictor,0.050256410256410255
+same_model_original_vs_perturbed,1.0,6,APEX 1.0,APEX 1.0,0.5353846153846153
+same_model_original_vs_perturbed,1.0,6,APEX 1.1,APEX 1.1,0.6625641025641026
+same_model_original_vs_perturbed,1.0,6,MBC-Attention,MBC-Attention,0.6569230769230769
+same_model_original_vs_perturbed,1.0,6,AMPredictor,AMPredictor,0.5743589743589743
+two_perturbed_models,1.0,6,APEX 1.0,APEX 1.1,0.258974358974359
+two_perturbed_models,1.0,6,APEX 1.0,MBC-Attention,0.0071794871794871795
+two_perturbed_models,1.0,6,APEX 1.0,AMPredictor,0.013333333333333334
+two_perturbed_models,1.0,6,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,1.0,6,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,1.0,6,MBC-Attention,AMPredictor,0.04717948717948718
+same_model_original_vs_perturbed,1.0,7,APEX 1.0,APEX 1.0,0.5482051282051282
+same_model_original_vs_perturbed,1.0,7,APEX 1.1,APEX 1.1,0.6753846153846154
+same_model_original_vs_perturbed,1.0,7,MBC-Attention,MBC-Attention,0.6671794871794872
+same_model_original_vs_perturbed,1.0,7,AMPredictor,AMPredictor,0.5758974358974359
+two_perturbed_models,1.0,7,APEX 1.0,APEX 1.1,0.27025641025641023
+two_perturbed_models,1.0,7,APEX 1.0,MBC-Attention,0.013846153846153847
+two_perturbed_models,1.0,7,APEX 1.0,AMPredictor,0.017948717948717947
+two_perturbed_models,1.0,7,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,1.0,7,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,1.0,7,MBC-Attention,AMPredictor,0.052307692307692305
+same_model_original_vs_perturbed,1.0,8,APEX 1.0,APEX 1.0,0.5441025641025641
+same_model_original_vs_perturbed,1.0,8,APEX 1.1,APEX 1.1,0.6774358974358974
+same_model_original_vs_perturbed,1.0,8,MBC-Attention,MBC-Attention,0.6682051282051282
+same_model_original_vs_perturbed,1.0,8,AMPredictor,AMPredictor,0.5748717948717949
+two_perturbed_models,1.0,8,APEX 1.0,APEX 1.1,0.2630769230769231
+two_perturbed_models,1.0,8,APEX 1.0,MBC-Attention,0.005128205128205128
+two_perturbed_models,1.0,8,APEX 1.0,AMPredictor,0.015384615384615385
+two_perturbed_models,1.0,8,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,1.0,8,APEX 1.1,AMPredictor,0.019487179487179488
+two_perturbed_models,1.0,8,MBC-Attention,AMPredictor,0.050256410256410255
+same_model_original_vs_perturbed,1.0,9,APEX 1.0,APEX 1.0,0.5415384615384615
+same_model_original_vs_perturbed,1.0,9,APEX 1.1,APEX 1.1,0.6523076923076923
+same_model_original_vs_perturbed,1.0,9,MBC-Attention,MBC-Attention,0.6548717948717949
+same_model_original_vs_perturbed,1.0,9,AMPredictor,AMPredictor,0.5671794871794872
+two_perturbed_models,1.0,9,APEX 1.0,APEX 1.1,0.25743589743589745
+two_perturbed_models,1.0,9,APEX 1.0,MBC-Attention,0.008205128205128205
+two_perturbed_models,1.0,9,APEX 1.0,AMPredictor,0.01282051282051282
+two_perturbed_models,1.0,9,APEX 1.1,MBC-Attention,0.02
+two_perturbed_models,1.0,9,APEX 1.1,AMPredictor,0.013846153846153847
+two_perturbed_models,1.0,9,MBC-Attention,AMPredictor,0.0441025641025641
+same_model_original_vs_perturbed,1.0,10,APEX 1.0,APEX 1.0,0.5384615384615384
+same_model_original_vs_perturbed,1.0,10,APEX 1.1,APEX 1.1,0.6641025641025641
+same_model_original_vs_perturbed,1.0,10,MBC-Attention,MBC-Attention,0.6538461538461539
+same_model_original_vs_perturbed,1.0,10,AMPredictor,AMPredictor,0.5876923076923077
+two_perturbed_models,1.0,10,APEX 1.0,APEX 1.1,0.2605128205128205
+two_perturbed_models,1.0,10,APEX 1.0,MBC-Attention,0.008205128205128205
+two_perturbed_models,1.0,10,APEX 1.0,AMPredictor,0.017948717948717947
+two_perturbed_models,1.0,10,APEX 1.1,MBC-Attention,0.02666666666666667
+two_perturbed_models,1.0,10,APEX 1.1,AMPredictor,0.014358974358974359
+two_perturbed_models,1.0,10,MBC-Attention,AMPredictor,0.04358974358974359
+same_model_original_vs_perturbed,1.0,11,APEX 1.0,APEX 1.0,0.5528205128205128
+same_model_original_vs_perturbed,1.0,11,APEX 1.1,APEX 1.1,0.64
+same_model_original_vs_perturbed,1.0,11,MBC-Attention,MBC-Attention,0.6476923076923077
+same_model_original_vs_perturbed,1.0,11,AMPredictor,AMPredictor,0.5882051282051282
+two_perturbed_models,1.0,11,APEX 1.0,APEX 1.1,0.25435897435897437
+two_perturbed_models,1.0,11,APEX 1.0,MBC-Attention,0.011794871794871795
+two_perturbed_models,1.0,11,APEX 1.0,AMPredictor,0.015384615384615385
+two_perturbed_models,1.0,11,APEX 1.1,MBC-Attention,0.018461538461538463
+two_perturbed_models,1.0,11,APEX 1.1,AMPredictor,0.014358974358974359
+two_perturbed_models,1.0,11,MBC-Attention,AMPredictor,0.04461538461538461
+same_model_original_vs_perturbed,1.0,12,APEX 1.0,APEX 1.0,0.5497435897435897
+same_model_original_vs_perturbed,1.0,12,APEX 1.1,APEX 1.1,0.6661538461538462
+same_model_original_vs_perturbed,1.0,12,MBC-Attention,MBC-Attention,0.6564102564102564
+same_model_original_vs_perturbed,1.0,12,AMPredictor,AMPredictor,0.583076923076923
+two_perturbed_models,1.0,12,APEX 1.0,APEX 1.1,0.26974358974358975
+two_perturbed_models,1.0,12,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,1.0,12,APEX 1.0,AMPredictor,0.021025641025641025
+two_perturbed_models,1.0,12,APEX 1.1,MBC-Attention,0.018974358974358976
+two_perturbed_models,1.0,12,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,1.0,12,MBC-Attention,AMPredictor,0.050256410256410255
+same_model_original_vs_perturbed,1.0,13,APEX 1.0,APEX 1.0,0.5635897435897436
+same_model_original_vs_perturbed,1.0,13,APEX 1.1,APEX 1.1,0.6692307692307692
+same_model_original_vs_perturbed,1.0,13,MBC-Attention,MBC-Attention,0.662051282051282
+same_model_original_vs_perturbed,1.0,13,AMPredictor,AMPredictor,0.583076923076923
+two_perturbed_models,1.0,13,APEX 1.0,APEX 1.1,0.26666666666666666
+two_perturbed_models,1.0,13,APEX 1.0,MBC-Attention,0.009230769230769232
+two_perturbed_models,1.0,13,APEX 1.0,AMPredictor,0.014871794871794871
+two_perturbed_models,1.0,13,APEX 1.1,MBC-Attention,0.026153846153846153
+two_perturbed_models,1.0,13,APEX 1.1,AMPredictor,0.013846153846153847
+two_perturbed_models,1.0,13,MBC-Attention,AMPredictor,0.041025641025641026
+same_model_original_vs_perturbed,1.0,14,APEX 1.0,APEX 1.0,0.5461538461538461
+same_model_original_vs_perturbed,1.0,14,APEX 1.1,APEX 1.1,0.6682051282051282
+same_model_original_vs_perturbed,1.0,14,MBC-Attention,MBC-Attention,0.6405128205128205
+same_model_original_vs_perturbed,1.0,14,AMPredictor,AMPredictor,0.5871794871794872
+two_perturbed_models,1.0,14,APEX 1.0,APEX 1.1,0.27282051282051284
+two_perturbed_models,1.0,14,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,1.0,14,APEX 1.0,AMPredictor,0.015384615384615385
+two_perturbed_models,1.0,14,APEX 1.1,MBC-Attention,0.017948717948717947
+two_perturbed_models,1.0,14,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,1.0,14,MBC-Attention,AMPredictor,0.050256410256410255
+same_model_original_vs_perturbed,1.0,15,APEX 1.0,APEX 1.0,0.5476923076923077
+same_model_original_vs_perturbed,1.0,15,APEX 1.1,APEX 1.1,0.6538461538461539
+same_model_original_vs_perturbed,1.0,15,MBC-Attention,MBC-Attention,0.6630769230769231
+same_model_original_vs_perturbed,1.0,15,AMPredictor,AMPredictor,0.581025641025641
+two_perturbed_models,1.0,15,APEX 1.0,APEX 1.1,0.26256410256410256
+two_perturbed_models,1.0,15,APEX 1.0,MBC-Attention,0.011794871794871795
+two_perturbed_models,1.0,15,APEX 1.0,AMPredictor,0.018974358974358976
+two_perturbed_models,1.0,15,APEX 1.1,MBC-Attention,0.024615384615384615
+two_perturbed_models,1.0,15,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,1.0,15,MBC-Attention,AMPredictor,0.04974358974358974
+same_model_original_vs_perturbed,1.0,16,APEX 1.0,APEX 1.0,0.5548717948717948
+same_model_original_vs_perturbed,1.0,16,APEX 1.1,APEX 1.1,0.66
+same_model_original_vs_perturbed,1.0,16,MBC-Attention,MBC-Attention,0.6538461538461539
+same_model_original_vs_perturbed,1.0,16,AMPredictor,AMPredictor,0.5769230769230769
+two_perturbed_models,1.0,16,APEX 1.0,APEX 1.1,0.26256410256410256
+two_perturbed_models,1.0,16,APEX 1.0,MBC-Attention,0.009743589743589744
+two_perturbed_models,1.0,16,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,1.0,16,APEX 1.1,MBC-Attention,0.017435897435897435
+two_perturbed_models,1.0,16,APEX 1.1,AMPredictor,0.018974358974358976
+two_perturbed_models,1.0,16,MBC-Attention,AMPredictor,0.04871794871794872
+same_model_original_vs_perturbed,1.0,17,APEX 1.0,APEX 1.0,0.5543589743589744
+same_model_original_vs_perturbed,1.0,17,APEX 1.1,APEX 1.1,0.6517948717948718
+same_model_original_vs_perturbed,1.0,17,MBC-Attention,MBC-Attention,0.6697435897435897
+same_model_original_vs_perturbed,1.0,17,AMPredictor,AMPredictor,0.5712820512820512
+two_perturbed_models,1.0,17,APEX 1.0,APEX 1.1,0.26615384615384613
+two_perturbed_models,1.0,17,APEX 1.0,MBC-Attention,0.008205128205128205
+two_perturbed_models,1.0,17,APEX 1.0,AMPredictor,0.013846153846153847
+two_perturbed_models,1.0,17,APEX 1.1,MBC-Attention,0.023076923076923078
+two_perturbed_models,1.0,17,APEX 1.1,AMPredictor,0.016923076923076923
+two_perturbed_models,1.0,17,MBC-Attention,AMPredictor,0.052307692307692305
+same_model_original_vs_perturbed,1.0,18,APEX 1.0,APEX 1.0,0.5584615384615385
+same_model_original_vs_perturbed,1.0,18,APEX 1.1,APEX 1.1,0.6615384615384615
+same_model_original_vs_perturbed,1.0,18,MBC-Attention,MBC-Attention,0.6666666666666666
+same_model_original_vs_perturbed,1.0,18,AMPredictor,AMPredictor,0.5912820512820512
+two_perturbed_models,1.0,18,APEX 1.0,APEX 1.1,0.26153846153846155
+two_perturbed_models,1.0,18,APEX 1.0,MBC-Attention,0.010256410256410256
+two_perturbed_models,1.0,18,APEX 1.0,AMPredictor,0.018974358974358976
+two_perturbed_models,1.0,18,APEX 1.1,MBC-Attention,0.02358974358974359
+two_perturbed_models,1.0,18,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,1.0,18,MBC-Attention,AMPredictor,0.04923076923076923
+same_model_original_vs_perturbed,1.0,19,APEX 1.0,APEX 1.0,0.5476923076923077
+same_model_original_vs_perturbed,1.0,19,APEX 1.1,APEX 1.1,0.6646153846153846
+same_model_original_vs_perturbed,1.0,19,MBC-Attention,MBC-Attention,0.6717948717948717
+same_model_original_vs_perturbed,1.0,19,AMPredictor,AMPredictor,0.5779487179487179
+two_perturbed_models,1.0,19,APEX 1.0,APEX 1.1,0.2630769230769231
+two_perturbed_models,1.0,19,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,1.0,19,APEX 1.0,AMPredictor,0.014871794871794871
+two_perturbed_models,1.0,19,APEX 1.1,MBC-Attention,0.021538461538461538
+two_perturbed_models,1.0,19,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,1.0,19,MBC-Attention,AMPredictor,0.0441025641025641
+same_model_original_vs_perturbed,1.0,20,APEX 1.0,APEX 1.0,0.5507692307692308
+same_model_original_vs_perturbed,1.0,20,APEX 1.1,APEX 1.1,0.6641025641025641
+same_model_original_vs_perturbed,1.0,20,MBC-Attention,MBC-Attention,0.6635897435897435
+same_model_original_vs_perturbed,1.0,20,AMPredictor,AMPredictor,0.5784615384615385
+two_perturbed_models,1.0,20,APEX 1.0,APEX 1.1,0.2517948717948718
+two_perturbed_models,1.0,20,APEX 1.0,MBC-Attention,0.007692307692307693
+two_perturbed_models,1.0,20,APEX 1.0,AMPredictor,0.018461538461538463
+two_perturbed_models,1.0,20,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,1.0,20,APEX 1.1,AMPredictor,0.018461538461538463
+two_perturbed_models,1.0,20,MBC-Attention,AMPredictor,0.04512820512820513
+same_model_original_vs_perturbed,1.0,21,APEX 1.0,APEX 1.0,0.5353846153846153
+same_model_original_vs_perturbed,1.0,21,APEX 1.1,APEX 1.1,0.6753846153846154
+same_model_original_vs_perturbed,1.0,21,MBC-Attention,MBC-Attention,0.6569230769230769
+same_model_original_vs_perturbed,1.0,21,AMPredictor,AMPredictor,0.5871794871794872
+two_perturbed_models,1.0,21,APEX 1.0,APEX 1.1,0.2523076923076923
+two_perturbed_models,1.0,21,APEX 1.0,MBC-Attention,0.008205128205128205
+two_perturbed_models,1.0,21,APEX 1.0,AMPredictor,0.013846153846153847
+two_perturbed_models,1.0,21,APEX 1.1,MBC-Attention,0.018974358974358976
+two_perturbed_models,1.0,21,APEX 1.1,AMPredictor,0.011282051282051283
+two_perturbed_models,1.0,21,MBC-Attention,AMPredictor,0.04717948717948718
+same_model_original_vs_perturbed,1.0,22,APEX 1.0,APEX 1.0,0.5446153846153846
+same_model_original_vs_perturbed,1.0,22,APEX 1.1,APEX 1.1,0.6702564102564103
+same_model_original_vs_perturbed,1.0,22,MBC-Attention,MBC-Attention,0.6507692307692308
+same_model_original_vs_perturbed,1.0,22,AMPredictor,AMPredictor,0.5851282051282052
+two_perturbed_models,1.0,22,APEX 1.0,APEX 1.1,0.2676923076923077
+two_perturbed_models,1.0,22,APEX 1.0,MBC-Attention,0.010769230769230769
+two_perturbed_models,1.0,22,APEX 1.0,AMPredictor,0.018974358974358976
+two_perturbed_models,1.0,22,APEX 1.1,MBC-Attention,0.018461538461538463
+two_perturbed_models,1.0,22,APEX 1.1,AMPredictor,0.022564102564102566
+two_perturbed_models,1.0,22,MBC-Attention,AMPredictor,0.05076923076923077
+same_model_original_vs_perturbed,1.0,23,APEX 1.0,APEX 1.0,0.5507692307692308
+same_model_original_vs_perturbed,1.0,23,APEX 1.1,APEX 1.1,0.6615384615384615
+same_model_original_vs_perturbed,1.0,23,MBC-Attention,MBC-Attention,0.6676923076923077
+same_model_original_vs_perturbed,1.0,23,AMPredictor,AMPredictor,0.5733333333333334
+two_perturbed_models,1.0,23,APEX 1.0,APEX 1.1,0.258974358974359
+two_perturbed_models,1.0,23,APEX 1.0,MBC-Attention,0.011282051282051283
+two_perturbed_models,1.0,23,APEX 1.0,AMPredictor,0.019487179487179488
+two_perturbed_models,1.0,23,APEX 1.1,MBC-Attention,0.020512820512820513
+two_perturbed_models,1.0,23,APEX 1.1,AMPredictor,0.014871794871794871
+two_perturbed_models,1.0,23,MBC-Attention,AMPredictor,0.052307692307692305
+same_model_original_vs_perturbed,1.0,24,APEX 1.0,APEX 1.0,0.5317948717948718
+same_model_original_vs_perturbed,1.0,24,APEX 1.1,APEX 1.1,0.6738461538461539
+same_model_original_vs_perturbed,1.0,24,MBC-Attention,MBC-Attention,0.6641025641025641
+same_model_original_vs_perturbed,1.0,24,AMPredictor,AMPredictor,0.5928205128205128
+two_perturbed_models,1.0,24,APEX 1.0,APEX 1.1,0.2676923076923077
+two_perturbed_models,1.0,24,APEX 1.0,MBC-Attention,0.007692307692307693
+two_perturbed_models,1.0,24,APEX 1.0,AMPredictor,0.018461538461538463
+two_perturbed_models,1.0,24,APEX 1.1,MBC-Attention,0.022564102564102566
+two_perturbed_models,1.0,24,APEX 1.1,AMPredictor,0.01641025641025641
+two_perturbed_models,1.0,24,MBC-Attention,AMPredictor,0.048205128205128206

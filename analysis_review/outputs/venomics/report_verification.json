@@ -1,0 +1,67 @@
+{
+  "all_checks_passed": true,
+  "reports": 11,
+  "main_sections": 7,
+  "main_sections_1_to_5_preserved_exactly": true,
+  "old_data_and_notebooks_unchanged": 214,
+  "local_links_images_and_anchors_checked": 545,
+  "new_companion_figures": 4,
+  "arithmetic_checks_passed": 50,
+  "superseded_interpretation_exports_removed": [
+    {
+      "path": "reports/exports/06_interpretation.html",
+      "sha256": "0445ca7b138e09a509f92826e6fb9c329e70aef8923e0731e90adb8de9fb971c"
+    },
+    {
+      "path": "reports/exports/06_interpretation.pdf",
+      "sha256": "c8744bfa23aa5caacdfad46e933df766788d99480ec590df9d9cd2a2d4f8eaac"
+    }
+  ],
+  "all_11_export_pairs_and_links_verified": true,
+  "export_figures_and_pages": {
+    "05_sequence_responses": {
+      "images": 5,
+      "pages": 8
+    },
+    "06_venomics": {
+      "images": 4,
+      "pages": 8
+    },
+    "03_matched_targets": {
+      "images": 3,
+      "pages": 7
+    },
+    "FINAL_ANALYSIS": {
+      "images": 8,
+      "pages": 10
+    },
+    "07_interpretation": {
+      "images": 1,
+      "pages": 3
+    },
+    "METHODS": {
+      "images": 16,
+      "pages": 38
+    },
+    "04_classifier_sequences": {
+      "images": 6,
+      "pages": 9
+    },
+    "PRELIMINARY_ANALYSES": {
+      "images": 3,
+      "pages": 12
+    },
+    "REPRODUCIBILITY": {
+      "images": 0,
+      "pages": 3
+    },
+    "01_shortlists": {
+      "images": 5,
+      "pages": 8
+    },
+    "02_concentration_rules": {
+      "images": 4,
+      "pages": 6
+    }
+  }
+}

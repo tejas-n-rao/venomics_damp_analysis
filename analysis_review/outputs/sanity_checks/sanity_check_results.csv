@@ -1,0 +1,33 @@
+check,passed
+same complete cases,True
+positive finite complete predictions,True
+log base cannot change raw-tail membership,True
+common concentration-unit change leaves spreads unchanged,True
+centering preserves all primary shortlists,True
+row order cannot change primary shortlists,True
+numpy independently reproduces shortlist APEX 1.0,True
+numpy independently reproduces shortlist APEX 1.1,True
+numpy independently reproduces shortlist MBC-Attention,True
+numpy independently reproduces shortlist AMPredictor,True
+Kendall reversal formula matches explicit pairs APEX 1.0/APEX 1.1,True
+Kendall reversal formula matches explicit pairs APEX 1.0/MBC-Attention,True
+Kendall reversal formula matches explicit pairs APEX 1.0/AMPredictor,True
+Kendall reversal formula matches explicit pairs APEX 1.1/MBC-Attention,True
+Kendall reversal formula matches explicit pairs APEX 1.1/AMPredictor,True
+Kendall reversal formula matches explicit pairs MBC-Attention/AMPredictor,True
+missing-score completions respect derived bounds APEX 1.0/APEX 1.1,True
+missing-score completions respect derived bounds APEX 1.0/MBC-Attention,True
+missing-score completions respect derived bounds APEX 1.0/AMPredictor,True
+missing-score completions respect derived bounds APEX 1.1/MBC-Attention,True
+missing-score completions respect derived bounds APEX 1.1/AMPredictor,True
+missing-score completions respect derived bounds MBC-Attention/AMPredictor,True
+terminal edges reproduce previous count,True
+downloaded source checksum archaeasin_figure2_source.xlsx,True
+downloaded source checksum archaeasin_extended4_source.xlsx,True
+downloaded source checksum archaeasin_sequences.csv,True
+downloaded source checksum archaeasin_supplement.pdf,True
+downloaded source checksum archaeasin_certificates.zip,True
+inferred numbered identities remain unique,True
+all fingerprint leave-target-out checks passed,True
+one chemistry discrepancy excluded,True
+eight unambiguous targets in label-coding sensitivity,True

@@ -1,0 +1,70 @@
+population,n_entries,k_each,left,right,shared_n,shared_fraction,triple_shared_n
+all_Venomics,4618,231,APEX 1.1,MBC-Attention,12,0.05194805194805195,0
+all_Venomics,4618,231,APEX 1.1,AMPredictor,5,0.021645021645021644,0
+all_Venomics,4618,231,MBC-Attention,AMPredictor,32,0.13852813852813853,0
+no_C_length_8_39,4275,214,APEX 1.1,MBC-Attention,16,0.07476635514018691,0
+no_C_length_8_39,4275,214,APEX 1.1,AMPredictor,5,0.02336448598130841,0
+no_C_length_8_39,4275,214,MBC-Attention,AMPredictor,32,0.14953271028037382,0
+group_medians,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+group_medians,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+group_medians,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0
+one_per_group_seed_00,401,21,APEX 1.1,MBC-Attention,2,0.09523809523809523,0
+one_per_group_seed_00,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0
+one_per_group_seed_00,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0
+one_per_group_seed_01,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_01,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_01,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0
+one_per_group_seed_02,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_02,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0
+one_per_group_seed_02,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0
+one_per_group_seed_03,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_03,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_03,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0
+one_per_group_seed_04,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_04,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_04,401,21,MBC-Attention,AMPredictor,7,0.3333333333333333,0
+one_per_group_seed_05,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_05,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0
+one_per_group_seed_05,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0
+one_per_group_seed_06,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_06,401,21,APEX 1.1,AMPredictor,0,0.0,0
+one_per_group_seed_06,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0
+one_per_group_seed_07,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_07,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0
+one_per_group_seed_07,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0
+one_per_group_seed_08,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_08,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_08,401,21,MBC-Attention,AMPredictor,7,0.3333333333333333,0
+one_per_group_seed_09,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_09,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_09,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0
+one_per_group_seed_10,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_10,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_10,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0
+one_per_group_seed_11,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_11,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_11,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0
+one_per_group_seed_12,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_12,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_12,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0
+one_per_group_seed_13,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_13,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_13,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0
+one_per_group_seed_14,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_14,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_14,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0
+one_per_group_seed_15,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_15,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_15,401,21,MBC-Attention,AMPredictor,3,0.14285714285714285,0
+one_per_group_seed_16,401,21,APEX 1.1,MBC-Attention,2,0.09523809523809523,0
+one_per_group_seed_16,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0
+one_per_group_seed_16,401,21,MBC-Attention,AMPredictor,3,0.14285714285714285,0
+one_per_group_seed_17,401,21,APEX 1.1,MBC-Attention,0,0.0,0
+one_per_group_seed_17,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_17,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0
+one_per_group_seed_18,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_18,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_18,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0
+one_per_group_seed_19,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0
+one_per_group_seed_19,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0
+one_per_group_seed_19,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0

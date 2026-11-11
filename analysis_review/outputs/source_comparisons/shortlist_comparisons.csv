@@ -1,0 +1,625 @@
+source,population,fraction,n_entries,k_each,left,right,shared_n,shared_fraction,triple_shared_n,boundary_tie_left,boundary_tie_right
+AMPDIFF_synth50k,every_sequence,0.01,49491,495,APEX 1.1,MBC-Attention,18,0.03636363636363636,1,False,False
+AMPDIFF_synth50k,every_sequence,0.01,49491,495,APEX 1.1,AMPredictor,25,0.050505050505050504,1,False,False
+AMPDIFF_synth50k,every_sequence,0.01,49491,495,MBC-Attention,AMPredictor,26,0.052525252525252523,1,False,False
+AMPDIFF_synth50k,every_sequence,0.02,49491,990,APEX 1.1,MBC-Attention,52,0.052525252525252523,6,False,False
+AMPDIFF_synth50k,every_sequence,0.02,49491,990,APEX 1.1,AMPredictor,61,0.06161616161616162,6,False,False
+AMPDIFF_synth50k,every_sequence,0.02,49491,990,MBC-Attention,AMPredictor,98,0.09898989898989899,6,False,False
+AMPDIFF_synth50k,every_sequence,0.05,49491,2475,APEX 1.1,MBC-Attention,280,0.11313131313131314,60,False,False
+AMPDIFF_synth50k,every_sequence,0.05,49491,2475,APEX 1.1,AMPredictor,251,0.10141414141414141,60,False,False
+AMPDIFF_synth50k,every_sequence,0.05,49491,2475,MBC-Attention,AMPredictor,523,0.2113131313131313,60,False,False
+AMPDIFF_synth50k,every_sequence,0.1,49491,4950,APEX 1.1,MBC-Attention,1221,0.24666666666666667,417,False,False
+AMPDIFF_synth50k,every_sequence,0.1,49491,4950,APEX 1.1,AMPredictor,890,0.1797979797979798,417,False,False
+AMPDIFF_synth50k,every_sequence,0.1,49491,4950,MBC-Attention,AMPredictor,1526,0.30828282828282827,417,False,False
+AMPDIFF_synth50k,C_free_length8_39,0.05,29258,1463,APEX 1.1,MBC-Attention,128,0.08749145591250855,30,False,False
+AMPDIFF_synth50k,C_free_length8_39,0.05,29258,1463,APEX 1.1,AMPredictor,136,0.09295967190704033,30,False,False
+AMPDIFF_synth50k,C_free_length8_39,0.05,29258,1463,MBC-Attention,AMPredictor,395,0.26999316473000684,30,False,False
+AMPDIFF_synth50k,group_medians,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,60,False,False
+AMPDIFF_synth50k,group_medians,0.05,49126,2457,APEX 1.1,AMPredictor,253,0.10297110297110297,60,False,False
+AMPDIFF_synth50k,group_medians,0.05,49126,2457,MBC-Attention,AMPredictor,523,0.21286121286121287,60,False,False
+AMPDIFF_synth50k,representative_00,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,61,False,False
+AMPDIFF_synth50k,representative_00,0.05,49126,2457,APEX 1.1,AMPredictor,256,0.10419210419210419,61,False,False
+AMPDIFF_synth50k,representative_00,0.05,49126,2457,MBC-Attention,AMPredictor,524,0.21326821326821327,61,False,False
+AMPDIFF_synth50k,representative_01,0.05,49126,2457,APEX 1.1,MBC-Attention,285,0.115995115995116,61,False,False
+AMPDIFF_synth50k,representative_01,0.05,49126,2457,APEX 1.1,AMPredictor,256,0.10419210419210419,61,False,False
+AMPDIFF_synth50k,representative_01,0.05,49126,2457,MBC-Attention,AMPredictor,521,0.21204721204721205,61,False,False
+AMPDIFF_synth50k,representative_02,0.05,49126,2457,APEX 1.1,MBC-Attention,285,0.115995115995116,62,False,False
+AMPDIFF_synth50k,representative_02,0.05,49126,2457,APEX 1.1,AMPredictor,256,0.10419210419210419,62,False,False
+AMPDIFF_synth50k,representative_02,0.05,49126,2457,MBC-Attention,AMPredictor,524,0.21326821326821327,62,False,False
+AMPDIFF_synth50k,representative_03,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,60,False,False
+AMPDIFF_synth50k,representative_03,0.05,49126,2457,APEX 1.1,AMPredictor,252,0.10256410256410256,60,False,False
+AMPDIFF_synth50k,representative_03,0.05,49126,2457,MBC-Attention,AMPredictor,525,0.21367521367521367,60,False,False
+AMPDIFF_synth50k,representative_04,0.05,49126,2457,APEX 1.1,MBC-Attention,287,0.1168091168091168,61,False,False
+AMPDIFF_synth50k,representative_04,0.05,49126,2457,APEX 1.1,AMPredictor,255,0.10378510378510379,61,False,False
+AMPDIFF_synth50k,representative_04,0.05,49126,2457,MBC-Attention,AMPredictor,525,0.21367521367521367,61,False,False
+AMPDIFF_synth50k,representative_05,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,60,False,False
+AMPDIFF_synth50k,representative_05,0.05,49126,2457,APEX 1.1,AMPredictor,254,0.10337810337810338,60,False,False
+AMPDIFF_synth50k,representative_05,0.05,49126,2457,MBC-Attention,AMPredictor,524,0.21326821326821327,60,False,False
+AMPDIFF_synth50k,representative_06,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,60,False,False
+AMPDIFF_synth50k,representative_06,0.05,49126,2457,APEX 1.1,AMPredictor,255,0.10378510378510379,60,False,False
+AMPDIFF_synth50k,representative_06,0.05,49126,2457,MBC-Attention,AMPredictor,523,0.21286121286121287,60,False,False
+AMPDIFF_synth50k,representative_07,0.05,49126,2457,APEX 1.1,MBC-Attention,283,0.11518111518111518,61,False,False
+AMPDIFF_synth50k,representative_07,0.05,49126,2457,APEX 1.1,AMPredictor,254,0.10337810337810338,61,False,False
+AMPDIFF_synth50k,representative_07,0.05,49126,2457,MBC-Attention,AMPredictor,522,0.21245421245421245,61,False,False
+AMPDIFF_synth50k,representative_08,0.05,49126,2457,APEX 1.1,MBC-Attention,286,0.1164021164021164,60,False,False
+AMPDIFF_synth50k,representative_08,0.05,49126,2457,APEX 1.1,AMPredictor,254,0.10337810337810338,60,False,False
+AMPDIFF_synth50k,representative_08,0.05,49126,2457,MBC-Attention,AMPredictor,524,0.21326821326821327,60,False,False
+AMPDIFF_synth50k,representative_09,0.05,49126,2457,APEX 1.1,MBC-Attention,285,0.115995115995116,61,False,False
+AMPDIFF_synth50k,representative_09,0.05,49126,2457,APEX 1.1,AMPredictor,254,0.10337810337810338,61,False,False
+AMPDIFF_synth50k,representative_09,0.05,49126,2457,MBC-Attention,AMPredictor,523,0.21286121286121287,61,False,False
+AMPDIFF_synth50k,representative_10,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,60,False,False
+AMPDIFF_synth50k,representative_10,0.05,49126,2457,APEX 1.1,AMPredictor,256,0.10419210419210419,60,False,False
+AMPDIFF_synth50k,representative_10,0.05,49126,2457,MBC-Attention,AMPredictor,524,0.21326821326821327,60,False,False
+AMPDIFF_synth50k,representative_11,0.05,49126,2457,APEX 1.1,MBC-Attention,286,0.1164021164021164,61,False,False
+AMPDIFF_synth50k,representative_11,0.05,49126,2457,APEX 1.1,AMPredictor,257,0.1045991045991046,61,False,False
+AMPDIFF_synth50k,representative_11,0.05,49126,2457,MBC-Attention,AMPredictor,523,0.21286121286121287,61,False,False
+AMPDIFF_synth50k,representative_12,0.05,49126,2457,APEX 1.1,MBC-Attention,286,0.1164021164021164,62,False,False
+AMPDIFF_synth50k,representative_12,0.05,49126,2457,APEX 1.1,AMPredictor,253,0.10297110297110297,62,False,False
+AMPDIFF_synth50k,representative_12,0.05,49126,2457,MBC-Attention,AMPredictor,525,0.21367521367521367,62,False,False
+AMPDIFF_synth50k,representative_13,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,60,False,False
+AMPDIFF_synth50k,representative_13,0.05,49126,2457,APEX 1.1,AMPredictor,254,0.10337810337810338,60,False,False
+AMPDIFF_synth50k,representative_13,0.05,49126,2457,MBC-Attention,AMPredictor,524,0.21326821326821327,60,False,False
+AMPDIFF_synth50k,representative_14,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,60,False,False
+AMPDIFF_synth50k,representative_14,0.05,49126,2457,APEX 1.1,AMPredictor,256,0.10419210419210419,60,False,False
+AMPDIFF_synth50k,representative_14,0.05,49126,2457,MBC-Attention,AMPredictor,521,0.21204721204721205,60,False,False
+AMPDIFF_synth50k,representative_15,0.05,49126,2457,APEX 1.1,MBC-Attention,285,0.115995115995116,61,False,False
+AMPDIFF_synth50k,representative_15,0.05,49126,2457,APEX 1.1,AMPredictor,252,0.10256410256410256,61,False,False
+AMPDIFF_synth50k,representative_15,0.05,49126,2457,MBC-Attention,AMPredictor,525,0.21367521367521367,61,False,False
+AMPDIFF_synth50k,representative_16,0.05,49126,2457,APEX 1.1,MBC-Attention,285,0.115995115995116,61,False,False
+AMPDIFF_synth50k,representative_16,0.05,49126,2457,APEX 1.1,AMPredictor,254,0.10337810337810338,61,False,False
+AMPDIFF_synth50k,representative_16,0.05,49126,2457,MBC-Attention,AMPredictor,525,0.21367521367521367,61,False,False
+AMPDIFF_synth50k,representative_17,0.05,49126,2457,APEX 1.1,MBC-Attention,285,0.115995115995116,61,False,False
+AMPDIFF_synth50k,representative_17,0.05,49126,2457,APEX 1.1,AMPredictor,253,0.10297110297110297,61,False,False
+AMPDIFF_synth50k,representative_17,0.05,49126,2457,MBC-Attention,AMPredictor,524,0.21326821326821327,61,False,False
+AMPDIFF_synth50k,representative_18,0.05,49126,2457,APEX 1.1,MBC-Attention,284,0.11558811558811559,60,False,False
+AMPDIFF_synth50k,representative_18,0.05,49126,2457,APEX 1.1,AMPredictor,253,0.10297110297110297,60,False,False
+AMPDIFF_synth50k,representative_18,0.05,49126,2457,MBC-Attention,AMPredictor,523,0.21286121286121287,60,False,False
+AMPDIFF_synth50k,representative_19,0.05,49126,2457,APEX 1.1,MBC-Attention,283,0.11518111518111518,60,False,False
+AMPDIFF_synth50k,representative_19,0.05,49126,2457,APEX 1.1,AMPredictor,253,0.10297110297110297,60,False,False
+AMPDIFF_synth50k,representative_19,0.05,49126,2457,MBC-Attention,AMPredictor,523,0.21286121286121287,60,False,False
+Archaeomics,every_sequence,0.01,12623,127,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Archaeomics,every_sequence,0.01,12623,127,APEX 1.1,AMPredictor,0,0.0,0,False,False
+Archaeomics,every_sequence,0.01,12623,127,MBC-Attention,AMPredictor,3,0.023622047244094488,0,False,False
+Archaeomics,every_sequence,0.02,12623,253,APEX 1.1,MBC-Attention,6,0.023715415019762844,0,False,False
+Archaeomics,every_sequence,0.02,12623,253,APEX 1.1,AMPredictor,0,0.0,0,False,False
+Archaeomics,every_sequence,0.02,12623,253,MBC-Attention,AMPredictor,11,0.043478260869565216,0,False,False
+Archaeomics,every_sequence,0.05,12623,632,APEX 1.1,MBC-Attention,49,0.07753164556962025,18,False,False
+Archaeomics,every_sequence,0.05,12623,632,APEX 1.1,AMPredictor,26,0.04113924050632911,18,False,False
+Archaeomics,every_sequence,0.05,12623,632,MBC-Attention,AMPredictor,73,0.11550632911392406,18,False,False
+Archaeomics,every_sequence,0.1,12623,1263,APEX 1.1,MBC-Attention,135,0.10688836104513064,59,False,False
+Archaeomics,every_sequence,0.1,12623,1263,APEX 1.1,AMPredictor,90,0.07125890736342043,59,False,False
+Archaeomics,every_sequence,0.1,12623,1263,MBC-Attention,AMPredictor,251,0.19873317498020585,59,False,False
+Archaeomics,C_free_length8_39,0.05,7065,354,APEX 1.1,MBC-Attention,15,0.0423728813559322,5,False,False
+Archaeomics,C_free_length8_39,0.05,7065,354,APEX 1.1,AMPredictor,13,0.03672316384180791,5,False,False
+Archaeomics,C_free_length8_39,0.05,7065,354,MBC-Attention,AMPredictor,55,0.1553672316384181,5,False,False
+Archaeomics,group_medians,0.05,3073,154,APEX 1.1,MBC-Attention,19,0.12337662337662338,7,False,False
+Archaeomics,group_medians,0.05,3073,154,APEX 1.1,AMPredictor,8,0.05194805194805195,7,False,False
+Archaeomics,group_medians,0.05,3073,154,MBC-Attention,AMPredictor,14,0.09090909090909091,7,False,False
+Archaeomics,representative_00,0.05,3073,154,APEX 1.1,MBC-Attention,18,0.11688311688311688,6,False,False
+Archaeomics,representative_00,0.05,3073,154,APEX 1.1,AMPredictor,7,0.045454545454545456,6,False,False
+Archaeomics,representative_00,0.05,3073,154,MBC-Attention,AMPredictor,19,0.12337662337662338,6,False,False
+Archaeomics,representative_01,0.05,3073,154,APEX 1.1,MBC-Attention,19,0.12337662337662338,6,False,False
+Archaeomics,representative_01,0.05,3073,154,APEX 1.1,AMPredictor,9,0.05844155844155844,6,False,False
+Archaeomics,representative_01,0.05,3073,154,MBC-Attention,AMPredictor,18,0.11688311688311688,6,False,False
+Archaeomics,representative_02,0.05,3073,154,APEX 1.1,MBC-Attention,17,0.11038961038961038,5,False,False
+Archaeomics,representative_02,0.05,3073,154,APEX 1.1,AMPredictor,8,0.05194805194805195,5,False,False
+Archaeomics,representative_02,0.05,3073,154,MBC-Attention,AMPredictor,13,0.08441558441558442,5,False,False
+Archaeomics,representative_03,0.05,3073,154,APEX 1.1,MBC-Attention,17,0.11038961038961038,7,False,False
+Archaeomics,representative_03,0.05,3073,154,APEX 1.1,AMPredictor,8,0.05194805194805195,7,False,False
+Archaeomics,representative_03,0.05,3073,154,MBC-Attention,AMPredictor,14,0.09090909090909091,7,False,False
+Archaeomics,representative_04,0.05,3073,154,APEX 1.1,MBC-Attention,15,0.09740259740259741,6,False,False
+Archaeomics,representative_04,0.05,3073,154,APEX 1.1,AMPredictor,9,0.05844155844155844,6,False,False
+Archaeomics,representative_04,0.05,3073,154,MBC-Attention,AMPredictor,15,0.09740259740259741,6,False,False
+Archaeomics,representative_05,0.05,3073,154,APEX 1.1,MBC-Attention,15,0.09740259740259741,6,False,False
+Archaeomics,representative_05,0.05,3073,154,APEX 1.1,AMPredictor,9,0.05844155844155844,6,False,False
+Archaeomics,representative_05,0.05,3073,154,MBC-Attention,AMPredictor,15,0.09740259740259741,6,False,False
+Archaeomics,representative_06,0.05,3073,154,APEX 1.1,MBC-Attention,13,0.08441558441558442,5,False,False
+Archaeomics,representative_06,0.05,3073,154,APEX 1.1,AMPredictor,9,0.05844155844155844,5,False,False
+Archaeomics,representative_06,0.05,3073,154,MBC-Attention,AMPredictor,19,0.12337662337662338,5,False,False
+Archaeomics,representative_07,0.05,3073,154,APEX 1.1,MBC-Attention,16,0.1038961038961039,5,False,False
+Archaeomics,representative_07,0.05,3073,154,APEX 1.1,AMPredictor,9,0.05844155844155844,5,False,False
+Archaeomics,representative_07,0.05,3073,154,MBC-Attention,AMPredictor,12,0.07792207792207792,5,False,False
+Archaeomics,representative_08,0.05,3073,154,APEX 1.1,MBC-Attention,13,0.08441558441558442,5,False,False
+Archaeomics,representative_08,0.05,3073,154,APEX 1.1,AMPredictor,8,0.05194805194805195,5,False,False
+Archaeomics,representative_08,0.05,3073,154,MBC-Attention,AMPredictor,15,0.09740259740259741,5,False,False
+Archaeomics,representative_09,0.05,3073,154,APEX 1.1,MBC-Attention,14,0.09090909090909091,5,False,False
+Archaeomics,representative_09,0.05,3073,154,APEX 1.1,AMPredictor,7,0.045454545454545456,5,False,False
+Archaeomics,representative_09,0.05,3073,154,MBC-Attention,AMPredictor,18,0.11688311688311688,5,False,False
+Archaeomics,representative_10,0.05,3073,154,APEX 1.1,MBC-Attention,18,0.11688311688311688,6,False,False
+Archaeomics,representative_10,0.05,3073,154,APEX 1.1,AMPredictor,9,0.05844155844155844,6,False,False
+Archaeomics,representative_10,0.05,3073,154,MBC-Attention,AMPredictor,17,0.11038961038961038,6,False,False
+Archaeomics,representative_11,0.05,3073,154,APEX 1.1,MBC-Attention,17,0.11038961038961038,5,False,False
+Archaeomics,representative_11,0.05,3073,154,APEX 1.1,AMPredictor,6,0.03896103896103896,5,False,False
+Archaeomics,representative_11,0.05,3073,154,MBC-Attention,AMPredictor,13,0.08441558441558442,5,False,False
+Archaeomics,representative_12,0.05,3073,154,APEX 1.1,MBC-Attention,15,0.09740259740259741,5,False,False
+Archaeomics,representative_12,0.05,3073,154,APEX 1.1,AMPredictor,7,0.045454545454545456,5,False,False
+Archaeomics,representative_12,0.05,3073,154,MBC-Attention,AMPredictor,13,0.08441558441558442,5,False,False
+Archaeomics,representative_13,0.05,3073,154,APEX 1.1,MBC-Attention,17,0.11038961038961038,8,False,False
+Archaeomics,representative_13,0.05,3073,154,APEX 1.1,AMPredictor,12,0.07792207792207792,8,False,False
+Archaeomics,representative_13,0.05,3073,154,MBC-Attention,AMPredictor,16,0.1038961038961039,8,False,False
+Archaeomics,representative_14,0.05,3073,154,APEX 1.1,MBC-Attention,12,0.07792207792207792,4,False,False
+Archaeomics,representative_14,0.05,3073,154,APEX 1.1,AMPredictor,6,0.03896103896103896,4,False,False
+Archaeomics,representative_14,0.05,3073,154,MBC-Attention,AMPredictor,16,0.1038961038961039,4,False,False
+Archaeomics,representative_15,0.05,3073,154,APEX 1.1,MBC-Attention,18,0.11688311688311688,7,False,False
+Archaeomics,representative_15,0.05,3073,154,APEX 1.1,AMPredictor,9,0.05844155844155844,7,False,False
+Archaeomics,representative_15,0.05,3073,154,MBC-Attention,AMPredictor,16,0.1038961038961039,7,False,False
+Archaeomics,representative_16,0.05,3073,154,APEX 1.1,MBC-Attention,17,0.11038961038961038,7,False,False
+Archaeomics,representative_16,0.05,3073,154,APEX 1.1,AMPredictor,8,0.05194805194805195,7,False,False
+Archaeomics,representative_16,0.05,3073,154,MBC-Attention,AMPredictor,16,0.1038961038961039,7,False,False
+Archaeomics,representative_17,0.05,3073,154,APEX 1.1,MBC-Attention,18,0.11688311688311688,6,False,False
+Archaeomics,representative_17,0.05,3073,154,APEX 1.1,AMPredictor,8,0.05194805194805195,6,False,False
+Archaeomics,representative_17,0.05,3073,154,MBC-Attention,AMPredictor,18,0.11688311688311688,6,False,False
+Archaeomics,representative_18,0.05,3073,154,APEX 1.1,MBC-Attention,21,0.13636363636363635,6,False,False
+Archaeomics,representative_18,0.05,3073,154,APEX 1.1,AMPredictor,7,0.045454545454545456,6,False,False
+Archaeomics,representative_18,0.05,3073,154,MBC-Attention,AMPredictor,19,0.12337662337662338,6,False,False
+Archaeomics,representative_19,0.05,3073,154,APEX 1.1,MBC-Attention,16,0.1038961038961039,6,False,False
+Archaeomics,representative_19,0.05,3073,154,APEX 1.1,AMPredictor,11,0.07142857142857142,6,False,False
+Archaeomics,representative_19,0.05,3073,154,MBC-Attention,AMPredictor,17,0.11038961038961038,6,False,False
+DRAMP_APD_DBAASP,every_sequence,0.01,19440,195,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+DRAMP_APD_DBAASP,every_sequence,0.01,19440,195,APEX 1.1,AMPredictor,2,0.010256410256410256,0,False,False
+DRAMP_APD_DBAASP,every_sequence,0.01,19440,195,MBC-Attention,AMPredictor,0,0.0,0,False,False
+DRAMP_APD_DBAASP,every_sequence,0.02,19440,389,APEX 1.1,MBC-Attention,7,0.017994858611825194,2,False,False
+DRAMP_APD_DBAASP,every_sequence,0.02,19440,389,APEX 1.1,AMPredictor,6,0.015424164524421594,2,False,False
+DRAMP_APD_DBAASP,every_sequence,0.02,19440,389,MBC-Attention,AMPredictor,26,0.06683804627249357,2,False,False
+DRAMP_APD_DBAASP,every_sequence,0.05,19440,972,APEX 1.1,MBC-Attention,94,0.09670781893004116,23,False,False
+DRAMP_APD_DBAASP,every_sequence,0.05,19440,972,APEX 1.1,AMPredictor,58,0.059670781893004114,23,False,False
+DRAMP_APD_DBAASP,every_sequence,0.05,19440,972,MBC-Attention,AMPredictor,173,0.1779835390946502,23,False,False
+DRAMP_APD_DBAASP,every_sequence,0.1,19440,1944,APEX 1.1,MBC-Attention,451,0.23199588477366256,213,False,False
+DRAMP_APD_DBAASP,every_sequence,0.1,19440,1944,APEX 1.1,AMPredictor,364,0.18724279835390947,213,False,False
+DRAMP_APD_DBAASP,every_sequence,0.1,19440,1944,MBC-Attention,AMPredictor,526,0.2705761316872428,213,False,False
+DRAMP_APD_DBAASP,C_free_length8_39,0.05,12242,613,APEX 1.1,MBC-Attention,79,0.12887438825448613,16,False,False
+DRAMP_APD_DBAASP,C_free_length8_39,0.05,12242,613,APEX 1.1,AMPredictor,43,0.0701468189233279,16,False,False
+DRAMP_APD_DBAASP,C_free_length8_39,0.05,12242,613,MBC-Attention,AMPredictor,227,0.3703099510603589,16,False,False
+DRAMP_APD_DBAASP,group_medians,0.05,12155,608,APEX 1.1,MBC-Attention,111,0.1825657894736842,30,False,False
+DRAMP_APD_DBAASP,group_medians,0.05,12155,608,APEX 1.1,AMPredictor,67,0.11019736842105263,30,False,False
+DRAMP_APD_DBAASP,group_medians,0.05,12155,608,MBC-Attention,AMPredictor,159,0.26151315789473684,30,False,False
+DRAMP_APD_DBAASP,representative_00,0.05,12155,608,APEX 1.1,MBC-Attention,110,0.18092105263157895,29,False,False
+DRAMP_APD_DBAASP,representative_00,0.05,12155,608,APEX 1.1,AMPredictor,66,0.10855263157894737,29,False,False
+DRAMP_APD_DBAASP,representative_00,0.05,12155,608,MBC-Attention,AMPredictor,159,0.26151315789473684,29,False,False
+DRAMP_APD_DBAASP,representative_01,0.05,12155,608,APEX 1.1,MBC-Attention,108,0.17763157894736842,28,False,False
+DRAMP_APD_DBAASP,representative_01,0.05,12155,608,APEX 1.1,AMPredictor,66,0.10855263157894737,28,False,False
+DRAMP_APD_DBAASP,representative_01,0.05,12155,608,MBC-Attention,AMPredictor,156,0.2565789473684211,28,False,False
+DRAMP_APD_DBAASP,representative_02,0.05,12155,608,APEX 1.1,MBC-Attention,111,0.1825657894736842,31,False,False
+DRAMP_APD_DBAASP,representative_02,0.05,12155,608,APEX 1.1,AMPredictor,67,0.11019736842105263,31,False,False
+DRAMP_APD_DBAASP,representative_02,0.05,12155,608,MBC-Attention,AMPredictor,161,0.26480263157894735,31,False,False
+DRAMP_APD_DBAASP,representative_03,0.05,12155,608,APEX 1.1,MBC-Attention,110,0.18092105263157895,27,False,False
+DRAMP_APD_DBAASP,representative_03,0.05,12155,608,APEX 1.1,AMPredictor,65,0.1069078947368421,27,False,False
+DRAMP_APD_DBAASP,representative_03,0.05,12155,608,MBC-Attention,AMPredictor,161,0.26480263157894735,27,False,False
+DRAMP_APD_DBAASP,representative_04,0.05,12155,608,APEX 1.1,MBC-Attention,112,0.18421052631578946,27,False,False
+DRAMP_APD_DBAASP,representative_04,0.05,12155,608,APEX 1.1,AMPredictor,66,0.10855263157894737,27,False,False
+DRAMP_APD_DBAASP,representative_04,0.05,12155,608,MBC-Attention,AMPredictor,156,0.2565789473684211,27,False,False
+DRAMP_APD_DBAASP,representative_05,0.05,12155,608,APEX 1.1,MBC-Attention,111,0.1825657894736842,28,False,False
+DRAMP_APD_DBAASP,representative_05,0.05,12155,608,APEX 1.1,AMPredictor,65,0.1069078947368421,28,False,False
+DRAMP_APD_DBAASP,representative_05,0.05,12155,608,MBC-Attention,AMPredictor,158,0.2598684210526316,28,False,False
+DRAMP_APD_DBAASP,representative_06,0.05,12155,608,APEX 1.1,MBC-Attention,111,0.1825657894736842,28,False,False
+DRAMP_APD_DBAASP,representative_06,0.05,12155,608,APEX 1.1,AMPredictor,67,0.11019736842105263,28,False,False
+DRAMP_APD_DBAASP,representative_06,0.05,12155,608,MBC-Attention,AMPredictor,160,0.2631578947368421,28,False,False
+DRAMP_APD_DBAASP,representative_07,0.05,12155,608,APEX 1.1,MBC-Attention,105,0.17269736842105263,27,False,False
+DRAMP_APD_DBAASP,representative_07,0.05,12155,608,APEX 1.1,AMPredictor,65,0.1069078947368421,27,False,False
+DRAMP_APD_DBAASP,representative_07,0.05,12155,608,MBC-Attention,AMPredictor,159,0.26151315789473684,27,False,False
+DRAMP_APD_DBAASP,representative_08,0.05,12155,608,APEX 1.1,MBC-Attention,112,0.18421052631578946,27,False,False
+DRAMP_APD_DBAASP,representative_08,0.05,12155,608,APEX 1.1,AMPredictor,66,0.10855263157894737,27,False,False
+DRAMP_APD_DBAASP,representative_08,0.05,12155,608,MBC-Attention,AMPredictor,160,0.2631578947368421,27,False,False
+DRAMP_APD_DBAASP,representative_09,0.05,12155,608,APEX 1.1,MBC-Attention,107,0.17598684210526316,28,False,False
+DRAMP_APD_DBAASP,representative_09,0.05,12155,608,APEX 1.1,AMPredictor,68,0.1118421052631579,28,False,False
+DRAMP_APD_DBAASP,representative_09,0.05,12155,608,MBC-Attention,AMPredictor,155,0.25493421052631576,28,False,False
+DRAMP_APD_DBAASP,representative_10,0.05,12155,608,APEX 1.1,MBC-Attention,110,0.18092105263157895,31,False,False
+DRAMP_APD_DBAASP,representative_10,0.05,12155,608,APEX 1.1,AMPredictor,68,0.1118421052631579,31,False,False
+DRAMP_APD_DBAASP,representative_10,0.05,12155,608,MBC-Attention,AMPredictor,161,0.26480263157894735,31,False,False
+DRAMP_APD_DBAASP,representative_11,0.05,12155,608,APEX 1.1,MBC-Attention,110,0.18092105263157895,30,False,False
+DRAMP_APD_DBAASP,representative_11,0.05,12155,608,APEX 1.1,AMPredictor,67,0.11019736842105263,30,False,False
+DRAMP_APD_DBAASP,representative_11,0.05,12155,608,MBC-Attention,AMPredictor,159,0.26151315789473684,30,False,False
+DRAMP_APD_DBAASP,representative_12,0.05,12155,608,APEX 1.1,MBC-Attention,111,0.1825657894736842,28,False,False
+DRAMP_APD_DBAASP,representative_12,0.05,12155,608,APEX 1.1,AMPredictor,65,0.1069078947368421,28,False,False
+DRAMP_APD_DBAASP,representative_12,0.05,12155,608,MBC-Attention,AMPredictor,156,0.2565789473684211,28,False,False
+DRAMP_APD_DBAASP,representative_13,0.05,12155,608,APEX 1.1,MBC-Attention,107,0.17598684210526316,28,False,False
+DRAMP_APD_DBAASP,representative_13,0.05,12155,608,APEX 1.1,AMPredictor,66,0.10855263157894737,28,False,False
+DRAMP_APD_DBAASP,representative_13,0.05,12155,608,MBC-Attention,AMPredictor,158,0.2598684210526316,28,False,False
+DRAMP_APD_DBAASP,representative_14,0.05,12155,608,APEX 1.1,MBC-Attention,109,0.17927631578947367,27,False,False
+DRAMP_APD_DBAASP,representative_14,0.05,12155,608,APEX 1.1,AMPredictor,65,0.1069078947368421,27,False,False
+DRAMP_APD_DBAASP,representative_14,0.05,12155,608,MBC-Attention,AMPredictor,159,0.26151315789473684,27,False,False
+DRAMP_APD_DBAASP,representative_15,0.05,12155,608,APEX 1.1,MBC-Attention,109,0.17927631578947367,29,False,False
+DRAMP_APD_DBAASP,representative_15,0.05,12155,608,APEX 1.1,AMPredictor,66,0.10855263157894737,29,False,False
+DRAMP_APD_DBAASP,representative_15,0.05,12155,608,MBC-Attention,AMPredictor,162,0.26644736842105265,29,False,False
+DRAMP_APD_DBAASP,representative_16,0.05,12155,608,APEX 1.1,MBC-Attention,107,0.17598684210526316,30,False,False
+DRAMP_APD_DBAASP,representative_16,0.05,12155,608,APEX 1.1,AMPredictor,71,0.11677631578947369,30,False,False
+DRAMP_APD_DBAASP,representative_16,0.05,12155,608,MBC-Attention,AMPredictor,160,0.2631578947368421,30,False,False
+DRAMP_APD_DBAASP,representative_17,0.05,12155,608,APEX 1.1,MBC-Attention,107,0.17598684210526316,29,False,False
+DRAMP_APD_DBAASP,representative_17,0.05,12155,608,APEX 1.1,AMPredictor,68,0.1118421052631579,29,False,False
+DRAMP_APD_DBAASP,representative_17,0.05,12155,608,MBC-Attention,AMPredictor,158,0.2598684210526316,29,False,False
+DRAMP_APD_DBAASP,representative_18,0.05,12155,608,APEX 1.1,MBC-Attention,107,0.17598684210526316,29,False,False
+DRAMP_APD_DBAASP,representative_18,0.05,12155,608,APEX 1.1,AMPredictor,68,0.1118421052631579,29,False,False
+DRAMP_APD_DBAASP,representative_18,0.05,12155,608,MBC-Attention,AMPredictor,157,0.2582236842105263,29,False,False
+DRAMP_APD_DBAASP,representative_19,0.05,12155,608,APEX 1.1,MBC-Attention,109,0.17927631578947367,29,False,False
+DRAMP_APD_DBAASP,representative_19,0.05,12155,608,APEX 1.1,AMPredictor,66,0.10855263157894737,29,False,False
+DRAMP_APD_DBAASP,representative_19,0.05,12155,608,MBC-Attention,AMPredictor,162,0.26644736842105265,29,False,False
+Extinctomics,every_sequence,0.01,37176,372,APEX 1.1,MBC-Attention,18,0.04838709677419355,5,False,False
+Extinctomics,every_sequence,0.01,37176,372,APEX 1.1,AMPredictor,21,0.056451612903225805,5,False,False
+Extinctomics,every_sequence,0.01,37176,372,MBC-Attention,AMPredictor,91,0.2446236559139785,5,False,False
+Extinctomics,every_sequence,0.02,37176,744,APEX 1.1,MBC-Attention,52,0.06989247311827956,19,False,False
+Extinctomics,every_sequence,0.02,37176,744,APEX 1.1,AMPredictor,63,0.0846774193548387,19,False,False
+Extinctomics,every_sequence,0.02,37176,744,MBC-Attention,AMPredictor,204,0.27419354838709675,19,False,False
+Extinctomics,every_sequence,0.05,37176,1859,APEX 1.1,MBC-Attention,305,0.164066702528241,92,False,False
+Extinctomics,every_sequence,0.05,37176,1859,APEX 1.1,AMPredictor,294,0.15814954276492738,92,False,False
+Extinctomics,every_sequence,0.05,37176,1859,MBC-Attention,AMPredictor,634,0.3410435718128026,92,False,False
+Extinctomics,every_sequence,0.1,37176,3718,APEX 1.1,MBC-Attention,1140,0.3066164604626143,596,False,False
+Extinctomics,every_sequence,0.1,37176,3718,APEX 1.1,AMPredictor,1118,0.3006993006993007,596,False,False
+Extinctomics,every_sequence,0.1,37176,3718,MBC-Attention,AMPredictor,1555,0.4182356105433028,596,False,False
+Extinctomics,C_free_length8_39,0.05,31324,1567,APEX 1.1,MBC-Attention,232,0.14805360561582642,76,False,False
+Extinctomics,C_free_length8_39,0.05,31324,1567,APEX 1.1,AMPredictor,242,0.15443522654754308,76,False,False
+Extinctomics,C_free_length8_39,0.05,31324,1567,MBC-Attention,AMPredictor,373,0.23803446075303128,76,False,False
+Extinctomics,group_medians,0.05,3148,158,APEX 1.1,MBC-Attention,63,0.3987341772151899,34,False,False
+Extinctomics,group_medians,0.05,3148,158,APEX 1.1,AMPredictor,58,0.3670886075949367,34,False,False
+Extinctomics,group_medians,0.05,3148,158,MBC-Attention,AMPredictor,71,0.44936708860759494,34,False,False
+Extinctomics,representative_00,0.05,3148,158,APEX 1.1,MBC-Attention,57,0.36075949367088606,29,False,False
+Extinctomics,representative_00,0.05,3148,158,APEX 1.1,AMPredictor,53,0.33544303797468356,29,False,False
+Extinctomics,representative_00,0.05,3148,158,MBC-Attention,AMPredictor,69,0.43670886075949367,29,False,False
+Extinctomics,representative_01,0.05,3148,158,APEX 1.1,MBC-Attention,57,0.36075949367088606,31,False,False
+Extinctomics,representative_01,0.05,3148,158,APEX 1.1,AMPredictor,58,0.3670886075949367,31,False,False
+Extinctomics,representative_01,0.05,3148,158,MBC-Attention,AMPredictor,67,0.4240506329113924,31,False,False
+Extinctomics,representative_02,0.05,3148,158,APEX 1.1,MBC-Attention,58,0.3670886075949367,32,False,False
+Extinctomics,representative_02,0.05,3148,158,APEX 1.1,AMPredictor,57,0.36075949367088606,32,False,False
+Extinctomics,representative_02,0.05,3148,158,MBC-Attention,AMPredictor,73,0.4620253164556962,32,False,False
+Extinctomics,representative_03,0.05,3148,158,APEX 1.1,MBC-Attention,53,0.33544303797468356,29,False,False
+Extinctomics,representative_03,0.05,3148,158,APEX 1.1,AMPredictor,54,0.34177215189873417,29,False,False
+Extinctomics,representative_03,0.05,3148,158,MBC-Attention,AMPredictor,70,0.4430379746835443,29,False,False
+Extinctomics,representative_04,0.05,3148,158,APEX 1.1,MBC-Attention,61,0.3860759493670886,35,False,False
+Extinctomics,representative_04,0.05,3148,158,APEX 1.1,AMPredictor,60,0.379746835443038,35,False,False
+Extinctomics,representative_04,0.05,3148,158,MBC-Attention,AMPredictor,73,0.4620253164556962,35,False,False
+Extinctomics,representative_05,0.05,3148,158,APEX 1.1,MBC-Attention,57,0.36075949367088606,32,False,False
+Extinctomics,representative_05,0.05,3148,158,APEX 1.1,AMPredictor,58,0.3670886075949367,32,False,False
+Extinctomics,representative_05,0.05,3148,158,MBC-Attention,AMPredictor,72,0.45569620253164556,32,False,False
+Extinctomics,representative_06,0.05,3148,158,APEX 1.1,MBC-Attention,58,0.3670886075949367,31,False,False
+Extinctomics,representative_06,0.05,3148,158,APEX 1.1,AMPredictor,55,0.34810126582278483,31,False,False
+Extinctomics,representative_06,0.05,3148,158,MBC-Attention,AMPredictor,74,0.46835443037974683,31,False,False
+Extinctomics,representative_07,0.05,3148,158,APEX 1.1,MBC-Attention,62,0.3924050632911392,33,False,False
+Extinctomics,representative_07,0.05,3148,158,APEX 1.1,AMPredictor,58,0.3670886075949367,33,False,False
+Extinctomics,representative_07,0.05,3148,158,MBC-Attention,AMPredictor,69,0.43670886075949367,33,False,False
+Extinctomics,representative_08,0.05,3148,158,APEX 1.1,MBC-Attention,56,0.35443037974683544,28,False,False
+Extinctomics,representative_08,0.05,3148,158,APEX 1.1,AMPredictor,54,0.34177215189873417,28,False,False
+Extinctomics,representative_08,0.05,3148,158,MBC-Attention,AMPredictor,69,0.43670886075949367,28,False,False
+Extinctomics,representative_09,0.05,3148,158,APEX 1.1,MBC-Attention,58,0.3670886075949367,34,False,False
+Extinctomics,representative_09,0.05,3148,158,APEX 1.1,AMPredictor,60,0.379746835443038,34,False,False
+Extinctomics,representative_09,0.05,3148,158,MBC-Attention,AMPredictor,73,0.4620253164556962,34,False,False
+Extinctomics,representative_10,0.05,3148,158,APEX 1.1,MBC-Attention,58,0.3670886075949367,33,False,False
+Extinctomics,representative_10,0.05,3148,158,APEX 1.1,AMPredictor,58,0.3670886075949367,33,False,False
+Extinctomics,representative_10,0.05,3148,158,MBC-Attention,AMPredictor,74,0.46835443037974683,33,False,False
+Extinctomics,representative_11,0.05,3148,158,APEX 1.1,MBC-Attention,55,0.34810126582278483,31,False,False
+Extinctomics,representative_11,0.05,3148,158,APEX 1.1,AMPredictor,54,0.34177215189873417,31,False,False
+Extinctomics,representative_11,0.05,3148,158,MBC-Attention,AMPredictor,73,0.4620253164556962,31,False,False
+Extinctomics,representative_12,0.05,3148,158,APEX 1.1,MBC-Attention,57,0.36075949367088606,32,False,False
+Extinctomics,representative_12,0.05,3148,158,APEX 1.1,AMPredictor,56,0.35443037974683544,32,False,False
+Extinctomics,representative_12,0.05,3148,158,MBC-Attention,AMPredictor,73,0.4620253164556962,32,False,False
+Extinctomics,representative_13,0.05,3148,158,APEX 1.1,MBC-Attention,59,0.37341772151898733,32,False,False
+Extinctomics,representative_13,0.05,3148,158,APEX 1.1,AMPredictor,60,0.379746835443038,32,False,False
+Extinctomics,representative_13,0.05,3148,158,MBC-Attention,AMPredictor,71,0.44936708860759494,32,False,False
+Extinctomics,representative_14,0.05,3148,158,APEX 1.1,MBC-Attention,57,0.36075949367088606,30,False,False
+Extinctomics,representative_14,0.05,3148,158,APEX 1.1,AMPredictor,56,0.35443037974683544,30,False,False
+Extinctomics,representative_14,0.05,3148,158,MBC-Attention,AMPredictor,72,0.45569620253164556,30,False,False
+Extinctomics,representative_15,0.05,3148,158,APEX 1.1,MBC-Attention,56,0.35443037974683544,34,False,False
+Extinctomics,representative_15,0.05,3148,158,APEX 1.1,AMPredictor,59,0.37341772151898733,34,False,False
+Extinctomics,representative_15,0.05,3148,158,MBC-Attention,AMPredictor,75,0.47468354430379744,34,False,False
+Extinctomics,representative_16,0.05,3148,158,APEX 1.1,MBC-Attention,56,0.35443037974683544,34,False,False
+Extinctomics,representative_16,0.05,3148,158,APEX 1.1,AMPredictor,62,0.3924050632911392,34,False,False
+Extinctomics,representative_16,0.05,3148,158,MBC-Attention,AMPredictor,73,0.4620253164556962,34,False,False
+Extinctomics,representative_17,0.05,3148,158,APEX 1.1,MBC-Attention,58,0.3670886075949367,32,False,False
+Extinctomics,representative_17,0.05,3148,158,APEX 1.1,AMPredictor,60,0.379746835443038,32,False,False
+Extinctomics,representative_17,0.05,3148,158,MBC-Attention,AMPredictor,69,0.43670886075949367,32,False,False
+Extinctomics,representative_18,0.05,3148,158,APEX 1.1,MBC-Attention,57,0.36075949367088606,31,False,False
+Extinctomics,representative_18,0.05,3148,158,APEX 1.1,AMPredictor,57,0.36075949367088606,31,False,False
+Extinctomics,representative_18,0.05,3148,158,MBC-Attention,AMPredictor,70,0.4430379746835443,31,False,False
+Extinctomics,representative_19,0.05,3148,158,APEX 1.1,MBC-Attention,56,0.35443037974683544,29,False,False
+Extinctomics,representative_19,0.05,3148,158,APEX 1.1,AMPredictor,55,0.34810126582278483,29,False,False
+Extinctomics,representative_19,0.05,3148,158,MBC-Attention,AMPredictor,69,0.43670886075949367,29,False,False
+Human_Proteomics,every_sequence,0.01,42995,430,APEX 1.1,MBC-Attention,2,0.004651162790697674,0,False,False
+Human_Proteomics,every_sequence,0.01,42995,430,APEX 1.1,AMPredictor,1,0.002325581395348837,0,False,False
+Human_Proteomics,every_sequence,0.01,42995,430,MBC-Attention,AMPredictor,13,0.030232558139534883,0,False,False
+Human_Proteomics,every_sequence,0.02,42995,860,APEX 1.1,MBC-Attention,23,0.026744186046511628,0,False,False
+Human_Proteomics,every_sequence,0.02,42995,860,APEX 1.1,AMPredictor,11,0.012790697674418604,0,False,False
+Human_Proteomics,every_sequence,0.02,42995,860,MBC-Attention,AMPredictor,49,0.056976744186046514,0,False,False
+Human_Proteomics,every_sequence,0.05,42995,2150,APEX 1.1,MBC-Attention,140,0.06511627906976744,36,False,False
+Human_Proteomics,every_sequence,0.05,42995,2150,APEX 1.1,AMPredictor,121,0.05627906976744186,36,False,False
+Human_Proteomics,every_sequence,0.05,42995,2150,MBC-Attention,AMPredictor,402,0.1869767441860465,36,False,False
+Human_Proteomics,every_sequence,0.1,42995,4300,APEX 1.1,MBC-Attention,538,0.12511627906976744,189,False,False
+Human_Proteomics,every_sequence,0.1,42995,4300,APEX 1.1,AMPredictor,533,0.12395348837209302,189,False,False
+Human_Proteomics,every_sequence,0.1,42995,4300,MBC-Attention,AMPredictor,1235,0.2872093023255814,189,False,False
+Human_Proteomics,C_free_length8_39,0.05,22205,1111,APEX 1.1,MBC-Attention,43,0.0387038703870387,4,False,False
+Human_Proteomics,C_free_length8_39,0.05,22205,1111,APEX 1.1,AMPredictor,19,0.017101710171017102,4,False,False
+Human_Proteomics,C_free_length8_39,0.05,22205,1111,MBC-Attention,AMPredictor,211,0.18991899189918993,4,False,False
+Human_Proteomics,group_medians,0.05,22396,1120,APEX 1.1,MBC-Attention,74,0.06607142857142857,22,False,False
+Human_Proteomics,group_medians,0.05,22396,1120,APEX 1.1,AMPredictor,68,0.060714285714285714,22,False,False
+Human_Proteomics,group_medians,0.05,22396,1120,MBC-Attention,AMPredictor,232,0.20714285714285716,22,False,False
+Human_Proteomics,representative_00,0.05,22396,1120,APEX 1.1,MBC-Attention,73,0.06517857142857143,19,False,False
+Human_Proteomics,representative_00,0.05,22396,1120,APEX 1.1,AMPredictor,62,0.055357142857142855,19,False,False
+Human_Proteomics,representative_00,0.05,22396,1120,MBC-Attention,AMPredictor,229,0.2044642857142857,19,False,False
+Human_Proteomics,representative_01,0.05,22396,1120,APEX 1.1,MBC-Attention,77,0.06875,21,False,False
+Human_Proteomics,representative_01,0.05,22396,1120,APEX 1.1,AMPredictor,63,0.05625,21,False,False
+Human_Proteomics,representative_01,0.05,22396,1120,MBC-Attention,AMPredictor,234,0.20892857142857144,21,False,False
+Human_Proteomics,representative_02,0.05,22396,1120,APEX 1.1,MBC-Attention,73,0.06517857142857143,23,False,False
+Human_Proteomics,representative_02,0.05,22396,1120,APEX 1.1,AMPredictor,65,0.05803571428571429,23,False,False
+Human_Proteomics,representative_02,0.05,22396,1120,MBC-Attention,AMPredictor,230,0.20535714285714285,23,False,False
+Human_Proteomics,representative_03,0.05,22396,1120,APEX 1.1,MBC-Attention,79,0.07053571428571428,21,False,False
+Human_Proteomics,representative_03,0.05,22396,1120,APEX 1.1,AMPredictor,64,0.05714285714285714,21,False,False
+Human_Proteomics,representative_03,0.05,22396,1120,MBC-Attention,AMPredictor,226,0.2017857142857143,21,False,False
+Human_Proteomics,representative_04,0.05,22396,1120,APEX 1.1,MBC-Attention,70,0.0625,20,False,False
+Human_Proteomics,representative_04,0.05,22396,1120,APEX 1.1,AMPredictor,64,0.05714285714285714,20,False,False
+Human_Proteomics,representative_04,0.05,22396,1120,MBC-Attention,AMPredictor,225,0.20089285714285715,20,False,False
+Human_Proteomics,representative_05,0.05,22396,1120,APEX 1.1,MBC-Attention,77,0.06875,23,False,False
+Human_Proteomics,representative_05,0.05,22396,1120,APEX 1.1,AMPredictor,59,0.05267857142857143,23,False,False
+Human_Proteomics,representative_05,0.05,22396,1120,MBC-Attention,AMPredictor,226,0.2017857142857143,23,False,False
+Human_Proteomics,representative_06,0.05,22396,1120,APEX 1.1,MBC-Attention,66,0.05892857142857143,22,False,False
+Human_Proteomics,representative_06,0.05,22396,1120,APEX 1.1,AMPredictor,62,0.055357142857142855,22,False,False
+Human_Proteomics,representative_06,0.05,22396,1120,MBC-Attention,AMPredictor,228,0.20357142857142857,22,False,False
+Human_Proteomics,representative_07,0.05,22396,1120,APEX 1.1,MBC-Attention,77,0.06875,22,False,False
+Human_Proteomics,representative_07,0.05,22396,1120,APEX 1.1,AMPredictor,60,0.05357142857142857,22,False,False
+Human_Proteomics,representative_07,0.05,22396,1120,MBC-Attention,AMPredictor,225,0.20089285714285715,22,False,False
+Human_Proteomics,representative_08,0.05,22396,1120,APEX 1.1,MBC-Attention,63,0.05625,18,False,False
+Human_Proteomics,representative_08,0.05,22396,1120,APEX 1.1,AMPredictor,59,0.05267857142857143,18,False,False
+Human_Proteomics,representative_08,0.05,22396,1120,MBC-Attention,AMPredictor,227,0.20267857142857143,18,False,False
+Human_Proteomics,representative_09,0.05,22396,1120,APEX 1.1,MBC-Attention,70,0.0625,18,False,False
+Human_Proteomics,representative_09,0.05,22396,1120,APEX 1.1,AMPredictor,55,0.049107142857142856,18,False,False
+Human_Proteomics,representative_09,0.05,22396,1120,MBC-Attention,AMPredictor,227,0.20267857142857143,18,False,False
+Human_Proteomics,representative_10,0.05,22396,1120,APEX 1.1,MBC-Attention,73,0.06517857142857143,22,False,False
+Human_Proteomics,representative_10,0.05,22396,1120,APEX 1.1,AMPredictor,63,0.05625,22,False,False
+Human_Proteomics,representative_10,0.05,22396,1120,MBC-Attention,AMPredictor,236,0.21071428571428572,22,False,False
+Human_Proteomics,representative_11,0.05,22396,1120,APEX 1.1,MBC-Attention,77,0.06875,22,False,False
+Human_Proteomics,representative_11,0.05,22396,1120,APEX 1.1,AMPredictor,65,0.05803571428571429,22,False,False
+Human_Proteomics,representative_11,0.05,22396,1120,MBC-Attention,AMPredictor,225,0.20089285714285715,22,False,False
+Human_Proteomics,representative_12,0.05,22396,1120,APEX 1.1,MBC-Attention,71,0.06339285714285714,23,False,False
+Human_Proteomics,representative_12,0.05,22396,1120,APEX 1.1,AMPredictor,62,0.055357142857142855,23,False,False
+Human_Proteomics,representative_12,0.05,22396,1120,MBC-Attention,AMPredictor,230,0.20535714285714285,23,False,False
+Human_Proteomics,representative_13,0.05,22396,1120,APEX 1.1,MBC-Attention,76,0.06785714285714285,24,False,False
+Human_Proteomics,representative_13,0.05,22396,1120,APEX 1.1,AMPredictor,66,0.05892857142857143,24,False,False
+Human_Proteomics,representative_13,0.05,22396,1120,MBC-Attention,AMPredictor,231,0.20625,24,False,False
+Human_Proteomics,representative_14,0.05,22396,1120,APEX 1.1,MBC-Attention,74,0.06607142857142857,24,False,False
+Human_Proteomics,representative_14,0.05,22396,1120,APEX 1.1,AMPredictor,65,0.05803571428571429,24,False,False
+Human_Proteomics,representative_14,0.05,22396,1120,MBC-Attention,AMPredictor,236,0.21071428571428572,24,False,False
+Human_Proteomics,representative_15,0.05,22396,1120,APEX 1.1,MBC-Attention,70,0.0625,18,False,False
+Human_Proteomics,representative_15,0.05,22396,1120,APEX 1.1,AMPredictor,63,0.05625,18,False,False
+Human_Proteomics,representative_15,0.05,22396,1120,MBC-Attention,AMPredictor,227,0.20267857142857143,18,False,False
+Human_Proteomics,representative_16,0.05,22396,1120,APEX 1.1,MBC-Attention,75,0.06696428571428571,24,False,False
+Human_Proteomics,representative_16,0.05,22396,1120,APEX 1.1,AMPredictor,64,0.05714285714285714,24,False,False
+Human_Proteomics,representative_16,0.05,22396,1120,MBC-Attention,AMPredictor,230,0.20535714285714285,24,False,False
+Human_Proteomics,representative_17,0.05,22396,1120,APEX 1.1,MBC-Attention,75,0.06696428571428571,23,False,False
+Human_Proteomics,representative_17,0.05,22396,1120,APEX 1.1,AMPredictor,68,0.060714285714285714,23,False,False
+Human_Proteomics,representative_17,0.05,22396,1120,MBC-Attention,AMPredictor,231,0.20625,23,False,False
+Human_Proteomics,representative_18,0.05,22396,1120,APEX 1.1,MBC-Attention,69,0.06160714285714286,19,False,False
+Human_Proteomics,representative_18,0.05,22396,1120,APEX 1.1,AMPredictor,62,0.055357142857142855,19,False,False
+Human_Proteomics,representative_18,0.05,22396,1120,MBC-Attention,AMPredictor,219,0.19553571428571428,19,False,False
+Human_Proteomics,representative_19,0.05,22396,1120,APEX 1.1,MBC-Attention,75,0.06696428571428571,22,False,False
+Human_Proteomics,representative_19,0.05,22396,1120,APEX 1.1,AMPredictor,61,0.054464285714285715,22,False,False
+Human_Proteomics,representative_19,0.05,22396,1120,MBC-Attention,AMPredictor,225,0.20089285714285715,22,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.01,23952,240,APEX 1.1,MBC-Attention,10,0.041666666666666664,4,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.01,23952,240,APEX 1.1,AMPredictor,5,0.020833333333333332,4,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.01,23952,240,MBC-Attention,AMPredictor,37,0.15416666666666667,4,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.02,23952,480,APEX 1.1,MBC-Attention,36,0.075,7,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.02,23952,480,APEX 1.1,AMPredictor,17,0.035416666666666666,7,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.02,23952,480,MBC-Attention,AMPredictor,100,0.20833333333333334,7,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.05,23952,1198,APEX 1.1,MBC-Attention,164,0.13689482470784642,40,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.05,23952,1198,APEX 1.1,AMPredictor,101,0.08430717863105175,40,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.05,23952,1198,MBC-Attention,AMPredictor,309,0.2579298831385643,40,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.1,23952,2396,APEX 1.1,MBC-Attention,640,0.2671118530884808,247,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.1,23952,2396,APEX 1.1,AMPredictor,487,0.20325542570951585,247,False,False
+NEURIPS_AMP_CHALLENGE,every_sequence,0.1,23952,2396,MBC-Attention,AMPredictor,729,0.30425709515859767,247,False,False
+NEURIPS_AMP_CHALLENGE,C_free_length8_39,0.05,16031,802,APEX 1.1,MBC-Attention,116,0.14463840399002495,37,False,False
+NEURIPS_AMP_CHALLENGE,C_free_length8_39,0.05,16031,802,APEX 1.1,AMPredictor,81,0.10099750623441396,37,False,False
+NEURIPS_AMP_CHALLENGE,C_free_length8_39,0.05,16031,802,MBC-Attention,AMPredictor,228,0.28428927680798005,37,False,False
+NEURIPS_AMP_CHALLENGE,group_medians,0.05,17703,886,APEX 1.1,MBC-Attention,176,0.1986455981941309,43,False,False
+NEURIPS_AMP_CHALLENGE,group_medians,0.05,17703,886,APEX 1.1,AMPredictor,78,0.08803611738148984,43,False,False
+NEURIPS_AMP_CHALLENGE,group_medians,0.05,17703,886,MBC-Attention,AMPredictor,223,0.2516930022573363,43,False,False
+NEURIPS_AMP_CHALLENGE,representative_00,0.05,17703,886,APEX 1.1,MBC-Attention,174,0.1963882618510158,43,False,False
+NEURIPS_AMP_CHALLENGE,representative_00,0.05,17703,886,APEX 1.1,AMPredictor,81,0.09142212189616253,43,False,False
+NEURIPS_AMP_CHALLENGE,representative_00,0.05,17703,886,MBC-Attention,AMPredictor,225,0.25395033860045146,43,False,False
+NEURIPS_AMP_CHALLENGE,representative_01,0.05,17703,886,APEX 1.1,MBC-Attention,178,0.20090293453724606,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_01,0.05,17703,886,APEX 1.1,AMPredictor,80,0.09029345372460497,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_01,0.05,17703,886,MBC-Attention,AMPredictor,221,0.24943566591422123,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_02,0.05,17703,886,APEX 1.1,MBC-Attention,178,0.20090293453724606,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_02,0.05,17703,886,APEX 1.1,AMPredictor,77,0.08690744920993228,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_02,0.05,17703,886,MBC-Attention,AMPredictor,222,0.2505643340857788,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_03,0.05,17703,886,APEX 1.1,MBC-Attention,179,0.2020316027088036,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_03,0.05,17703,886,APEX 1.1,AMPredictor,79,0.08916478555304741,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_03,0.05,17703,886,MBC-Attention,AMPredictor,220,0.24830699774266365,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_04,0.05,17703,886,APEX 1.1,MBC-Attention,175,0.19751693002257337,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_04,0.05,17703,886,APEX 1.1,AMPredictor,76,0.08577878103837472,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_04,0.05,17703,886,MBC-Attention,AMPredictor,221,0.24943566591422123,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_05,0.05,17703,886,APEX 1.1,MBC-Attention,170,0.19187358916478556,38,False,False
+NEURIPS_AMP_CHALLENGE,representative_05,0.05,17703,886,APEX 1.1,AMPredictor,75,0.08465011286681716,38,False,False
+NEURIPS_AMP_CHALLENGE,representative_05,0.05,17703,886,MBC-Attention,AMPredictor,221,0.24943566591422123,38,False,False
+NEURIPS_AMP_CHALLENGE,representative_06,0.05,17703,886,APEX 1.1,MBC-Attention,174,0.1963882618510158,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_06,0.05,17703,886,APEX 1.1,AMPredictor,77,0.08690744920993228,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_06,0.05,17703,886,MBC-Attention,AMPredictor,224,0.2528216704288939,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_07,0.05,17703,886,APEX 1.1,MBC-Attention,169,0.19074492099322798,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_07,0.05,17703,886,APEX 1.1,AMPredictor,79,0.08916478555304741,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_07,0.05,17703,886,MBC-Attention,AMPredictor,220,0.24830699774266365,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_08,0.05,17703,886,APEX 1.1,MBC-Attention,174,0.1963882618510158,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_08,0.05,17703,886,APEX 1.1,AMPredictor,79,0.08916478555304741,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_08,0.05,17703,886,MBC-Attention,AMPredictor,219,0.24717832957110608,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_09,0.05,17703,886,APEX 1.1,MBC-Attention,178,0.20090293453724606,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_09,0.05,17703,886,APEX 1.1,AMPredictor,79,0.08916478555304741,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_09,0.05,17703,886,MBC-Attention,AMPredictor,225,0.25395033860045146,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_10,0.05,17703,886,APEX 1.1,MBC-Attention,178,0.20090293453724606,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_10,0.05,17703,886,APEX 1.1,AMPredictor,77,0.08690744920993228,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_10,0.05,17703,886,MBC-Attention,AMPredictor,219,0.24717832957110608,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_11,0.05,17703,886,APEX 1.1,MBC-Attention,171,0.1930022573363431,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_11,0.05,17703,886,APEX 1.1,AMPredictor,77,0.08690744920993228,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_11,0.05,17703,886,MBC-Attention,AMPredictor,219,0.24717832957110608,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_12,0.05,17703,886,APEX 1.1,MBC-Attention,171,0.1930022573363431,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_12,0.05,17703,886,APEX 1.1,AMPredictor,76,0.08577878103837472,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_12,0.05,17703,886,MBC-Attention,AMPredictor,217,0.24492099322799096,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_13,0.05,17703,886,APEX 1.1,MBC-Attention,180,0.20316027088036118,44,False,False
+NEURIPS_AMP_CHALLENGE,representative_13,0.05,17703,886,APEX 1.1,AMPredictor,80,0.09029345372460497,44,False,False
+NEURIPS_AMP_CHALLENGE,representative_13,0.05,17703,886,MBC-Attention,AMPredictor,224,0.2528216704288939,44,False,False
+NEURIPS_AMP_CHALLENGE,representative_14,0.05,17703,886,APEX 1.1,MBC-Attention,177,0.19977426636568849,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_14,0.05,17703,886,APEX 1.1,AMPredictor,78,0.08803611738148984,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_14,0.05,17703,886,MBC-Attention,AMPredictor,220,0.24830699774266365,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_15,0.05,17703,886,APEX 1.1,MBC-Attention,170,0.19187358916478556,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_15,0.05,17703,886,APEX 1.1,AMPredictor,77,0.08690744920993228,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_15,0.05,17703,886,MBC-Attention,AMPredictor,221,0.24943566591422123,39,False,False
+NEURIPS_AMP_CHALLENGE,representative_16,0.05,17703,886,APEX 1.1,MBC-Attention,173,0.19525959367945825,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_16,0.05,17703,886,APEX 1.1,AMPredictor,78,0.08803611738148984,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_16,0.05,17703,886,MBC-Attention,AMPredictor,218,0.24604966139954854,41,False,False
+NEURIPS_AMP_CHALLENGE,representative_17,0.05,17703,886,APEX 1.1,MBC-Attention,173,0.19525959367945825,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_17,0.05,17703,886,APEX 1.1,AMPredictor,78,0.08803611738148984,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_17,0.05,17703,886,MBC-Attention,AMPredictor,220,0.24830699774266365,42,False,False
+NEURIPS_AMP_CHALLENGE,representative_18,0.05,17703,886,APEX 1.1,MBC-Attention,175,0.19751693002257337,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_18,0.05,17703,886,APEX 1.1,AMPredictor,78,0.08803611738148984,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_18,0.05,17703,886,MBC-Attention,AMPredictor,220,0.24830699774266365,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_19,0.05,17703,886,APEX 1.1,MBC-Attention,178,0.20090293453724606,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_19,0.05,17703,886,APEX 1.1,AMPredictor,78,0.08803611738148984,40,False,False
+NEURIPS_AMP_CHALLENGE,representative_19,0.05,17703,886,MBC-Attention,AMPredictor,220,0.24830699774266365,40,False,False
+Venomics,every_sequence,0.01,4618,47,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,every_sequence,0.01,4618,47,APEX 1.1,AMPredictor,0,0.0,0,False,False
+Venomics,every_sequence,0.01,4618,47,MBC-Attention,AMPredictor,0,0.0,0,False,False
+Venomics,every_sequence,0.02,4618,93,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,every_sequence,0.02,4618,93,APEX 1.1,AMPredictor,1,0.010752688172043012,0,False,False
+Venomics,every_sequence,0.02,4618,93,MBC-Attention,AMPredictor,3,0.03225806451612903,0,False,False
+Venomics,every_sequence,0.05,4618,231,APEX 1.1,MBC-Attention,12,0.05194805194805195,0,False,False
+Venomics,every_sequence,0.05,4618,231,APEX 1.1,AMPredictor,5,0.021645021645021644,0,False,False
+Venomics,every_sequence,0.05,4618,231,MBC-Attention,AMPredictor,32,0.13852813852813853,0,False,False
+Venomics,every_sequence,0.1,4618,462,APEX 1.1,MBC-Attention,71,0.15367965367965367,25,False,False
+Venomics,every_sequence,0.1,4618,462,APEX 1.1,AMPredictor,51,0.11038961038961038,25,False,False
+Venomics,every_sequence,0.1,4618,462,MBC-Attention,AMPredictor,164,0.354978354978355,25,False,False
+Venomics,C_free_length8_39,0.05,4275,214,APEX 1.1,MBC-Attention,16,0.07476635514018691,0,False,False
+Venomics,C_free_length8_39,0.05,4275,214,APEX 1.1,AMPredictor,5,0.02336448598130841,0,False,False
+Venomics,C_free_length8_39,0.05,4275,214,MBC-Attention,AMPredictor,32,0.14953271028037382,0,False,False
+Venomics,group_medians,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,group_medians,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,group_medians,0.05,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0,False,False
+Venomics,representative_00,0.05,401,21,APEX 1.1,MBC-Attention,2,0.09523809523809523,0,False,False
+Venomics,representative_00,0.05,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0,False,False
+Venomics,representative_00,0.05,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0,False,False
+Venomics,representative_01,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_01,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_01,0.05,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0,False,False
+Venomics,representative_02,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_02,0.05,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0,False,False
+Venomics,representative_02,0.05,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0,False,False
+Venomics,representative_03,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_03,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_03,0.05,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0,False,False
+Venomics,representative_04,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_04,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_04,0.05,401,21,MBC-Attention,AMPredictor,7,0.3333333333333333,0,False,False
+Venomics,representative_05,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_05,0.05,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0,False,False
+Venomics,representative_05,0.05,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0,False,False
+Venomics,representative_06,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_06,0.05,401,21,APEX 1.1,AMPredictor,0,0.0,0,False,False
+Venomics,representative_06,0.05,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0,False,False
+Venomics,representative_07,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_07,0.05,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0,False,False
+Venomics,representative_07,0.05,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0,False,False
+Venomics,representative_08,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_08,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_08,0.05,401,21,MBC-Attention,AMPredictor,7,0.3333333333333333,0,False,False
+Venomics,representative_09,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_09,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_09,0.05,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0,False,False
+Venomics,representative_10,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_10,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_10,0.05,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0,False,False
+Venomics,representative_11,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_11,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_11,0.05,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0,False,False
+Venomics,representative_12,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_12,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_12,0.05,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0,False,False
+Venomics,representative_13,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_13,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_13,0.05,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0,False,False
+Venomics,representative_14,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_14,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_14,0.05,401,21,MBC-Attention,AMPredictor,5,0.23809523809523808,0,False,False
+Venomics,representative_15,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_15,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_15,0.05,401,21,MBC-Attention,AMPredictor,3,0.14285714285714285,0,False,False
+Venomics,representative_16,0.05,401,21,APEX 1.1,MBC-Attention,2,0.09523809523809523,0,False,False
+Venomics,representative_16,0.05,401,21,APEX 1.1,AMPredictor,2,0.09523809523809523,0,False,False
+Venomics,representative_16,0.05,401,21,MBC-Attention,AMPredictor,3,0.14285714285714285,0,False,False
+Venomics,representative_17,0.05,401,21,APEX 1.1,MBC-Attention,0,0.0,0,False,False
+Venomics,representative_17,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_17,0.05,401,21,MBC-Attention,AMPredictor,4,0.19047619047619047,0,False,False
+Venomics,representative_18,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_18,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_18,0.05,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0,False,False
+Venomics,representative_19,0.05,401,21,APEX 1.1,MBC-Attention,1,0.047619047619047616,0,False,False
+Venomics,representative_19,0.05,401,21,APEX 1.1,AMPredictor,1,0.047619047619047616,0,False,False
+Venomics,representative_19,0.05,401,21,MBC-Attention,AMPredictor,6,0.2857142857142857,0,False,False
+marlys_8to50_novel,every_sequence,0.01,4652,47,APEX 1.1,MBC-Attention,12,0.2553191489361702,0,False,False
+marlys_8to50_novel,every_sequence,0.01,4652,47,APEX 1.1,AMPredictor,0,0.0,0,False,False
+marlys_8to50_novel,every_sequence,0.01,4652,47,MBC-Attention,AMPredictor,0,0.0,0,False,False
+marlys_8to50_novel,every_sequence,0.02,4652,94,APEX 1.1,MBC-Attention,33,0.35106382978723405,0,False,False
+marlys_8to50_novel,every_sequence,0.02,4652,94,APEX 1.1,AMPredictor,1,0.010638297872340425,0,False,False
+marlys_8to50_novel,every_sequence,0.02,4652,94,MBC-Attention,AMPredictor,0,0.0,0,False,False
+marlys_8to50_novel,every_sequence,0.05,4652,233,APEX 1.1,MBC-Attention,124,0.5321888412017167,4,False,False
+marlys_8to50_novel,every_sequence,0.05,4652,233,APEX 1.1,AMPredictor,19,0.0815450643776824,4,False,False
+marlys_8to50_novel,every_sequence,0.05,4652,233,MBC-Attention,AMPredictor,13,0.055793991416309016,4,False,False
+marlys_8to50_novel,every_sequence,0.1,4652,466,APEX 1.1,MBC-Attention,251,0.5386266094420601,49,False,False
+marlys_8to50_novel,every_sequence,0.1,4652,466,APEX 1.1,AMPredictor,151,0.3240343347639485,49,False,False
+marlys_8to50_novel,every_sequence,0.1,4652,466,MBC-Attention,AMPredictor,75,0.1609442060085837,49,False,False
+marlys_8to50_novel,C_free_length8_39,0.05,413,21,APEX 1.1,MBC-Attention,16,0.7619047619047619,4,False,False
+marlys_8to50_novel,C_free_length8_39,0.05,413,21,APEX 1.1,AMPredictor,5,0.23809523809523808,4,False,False
+marlys_8to50_novel,C_free_length8_39,0.05,413,21,MBC-Attention,AMPredictor,4,0.19047619047619047,4,False,False
+marlys_8to50_novel,group_medians,0.05,3569,179,APEX 1.1,MBC-Attention,64,0.3575418994413408,7,False,False
+marlys_8to50_novel,group_medians,0.05,3569,179,APEX 1.1,AMPredictor,30,0.16759776536312848,7,False,False
+marlys_8to50_novel,group_medians,0.05,3569,179,MBC-Attention,AMPredictor,15,0.08379888268156424,7,False,False
+marlys_8to50_novel,representative_00,0.05,3569,179,APEX 1.1,MBC-Attention,63,0.35195530726256985,8,False,False
+marlys_8to50_novel,representative_00,0.05,3569,179,APEX 1.1,AMPredictor,30,0.16759776536312848,8,False,False
+marlys_8to50_novel,representative_00,0.05,3569,179,MBC-Attention,AMPredictor,16,0.0893854748603352,8,False,False
+marlys_8to50_novel,representative_01,0.05,3569,179,APEX 1.1,MBC-Attention,64,0.3575418994413408,8,False,False
+marlys_8to50_novel,representative_01,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,8,False,False
+marlys_8to50_novel,representative_01,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,8,False,False
+marlys_8to50_novel,representative_02,0.05,3569,179,APEX 1.1,MBC-Attention,63,0.35195530726256985,9,False,False
+marlys_8to50_novel,representative_02,0.05,3569,179,APEX 1.1,AMPredictor,32,0.1787709497206704,9,False,False
+marlys_8to50_novel,representative_02,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,9,False,False
+marlys_8to50_novel,representative_03,0.05,3569,179,APEX 1.1,MBC-Attention,65,0.36312849162011174,8,False,False
+marlys_8to50_novel,representative_03,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,8,False,False
+marlys_8to50_novel,representative_03,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,8,False,False
+marlys_8to50_novel,representative_04,0.05,3569,179,APEX 1.1,MBC-Attention,63,0.35195530726256985,7,False,False
+marlys_8to50_novel,representative_04,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,7,False,False
+marlys_8to50_novel,representative_04,0.05,3569,179,MBC-Attention,AMPredictor,16,0.0893854748603352,7,False,False
+marlys_8to50_novel,representative_05,0.05,3569,179,APEX 1.1,MBC-Attention,63,0.35195530726256985,8,False,False
+marlys_8to50_novel,representative_05,0.05,3569,179,APEX 1.1,AMPredictor,30,0.16759776536312848,8,False,False
+marlys_8to50_novel,representative_05,0.05,3569,179,MBC-Attention,AMPredictor,16,0.0893854748603352,8,False,False
+marlys_8to50_novel,representative_06,0.05,3569,179,APEX 1.1,MBC-Attention,67,0.3743016759776536,8,False,False
+marlys_8to50_novel,representative_06,0.05,3569,179,APEX 1.1,AMPredictor,32,0.1787709497206704,8,False,False
+marlys_8to50_novel,representative_06,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,8,False,False
+marlys_8to50_novel,representative_07,0.05,3569,179,APEX 1.1,MBC-Attention,66,0.3687150837988827,9,False,False
+marlys_8to50_novel,representative_07,0.05,3569,179,APEX 1.1,AMPredictor,32,0.1787709497206704,9,False,False
+marlys_8to50_novel,representative_07,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,9,False,False
+marlys_8to50_novel,representative_08,0.05,3569,179,APEX 1.1,MBC-Attention,65,0.36312849162011174,8,False,False
+marlys_8to50_novel,representative_08,0.05,3569,179,APEX 1.1,AMPredictor,32,0.1787709497206704,8,False,False
+marlys_8to50_novel,representative_08,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,8,False,False
+marlys_8to50_novel,representative_09,0.05,3569,179,APEX 1.1,MBC-Attention,63,0.35195530726256985,9,False,False
+marlys_8to50_novel,representative_09,0.05,3569,179,APEX 1.1,AMPredictor,32,0.1787709497206704,9,False,False
+marlys_8to50_novel,representative_09,0.05,3569,179,MBC-Attention,AMPredictor,18,0.1005586592178771,9,False,False
+marlys_8to50_novel,representative_10,0.05,3569,179,APEX 1.1,MBC-Attention,62,0.3463687150837989,8,False,False
+marlys_8to50_novel,representative_10,0.05,3569,179,APEX 1.1,AMPredictor,32,0.1787709497206704,8,False,False
+marlys_8to50_novel,representative_10,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,8,False,False
+marlys_8to50_novel,representative_11,0.05,3569,179,APEX 1.1,MBC-Attention,64,0.3575418994413408,7,False,False
+marlys_8to50_novel,representative_11,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,7,False,False
+marlys_8to50_novel,representative_11,0.05,3569,179,MBC-Attention,AMPredictor,15,0.08379888268156424,7,False,False
+marlys_8to50_novel,representative_12,0.05,3569,179,APEX 1.1,MBC-Attention,64,0.3575418994413408,8,False,False
+marlys_8to50_novel,representative_12,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,8,False,False
+marlys_8to50_novel,representative_12,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,8,False,False
+marlys_8to50_novel,representative_13,0.05,3569,179,APEX 1.1,MBC-Attention,64,0.3575418994413408,8,False,False
+marlys_8to50_novel,representative_13,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,8,False,False
+marlys_8to50_novel,representative_13,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,8,False,False
+marlys_8to50_novel,representative_14,0.05,3569,179,APEX 1.1,MBC-Attention,63,0.35195530726256985,8,False,False
+marlys_8to50_novel,representative_14,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,8,False,False
+marlys_8to50_novel,representative_14,0.05,3569,179,MBC-Attention,AMPredictor,16,0.0893854748603352,8,False,False
+marlys_8to50_novel,representative_15,0.05,3569,179,APEX 1.1,MBC-Attention,62,0.3463687150837989,6,False,False
+marlys_8to50_novel,representative_15,0.05,3569,179,APEX 1.1,AMPredictor,29,0.16201117318435754,6,False,False
+marlys_8to50_novel,representative_15,0.05,3569,179,MBC-Attention,AMPredictor,15,0.08379888268156424,6,False,False
+marlys_8to50_novel,representative_16,0.05,3569,179,APEX 1.1,MBC-Attention,64,0.3575418994413408,8,False,False
+marlys_8to50_novel,representative_16,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,8,False,False
+marlys_8to50_novel,representative_16,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,8,False,False
+marlys_8to50_novel,representative_17,0.05,3569,179,APEX 1.1,MBC-Attention,65,0.36312849162011174,7,False,False
+marlys_8to50_novel,representative_17,0.05,3569,179,APEX 1.1,AMPredictor,30,0.16759776536312848,7,False,False
+marlys_8to50_novel,representative_17,0.05,3569,179,MBC-Attention,AMPredictor,16,0.0893854748603352,7,False,False
+marlys_8to50_novel,representative_18,0.05,3569,179,APEX 1.1,MBC-Attention,65,0.36312849162011174,9,False,False
+marlys_8to50_novel,representative_18,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,9,False,False
+marlys_8to50_novel,representative_18,0.05,3569,179,MBC-Attention,AMPredictor,17,0.09497206703910614,9,False,False
+marlys_8to50_novel,representative_19,0.05,3569,179,APEX 1.1,MBC-Attention,67,0.3743016759776536,8,False,False
+marlys_8to50_novel,representative_19,0.05,3569,179,APEX 1.1,AMPredictor,31,0.17318435754189945,8,False,False
+marlys_8to50_novel,representative_19,0.05,3569,179,MBC-Attention,AMPredictor,16,0.0893854748603352,8,False,False

@@ -1,0 +1,9 @@
+check,passed
+195620_classifier_complete_sequences,True
+vote_counts_match_independently_saved_16_patterns,True
+three_way_partition_matches_existing_counts,True
+residue_fractions_sum_to_one,True
+exact_length_matched_contrasts_are_zero,True
+one_substitution_catalogue_retained,True
+pairs_same_source_and_single_substitution,True
+no_duplicate_unordered_pairs,True

@@ -1,0 +1,16 @@
+check,passed
+primary comparison has 194947 finite positive sequences,True
+all sequences mapped to source and observed component,True
+all substitution partners share their observed component,True
+no duplicate substitution pairs,True
+exact mutation count from preliminary enumeration,True
+all one-substitution identities and sites verified directly,True
+mutation gap identity APEX 1.1/MBC-Attention,True
+gap changes unaffected by model-wise offsets APEX 1.1/MBC-Attention,True
+mutation gap identity APEX 1.1/AMPredictor,True
+gap changes unaffected by model-wise offsets APEX 1.1/AMPredictor,True
+mutation gap identity MBC-Attention/AMPredictor,True
+gap changes unaffected by model-wise offsets MBC-Attention/AMPredictor,True
+absolute-distance formula equals explicit matrix,True
+grouped distance formula equals explicit groups with ties,True
+circular run control invariant to letter rotations,True

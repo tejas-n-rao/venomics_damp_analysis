@@ -1,0 +1,11 @@
+check,passed
+all_eight_sources_primary_194947,True
+all_full_rows_195625,True
+96_prior_shortlist_intersections_reproduced,True
+16_DeepAMP_source_decision_counts_reproduced,True
+matched_cells_partition_each_cohort,True
+order_source_counts_partition_5306,True
+no_group_reuse_counts_partition_2197,True
+all_order_pair_ingredients_identical,True
+all_order_pairs_same_source,True
+all_primary_source_indices_match,True

@@ -1,0 +1,28 @@
+threshold,baseline_group,new_group,n
+0.3,All negative,All negative,13409
+0.3,All negative,Mixed,11469
+0.3,All negative,All positive,0
+0.3,Mixed,All negative,0
+0.3,Mixed,Mixed,113279
+0.3,Mixed,All positive,14818
+0.3,All positive,All negative,0
+0.3,All positive,Mixed,0
+0.3,All positive,All positive,42645
+0.5,All negative,All negative,24878
+0.5,All negative,Mixed,0
+0.5,All negative,All positive,0
+0.5,Mixed,All negative,0
+0.5,Mixed,Mixed,128097
+0.5,Mixed,All positive,0
+0.5,All positive,All negative,0
+0.5,All positive,Mixed,0
+0.5,All positive,All positive,42645
+0.7,All negative,All negative,24878
+0.7,All negative,Mixed,0
+0.7,All negative,All positive,0
+0.7,Mixed,All negative,12427
+0.7,Mixed,Mixed,115670
+0.7,Mixed,All positive,0
+0.7,All positive,All negative,0
+0.7,All positive,Mixed,22028
+0.7,All positive,All positive,20617

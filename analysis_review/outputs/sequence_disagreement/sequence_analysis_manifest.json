@@ -1,0 +1,28 @@
+{
+  "input_sha256": "ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600",
+  "complete_sequences": 194947,
+  "single_substitution_pairs": 41253,
+  "substitution_components": 3354,
+  "composition_pair_count": 5410,
+  "composition_linked_pair_components": 2187,
+  "checks": 15,
+  "all_adjacent_swap_pairs_including_rotation_overlap": 285,
+  "passed": 15,
+  "failed": [],
+  "elapsed_seconds": 14.36835337500088,
+  "definitions": {
+    "rank_range": "max minus min within-model percentile across the three families on the fixed full complete-case collection",
+    "centered_range": "log2 range after model-wise cohort median removal; prediction diagnostic, not calibrated MIC",
+    "local_reference": "exact expected score distance to another sequence matched on source and length, symmetric across anchors",
+    "component_subsets": "deterministic two-way split for sensitivity after exploration; not independent confirmation"
+  },
+  "python": "3.11.8",
+  "numpy": "1.26.4",
+  "pandas": "2.1.4",
+  "dependency_sha256": {
+    "scratchpad/source_sequences.tsv": "0f0f6b0b88bac304de91c8052e9daaaa37c03979a032e65e168b70e16b96373a",
+    "analysis_review/outputs/sanity_checks/broader_sequence_components.csv": "526e3b604459d967c026b95e4a8221e18ae918bd8a7cb7ed56e9ce71f96f6c7c",
+    "analysis_review/outputs/additional_trends/exact_composition_two_member_pairs.csv": "40787ca1ddd4dcdd196cf767f5db196944971ad92aa7aafe9962a835ba25d288"
+  },
+  "scope": "Exploratory sequence/prediction associations; no measured activity, causal edit effects, or population significance inferred."
+}

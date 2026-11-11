@@ -1,0 +1,73 @@
+population,left,right,n,k,intersection,shared_fraction,representative_seed
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,493,0.4461538461538462,0
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,18,0.016289592760180997,0
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,28,0.025339366515837104,0
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,31,0.028054298642533938,0
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,34,0.03076923076923077,0
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,73,0.0660633484162896,0
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,488,0.4416289592760181,1
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,20,0.01809954751131222,1
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,28,0.025339366515837104,1
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,33,0.02986425339366516,1
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,32,0.02895927601809955,1
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,74,0.0669683257918552,1
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,487,0.4407239819004525,2
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,18,0.016289592760180997,2
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,26,0.023529411764705882,2
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,29,0.026244343891402715,2
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,34,0.03076923076923077,2
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,76,0.06877828054298643,2
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,491,0.4443438914027149,3
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,18,0.016289592760180997,3
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,27,0.024434389140271493,3
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,31,0.028054298642533938,3
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,32,0.02895927601809955,3
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,72,0.06515837104072399,3
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,486,0.43981900452488687,4
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,20,0.01809954751131222,4
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,28,0.025339366515837104,4
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,31,0.028054298642533938,4
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,35,0.03167420814479638,4
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,76,0.06877828054298643,4
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,489,0.4425339366515837,5
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,20,0.01809954751131222,5
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,29,0.026244343891402715,5
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,31,0.028054298642533938,5
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,34,0.03076923076923077,5
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,78,0.07058823529411765,5
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,497,0.4497737556561086,6
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,18,0.016289592760180997,6
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,26,0.023529411764705882,6
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,32,0.02895927601809955,6
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,30,0.027149321266968326,6
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,72,0.06515837104072399,6
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,492,0.4452488687782805,7
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,20,0.01809954751131222,7
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,28,0.025339366515837104,7
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,31,0.028054298642533938,7
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,32,0.02895927601809955,7
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,71,0.06425339366515836,7
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,488,0.4416289592760181,8
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,19,0.017194570135746608,8
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,28,0.025339366515837104,8
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,31,0.028054298642533938,8
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,33,0.02986425339366516,8
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,69,0.06244343891402715,8
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,481,0.43529411764705883,9
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,20,0.01809954751131222,9
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,28,0.025339366515837104,9
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,33,0.02986425339366516,9
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,33,0.02986425339366516,9
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,74,0.0669683257918552,9
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,489,0.4425339366515837,10
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,18,0.016289592760180997,10
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,27,0.024434389140271493,10
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,29,0.026244343891402715,10
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,32,0.02895927601809955,10
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,73,0.0660633484162896,10
+broader_component_representatives,APEX 1.0,APEX 1.1,110491,1105,491,0.4443438914027149,11
+broader_component_representatives,APEX 1.0,MBC-Attention,110491,1105,20,0.01809954751131222,11
+broader_component_representatives,APEX 1.0,AMPredictor,110491,1105,29,0.026244343891402715,11
+broader_component_representatives,APEX 1.1,MBC-Attention,110491,1105,31,0.028054298642533938,11
+broader_component_representatives,APEX 1.1,AMPredictor,110491,1105,32,0.02895927601809955,11
+broader_component_representatives,MBC-Attention,AMPredictor,110491,1105,74,0.0669683257918552,11

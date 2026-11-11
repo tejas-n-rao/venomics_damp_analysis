@@ -1,0 +1,22 @@
+{
+  "all_checks_passed": true,
+  "prior_data_and_notebooks_preserved_n": 209,
+  "local_links_and_images_checked": 503,
+  "no_report_toggles": true,
+  "caption_numbering_checked": true,
+  "raw_votes_independently_recomputed_at_all_three_rules": true,
+  "matched_KR_DE_independently_recomputed_at_all_three_rules": true,
+  "all_ten_html_pdf_pairs_verified": true,
+  "embedded_figures_by_export": {
+    "05_sequence_responses": 5,
+    "03_matched_targets": 3,
+    "FINAL_ANALYSIS": 7,
+    "06_interpretation": 1,
+    "METHODS": 16,
+    "04_classifier_sequences": 6,
+    "PRELIMINARY_ANALYSES": 3,
+    "REPRODUCIBILITY": 0,
+    "01_shortlists": 5,
+    "02_concentration_rules": 4
+  }
+}

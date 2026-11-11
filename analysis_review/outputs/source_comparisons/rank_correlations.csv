@@ -1,0 +1,73 @@
+source,population,n,left,right,spearman
+AMPDIFF_synth50k,every_sequence,49491,APEX 1.1,MBC-Attention,0.4426217736970309
+AMPDIFF_synth50k,every_sequence,49491,APEX 1.1,AMPredictor,0.35270336986795997
+AMPDIFF_synth50k,every_sequence,49491,MBC-Attention,AMPredictor,0.5127910796991508
+AMPDIFF_synth50k,C_free_length8_39,29258,APEX 1.1,MBC-Attention,0.5025876115603342
+AMPDIFF_synth50k,C_free_length8_39,29258,APEX 1.1,AMPredictor,0.466469135106288
+AMPDIFF_synth50k,C_free_length8_39,29258,MBC-Attention,AMPredictor,0.5722076936444322
+AMPDIFF_synth50k,group_medians,49126,APEX 1.1,MBC-Attention,0.44419080441985714
+AMPDIFF_synth50k,group_medians,49126,APEX 1.1,AMPredictor,0.3538387512392569
+AMPDIFF_synth50k,group_medians,49126,MBC-Attention,AMPredictor,0.5120945863631321
+Archaeomics,every_sequence,12623,APEX 1.1,MBC-Attention,-0.07243156284955554
+Archaeomics,every_sequence,12623,APEX 1.1,AMPredictor,-0.0557745472108701
+Archaeomics,every_sequence,12623,MBC-Attention,AMPredictor,0.36154907652057006
+Archaeomics,C_free_length8_39,7065,APEX 1.1,MBC-Attention,-0.03366352397024073
+Archaeomics,C_free_length8_39,7065,APEX 1.1,AMPredictor,0.043083499854810345
+Archaeomics,C_free_length8_39,7065,MBC-Attention,AMPredictor,0.3658694983534723
+Archaeomics,group_medians,3073,APEX 1.1,MBC-Attention,-0.13406733019985886
+Archaeomics,group_medians,3073,APEX 1.1,AMPredictor,-0.09993301034292905
+Archaeomics,group_medians,3073,MBC-Attention,AMPredictor,0.4327468787266406
+DRAMP_APD_DBAASP,every_sequence,19440,APEX 1.1,MBC-Attention,0.49951198426102145
+DRAMP_APD_DBAASP,every_sequence,19440,APEX 1.1,AMPredictor,0.3951957081141223
+DRAMP_APD_DBAASP,every_sequence,19440,MBC-Attention,AMPredictor,0.5243186897816368
+DRAMP_APD_DBAASP,C_free_length8_39,12242,APEX 1.1,MBC-Attention,0.5409436659457426
+DRAMP_APD_DBAASP,C_free_length8_39,12242,APEX 1.1,AMPredictor,0.48601246417571686
+DRAMP_APD_DBAASP,C_free_length8_39,12242,MBC-Attention,AMPredictor,0.5730316992821093
+DRAMP_APD_DBAASP,group_medians,12155,APEX 1.1,MBC-Attention,0.47648068624665463
+DRAMP_APD_DBAASP,group_medians,12155,APEX 1.1,AMPredictor,0.3476007641778628
+DRAMP_APD_DBAASP,group_medians,12155,MBC-Attention,AMPredictor,0.5089429783844523
+Extinctomics,every_sequence,37176,APEX 1.1,MBC-Attention,0.5276895064653784
+Extinctomics,every_sequence,37176,APEX 1.1,AMPredictor,0.39093540205004734
+Extinctomics,every_sequence,37176,MBC-Attention,AMPredictor,0.5007497602977307
+Extinctomics,C_free_length8_39,31324,APEX 1.1,MBC-Attention,0.47390932189149937
+Extinctomics,C_free_length8_39,31324,APEX 1.1,AMPredictor,0.2984518877576479
+Extinctomics,C_free_length8_39,31324,MBC-Attention,AMPredictor,0.40595463547453675
+Extinctomics,group_medians,3148,APEX 1.1,MBC-Attention,0.47487147729436063
+Extinctomics,group_medians,3148,APEX 1.1,AMPredictor,0.3406948959393349
+Extinctomics,group_medians,3148,MBC-Attention,AMPredictor,0.4435962711238678
+Human_Proteomics,every_sequence,42995,APEX 1.1,MBC-Attention,0.2629935644458734
+Human_Proteomics,every_sequence,42995,APEX 1.1,AMPredictor,0.21616661675298204
+Human_Proteomics,every_sequence,42995,MBC-Attention,AMPredictor,0.4558134187908358
+Human_Proteomics,C_free_length8_39,22205,APEX 1.1,MBC-Attention,0.31736937850271363
+Human_Proteomics,C_free_length8_39,22205,APEX 1.1,AMPredictor,0.26231907032524926
+Human_Proteomics,C_free_length8_39,22205,MBC-Attention,AMPredictor,0.41430751034744645
+Human_Proteomics,group_medians,22396,APEX 1.1,MBC-Attention,0.27198204245350405
+Human_Proteomics,group_medians,22396,APEX 1.1,AMPredictor,0.22636802889426785
+Human_Proteomics,group_medians,22396,MBC-Attention,AMPredictor,0.4765386113976544
+NEURIPS_AMP_CHALLENGE,every_sequence,23952,APEX 1.1,MBC-Attention,0.4526836022129506
+NEURIPS_AMP_CHALLENGE,every_sequence,23952,APEX 1.1,AMPredictor,0.23739633895155782
+NEURIPS_AMP_CHALLENGE,every_sequence,23952,MBC-Attention,AMPredictor,0.37110531297133686
+NEURIPS_AMP_CHALLENGE,C_free_length8_39,16031,APEX 1.1,MBC-Attention,0.5108146959743844
+NEURIPS_AMP_CHALLENGE,C_free_length8_39,16031,APEX 1.1,AMPredictor,0.3269470523677322
+NEURIPS_AMP_CHALLENGE,C_free_length8_39,16031,MBC-Attention,AMPredictor,0.4264450460522286
+NEURIPS_AMP_CHALLENGE,group_medians,17703,APEX 1.1,MBC-Attention,0.4310799187791998
+NEURIPS_AMP_CHALLENGE,group_medians,17703,APEX 1.1,AMPredictor,0.18992367229201076
+NEURIPS_AMP_CHALLENGE,group_medians,17703,MBC-Attention,AMPredictor,0.3498326327461101
+Venomics,every_sequence,4618,APEX 1.1,MBC-Attention,0.21565849909533108
+Venomics,every_sequence,4618,APEX 1.1,AMPredictor,0.2669896331979053
+Venomics,every_sequence,4618,MBC-Attention,AMPredictor,0.5677876692205882
+Venomics,C_free_length8_39,4275,APEX 1.1,MBC-Attention,0.21851485228265247
+Venomics,C_free_length8_39,4275,APEX 1.1,AMPredictor,0.28602417636496696
+Venomics,C_free_length8_39,4275,MBC-Attention,AMPredictor,0.5395283049103862
+Venomics,group_medians,401,APEX 1.1,MBC-Attention,0.21880690065880082
+Venomics,group_medians,401,APEX 1.1,AMPredictor,0.2743761863996725
+Venomics,group_medians,401,MBC-Attention,AMPredictor,0.5853029739085124
+marlys_8to50_novel,every_sequence,4652,APEX 1.1,MBC-Attention,0.3795203477893753
+marlys_8to50_novel,every_sequence,4652,APEX 1.1,AMPredictor,0.48537789918823876
+marlys_8to50_novel,every_sequence,4652,MBC-Attention,AMPredictor,0.3168615047325203
+marlys_8to50_novel,C_free_length8_39,413,APEX 1.1,MBC-Attention,0.38061322074100123
+marlys_8to50_novel,C_free_length8_39,413,APEX 1.1,AMPredictor,0.02267399293606447
+marlys_8to50_novel,C_free_length8_39,413,MBC-Attention,AMPredictor,0.3176655284102466
+marlys_8to50_novel,group_medians,3569,APEX 1.1,MBC-Attention,0.3347054881518853
+marlys_8to50_novel,group_medians,3569,APEX 1.1,AMPredictor,0.4818864065760444
+marlys_8to50_novel,group_medians,3569,MBC-Attention,AMPredictor,0.3142893952377197

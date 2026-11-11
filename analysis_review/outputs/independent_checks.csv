@@ -1,0 +1,100 @@
+check,passed,observed,expected
+input SHA256,True,ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600,ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600
+rows,True,195625,195625
+physical columns,True,58,58
+metadata agrees with exported columns,True,True,True
+MIC columns,True,51,51
+finite positive MIC exports,True,True,True
+exact source coverage,True,True,True
+appended source cache matches upstream LFS hash,True,9ea0ea935ecffce75c6e5d959cb441e4752144da848294fa8a7b90984a9101c4,9ea0ea935ecffce75c6e5d959cb441e4752144da848294fa8a7b90984a9101c4
+source assignments match pinned tables,True,True,True
+canonical amino acid alphabet,True,True,True
+complete cases,True,194947,194947.0
+low tail cutoff log2,True,2.2111830701755033,2.2111830701755038
+high tail cutoff log2,True,7.838967089320651,7.838967089320651
+high n,True,9748,9748
+high length mean,True,33.90059499384489,33.90059499384489
+high charge_density mean,True,0.18745036320339345,0.1874503632033934
+high cys_fraction mean,True,0.06518522550581084,0.0651852255058108
+high hydrophobic_fraction mean,True,0.39822111428104545,0.3982211142810454
+high entropy_bits mean,True,3.2994845057824578,3.2994845057824578
+low n,True,9748,9748
+low length mean,True,15.761694706606484,15.761694706606484
+low charge_density mean,True,0.2649791696286345,0.2649791696286345
+low cys_fraction mean,True,0.0055095325915990355,0.005509532591599
+low hydrophobic_fraction mean,True,0.49778970426547353,0.4977897042654735
+low entropy_bits mean,True,2.567881154598392,2.567881154598392
+middle n,True,175451,175451
+middle length mean,True,25.306530028326996,25.306530028327
+middle charge_density mean,True,0.21087880236683262,0.2108788023668326
+middle cys_fraction mean,True,0.02424058661116087,0.0242405866111608
+middle hydrophobic_fraction mean,True,0.45713320657521606,0.457133206575216
+middle entropy_bits mean,True,3.05022361290511,3.05022361290511
+raw fraction within 2fold,True,0.007581547805300928,0.0075815478053009
+centered fraction within 2fold,True,0.14820951335491184,0.1482095133549118
+raw fraction within 4fold,True,0.03801546061237157,0.0380154606123715
+centered fraction within 4fold,True,0.4800279050203389,0.4800279050203389
+raw fraction within 8fold,True,0.12044812179720642,0.1204481217972064
+centered fraction within 8fold,True,0.7700195437734358,0.7700195437734358
+raw fraction within 16fold,True,0.2847184106449445,0.2847184106449445
+centered fraction within 16fold,True,0.917839207579496,0.917839207579496
+raw fraction within 32fold,True,0.5084869220865158,0.5084869220865158
+centered fraction within 32fold,True,0.9737159330484696,0.9737159330484696
+raw fraction within 64fold,True,0.7244481833523984,0.7244481833523984
+centered fraction within 64fold,True,0.9923056010095052,0.9923056010095052
+raw fraction within 128fold,True,0.8777000928457478,0.8777000928457478
+centered fraction within 128fold,True,0.9979943266631444,0.9979943266631444
+raw fraction within 256fold,True,0.9591632597577803,0.9591632597577804
+centered fraction within 256fold,True,0.9994921696666274,0.9994921696666274
+all saved group memberships,True,True,True
+saved values APEX 1.1,True,True,True
+saved values MBC-Attention,True,True,True
+saved values AMPredictor,True,True,True
+matching source and exact length,True,True,True
+matching predicted MIC bin,True,True,True
+matching no replacement,True,True,True
+matched length,True,0.0,0.0
+matched charge_density,True,-0.014362051820832682,-0.0143620518208326
+matched hydrophobic_fraction,True,-0.0029968284522493144,-0.0029968284522493
+matched cys_fraction,True,0.017351201792903094,0.017351201792903
+matched entropy_bits,True,0.022636383666204008,0.022636383666204
+terminal extension pairs,True,92233,92233
+terminal participant sequences,True,87340,87340
+shortlist 0.005 APEX 1.0 / APEX 1.1,True,364,364
+shortlist 0.005 APEX 1.0 / MBC-Attention,True,5,5
+shortlist 0.005 APEX 1.0 / AMPredictor,True,16,16
+shortlist 0.005 APEX 1.1 / MBC-Attention,True,9,9
+shortlist 0.005 APEX 1.1 / AMPredictor,True,11,11
+shortlist 0.005 MBC-Attention / AMPredictor,True,38,38
+shortlist 0.01 APEX 1.0 / APEX 1.1,True,752,752
+shortlist 0.01 APEX 1.0 / MBC-Attention,True,19,19
+shortlist 0.01 APEX 1.0 / AMPredictor,True,43,43
+shortlist 0.01 APEX 1.1 / MBC-Attention,True,42,42
+shortlist 0.01 APEX 1.1 / AMPredictor,True,33,33
+shortlist 0.01 MBC-Attention / AMPredictor,True,107,107
+shortlist 0.05 APEX 1.0 / APEX 1.1,True,4044,4044
+shortlist 0.05 APEX 1.0 / MBC-Attention,True,521,521
+shortlist 0.05 APEX 1.0 / AMPredictor,True,547,547
+shortlist 0.05 APEX 1.1 / MBC-Attention,True,903,903
+shortlist 0.05 APEX 1.1 / AMPredictor,True,720,720
+shortlist 0.05 MBC-Attention / AMPredictor,True,2171,2171
+shortlist 0.1 APEX 1.0 / APEX 1.1,True,9251,9251
+shortlist 0.1 APEX 1.0 / MBC-Attention,True,2875,2875
+shortlist 0.1 APEX 1.0 / AMPredictor,True,2580,2580
+shortlist 0.1 APEX 1.1 / MBC-Attention,True,3583,3583
+shortlist 0.1 APEX 1.1 / AMPredictor,True,2977,2977
+shortlist 0.1 MBC-Attention / AMPredictor,True,6392,6392
+covariance identity APEX 1.0/APEX 1.1,True,0.783617488795952,0.7836174887959522
+covariance identity APEX 1.0/MBC-Attention,True,0.638519913554411,0.6385199135544108
+covariance identity APEX 1.0/AMPredictor,True,0.5076927768044555,0.5076927768044553
+covariance identity APEX 1.1/MBC-Attention,True,1.031879063805188,1.031879063805188
+covariance identity APEX 1.1/AMPredictor,True,0.7880749578893589,0.7880749578893589
+covariance identity MBC-Attention/AMPredictor,True,1.9519709815755144,1.9519709815755142
+numeric experimental sample,True,13,13
+APEXDB exact exposure of numeric matches,True,True,True
+diagnostic MAE APEX 1.0,True,1.1863660277819208,1.1863660277819208
+diagnostic MAE APEX 1.1,True,0.11346914835985975,0.1134691483598597
+diagnostic MAE MBC-Attention,True,1.1327674297502794,1.1327674297502794
+diagnostic MAE AMPredictor,True,1.419887874831732,1.419887874831732
+DeepAMP replay actual maximum < 6.2e-6,True,True,True
+DeepAMP saved replay contains 160 token-padding values,True,160,160

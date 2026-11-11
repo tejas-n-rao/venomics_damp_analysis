@@ -1,0 +1,32 @@
+{
+  "all_checks_passed": true,
+  "existing_data_and_notebook_files_unchanged": 208,
+  "source_links_and_image_targets_checked": 491,
+  "inline_figures_across_reports": 49,
+  "independent_cutoff_bit_counts_000_to_111": [
+    50586,
+    43300,
+    17971,
+    81728,
+    118,
+    267,
+    80,
+    897
+  ],
+  "cutoff_cohort_n": 194947,
+  "section_2_captions_sequential": true,
+  "scope": "Editorial definitions across the nine companion/supporting reports; exact 16 uM overlap added without changing earlier results.",
+  "all_ten_html_pdf_pairs_verified": true,
+  "embedded_figures_by_export": {
+    "05_sequence_responses": 5,
+    "03_matched_targets": 3,
+    "FINAL_ANALYSIS": 7,
+    "06_interpretation": 1,
+    "METHODS": 16,
+    "04_classifier_sequences": 5,
+    "PRELIMINARY_ANALYSES": 3,
+    "REPRODUCIBILITY": 0,
+    "01_shortlists": 5,
+    "02_concentration_rules": 4
+  }
+}

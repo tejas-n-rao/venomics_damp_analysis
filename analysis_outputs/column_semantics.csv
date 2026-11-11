@@ -1,0 +1,57 @@
+column,model,output_kind,target,alias_unverified,minimum_length,maximum_length
+apex_1_0_E._coli_ATCC11775,apex_1_0,MIC_uM,E. coli ATCC11775,False,1,50
+apex_1_0_P._aeruginosa_PAO1,apex_1_0,MIC_uM,P. aeruginosa PAO1,True,1,50
+apex_1_0_P._aeruginosa_PA14,apex_1_0,MIC_uM,P. aeruginosa PA14,False,1,50
+apex_1_0_S._aureus_ATCC12600,apex_1_0,MIC_uM,S. aureus ATCC12600,False,1,50
+apex_1_0_E._coli_AIG221,apex_1_0,MIC_uM,E. coli AIG221,True,1,50
+apex_1_0_E._coli_AIG222,apex_1_0,MIC_uM,E. coli AIG222,True,1,50
+apex_1_0_K._pneumoniae_ATCC13883,apex_1_0,MIC_uM,K. pneumoniae ATCC13883,False,1,50
+apex_1_0_A._baumannii_ATCC19606,apex_1_0,MIC_uM,A. baumannii ATCC19606,False,1,50
+apex_1_0_A._muciniphila_ATCC_BAA-835,apex_1_0,MIC_uM,A. muciniphila ATCC BAA-835,False,1,50
+apex_1_0_B._fragilis_ATCC25285,apex_1_0,MIC_uM,B. fragilis ATCC25285,False,1,50
+apex_1_0_B._vulgatus_ATCC8482,apex_1_0,MIC_uM,B. vulgatus ATCC8482,False,1,50
+apex_1_0_C._aerofaciens_ATCC25986,apex_1_0,MIC_uM,C. aerofaciens ATCC25986,False,1,50
+apex_1_0_C._scindens_ATCC35704,apex_1_0,MIC_uM,C. scindens ATCC35704,False,1,50
+apex_1_0_B._thetaiotaomicron_ATCC29148,apex_1_0,MIC_uM,B. thetaiotaomicron ATCC29148,False,1,50
+apex_1_0_B._thetaiotaomicron_Complemmented,apex_1_0,MIC_uM,B. thetaiotaomicron Complemmented,False,1,50
+apex_1_0_B._thetaiotaomicron_Mutant,apex_1_0,MIC_uM,B. thetaiotaomicron Mutant,False,1,50
+apex_1_0_B._uniformis_ATCC8492,apex_1_0,MIC_uM,B. uniformis ATCC8492,False,1,50
+apex_1_0_B._eggerthi_ATCC27754,apex_1_0,MIC_uM,B. eggerthi ATCC27754,False,1,50
+apex_1_0_C._spiroforme_ATCC29900,apex_1_0,MIC_uM,C. spiroforme ATCC29900,False,1,50
+apex_1_0_P._distasonis_ATCC8503,apex_1_0,MIC_uM,P. distasonis ATCC8503,False,1,50
+apex_1_0_P._copri_DSMZ18205,apex_1_0,MIC_uM,P. copri DSMZ18205,False,1,50
+apex_1_0_B._ovatus_ATCC8483,apex_1_0,MIC_uM,B. ovatus ATCC8483,False,1,50
+apex_1_0_E._rectale_ATCC33656,apex_1_0,MIC_uM,E. rectale ATCC33656,False,1,50
+apex_1_0_C._symbiosum,apex_1_0,MIC_uM,C. symbiosum,False,1,50
+apex_1_0_R._obeum,apex_1_0,MIC_uM,R. obeum,False,1,50
+apex_1_0_R._torques,apex_1_0,MIC_uM,R. torques,False,1,50
+apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_0,MIC_uM,S. aureus (ATCC BAA-1556) - MRSA,False,1,50
+apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_0,MIC_uM,vancomycin-resistant E. faecalis ATCC700802,False,1,50
+apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_0,MIC_uM,vancomycin-resistant E. faecium ATCC700221,False,1,50
+apex_1_0_E._coli_Nissle,apex_1_0,MIC_uM,E. coli Nissle,False,1,50
+apex_1_0_Salmonella_enterica_ATCC_9150_(BEIRES_NR-515),apex_1_0,MIC_uM,Salmonella enterica ATCC 9150 (BEIRES NR-515),False,1,50
+apex_1_0_Salmonella_enterica_(BEIRES_NR-170),apex_1_0,MIC_uM,Salmonella enterica (BEIRES NR-170),False,1,50
+apex_1_0_Salmonella_enterica_ATCC_9150_(BEIRES_NR-174),apex_1_0,MIC_uM,Salmonella enterica ATCC 9150 (BEIRES NR-174),False,1,50
+apex_1_0_L._monocytogenes_ATCC_19111_(BEIRES_NR-106),apex_1_0,MIC_uM,L. monocytogenes ATCC 19111 (BEIRES NR-106),False,1,50
+apex_1_1_A._baumannii_ATCC_19606,apex_1_1,MIC_uM,A. baumannii ATCC 19606,False,1,50
+apex_1_1_E._coli_ATCC_11775,apex_1_1,MIC_uM,E. coli ATCC 11775,False,1,50
+apex_1_1_E._coli_AIC221,apex_1_1,MIC_uM,E. coli AIC221,True,1,50
+apex_1_1_E._coli_AIC222,apex_1_1,MIC_uM,E. coli AIC222,True,1,50
+apex_1_1_K._pneumoniae_ATCC_13883,apex_1_1,MIC_uM,K. pneumoniae ATCC 13883,False,1,50
+apex_1_1_P._aeruginosa_PA01,apex_1_1,MIC_uM,P. aeruginosa PA01,True,1,50
+apex_1_1_P._aeruginosa_PA14,apex_1_1,MIC_uM,P. aeruginosa PA14,False,1,50
+apex_1_1_S._aureus_ATCC_12600,apex_1_1,MIC_uM,S. aureus ATCC 12600,False,1,50
+apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1,MIC_uM,S. aureus (ATCC BAA-1556) - MRSA,False,1,50
+apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,apex_1_1,MIC_uM,vancomycin-resistant E. faecalis ATCC 700802,False,1,50
+apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,apex_1_1,MIC_uM,vancomycin-resistant E. faecium ATCC 700221,False,1,50
+macrel_general_AMP,macrel,AMP_probability,general AMP,False,2,100
+ai4amp_general_AMP,ai4amp,AMP_probability,general AMP,False,1,200
+amp_clip_general_AMP,amp_clip,AMP_binary_consensus,general AMP,False,1,100
+amp_read_unspecified_target,amp_read,log10_MIC_native,no strain-specific output,False,1,100
+amplify_general_AMP,amplify,AMP_probability,general AMP,False,1,200
+mbc_attention_E._coli_unspecified_strain,mbc_attention,MIC_uM,E. coli; species-level,False,5,60
+deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_cnn_neg,MIC_uM,Gram-negative bacteria; pooled,False,1,48
+deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_cnn_pos,MIC_uM,Gram-positive bacteria; pooled,False,1,48
+deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg,MIC_uM,Gram-negative bacteria; pooled,False,1,48
+deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos,MIC_uM,Gram-positive bacteria; pooled,False,1,48
+ampredictor_E._coli_unspecified_strain,ampredictor,MIC_uM,E. coli; species-level,False,1,65

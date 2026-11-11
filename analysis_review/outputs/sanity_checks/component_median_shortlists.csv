@@ -1,0 +1,7 @@
+population,left,right,n,k,intersection,shared_fraction
+component_median_prediction,APEX 1.0,APEX 1.1,110491,1105,488,0.4416289592760181
+component_median_prediction,APEX 1.0,MBC-Attention,110491,1105,18,0.016289592760180997
+component_median_prediction,APEX 1.0,AMPredictor,110491,1105,29,0.026244343891402715
+component_median_prediction,APEX 1.1,MBC-Attention,110491,1105,32,0.02895927601809955
+component_median_prediction,APEX 1.1,AMPredictor,110491,1105,35,0.03167420814479638
+component_median_prediction,MBC-Attention,AMPredictor,110491,1105,74,0.0669683257918552

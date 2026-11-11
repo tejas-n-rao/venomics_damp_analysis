@@ -1,0 +1,486 @@
+{
+  "date": "2026-11-10",
+  "authorization": "User requested redundant Markdown deletion, folder consolidation, and visible plots.",
+  "reports_folder": "reports",
+  "consolidated_reports": [
+    "FINAL_ANALYSIS.md",
+    "01_shortlists.md",
+    "02_concentration_rules.md",
+    "03_matched_targets.md",
+    "04_classifier_sequences.md",
+    "05_sequence_responses.md",
+    "06_interpretation.md",
+    "REPRODUCIBILITY.md",
+    "PRELIMINARY_ANALYSES.md",
+    "METHODS.md"
+  ],
+  "source_routes": {
+    "FINAL_ANALYSIS.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "ROBUSTNESS_FINDINGS.md": [
+      "01_shortlists.md",
+      ""
+    ],
+    "mic_variability_context.md": [
+      "02_concentration_rules.md",
+      ""
+    ],
+    "MATCHED_TARGET_FINDINGS.md": [
+      "03_matched_targets.md",
+      ""
+    ],
+    "scratchpad/mic_comparability_audit.md": [
+      "03_matched_targets.md",
+      "model-targets-training-and-conversions"
+    ],
+    "CLASSIFIER_FINDINGS.md": [
+      "04_classifier_sequences.md",
+      ""
+    ],
+    "SEQUENCE_FINDINGS.md": [
+      "05_sequence_responses.md",
+      ""
+    ],
+    "INTERPRETATION_FINDINGS.md": [
+      "06_interpretation.md",
+      ""
+    ],
+    "VALIDATION_FINDINGS.md": [
+      "06_interpretation.md",
+      "2-existing-assay-matches-do-not-identify-a-winner"
+    ],
+    "PRELIMINARY_ANALYSES.md": [
+      "PRELIMINARY_ANALYSES.md",
+      ""
+    ],
+    "AGREEMENT_FINDINGS.md": [
+      "PRELIMINARY_ANALYSES.md",
+      "agreement-definitions-and-profiles"
+    ],
+    "OUTPUT_PATTERNS.md": [
+      "PRELIMINARY_ANALYSES.md",
+      "wider-output-patterns"
+    ],
+    "EXPERIMENTAL_CURATION.md": [
+      "PRELIMINARY_ANALYSES.md",
+      "experimental-data-recovery"
+    ],
+    "REPRODUCIBILITY.md": [
+      "REPRODUCIBILITY.md",
+      ""
+    ],
+    "analysis_review/SCIENTIFIC_AUDIT.md": [
+      "METHODS.md",
+      ""
+    ],
+    "ANALYSIS_MAP.md": [
+      "METHODS.md",
+      "analysis-map"
+    ],
+    "agentic_results.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "agentic_synthesis.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/FINAL_ANALYSIS_before_classifier_sequences.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/agentic_synthesis_before_decision_trends.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/agentic_results_before_decision_trends.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/FINAL_ANALYSIS_before_model_review.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/agentic_synthesis_before_model_review.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/mic_comparability_audit_before_model_review.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/FINAL_ANALYSIS_before_decision_trends.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/agentic_results_before_model_review.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ],
+    "analysis_review/archive/FINAL_ANALYSIS_expanded.md": [
+      "FINAL_ANALYSIS.md",
+      ""
+    ]
+  },
+  "removed_markdown": [
+    {
+      "path": "FINAL_ANALYSIS.md",
+      "sha256": "a325b1c6e0de490b8fdc787bf50f6cd53ff4669ffb6f0a56cb53f304bc734e8f",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "ROBUSTNESS_FINDINGS.md",
+      "sha256": "adf512e0723b56e2ff81ba0a36a81c67ee71745fff3e494d724b82fcfdf16b54",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "mic_variability_context.md",
+      "sha256": "3982b70e2683c7f392392cb41d6d6a3b52132832ae08d9b54305a6cf4c2e4bf1",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "MATCHED_TARGET_FINDINGS.md",
+      "sha256": "858efcb1a213892c4de5a0d56747ebf8c287a81ae65ee283276f08d16015b0ab",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "scratchpad/mic_comparability_audit.md",
+      "sha256": "421f911926195cf8efe5998d581d07c4ff6fcda510856586cd9b4520c732b554",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "CLASSIFIER_FINDINGS.md",
+      "sha256": "9332d43515889942c768b115bf13dd4094d54351bd7f55f763abc5c6365d7685",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "SEQUENCE_FINDINGS.md",
+      "sha256": "69472d5b250d5ef5742472d99814cd8419770b19f79de843b0da1b399e2e10db",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "INTERPRETATION_FINDINGS.md",
+      "sha256": "f4a7eac5ea157cead7408f4872ae5e8ba1c44d339985e7151fe2755b897d9abb",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "VALIDATION_FINDINGS.md",
+      "sha256": "221f0297dcffe0e4df691c84f22ca554565e56e2f151639c0f2effcf382092d4",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "PRELIMINARY_ANALYSES.md",
+      "sha256": "6eec060052434c790c9b0776edbb6a114de7a9467c1f13149d2441681bbeb032",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "AGREEMENT_FINDINGS.md",
+      "sha256": "b91478d9f33a6e572e70b480756fe5e866ee9c9979317062aeafdd1d6b37c63c",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "OUTPUT_PATTERNS.md",
+      "sha256": "936cf0ea42ecb622acd0e69f27ec0154a6c6b7d19967b600147b07cc7080e79c",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "EXPERIMENTAL_CURATION.md",
+      "sha256": "8bf8463e2de6b4feab379f74b42553e2021721794d90a59c56bee049418a56bb",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "sha256": "067d786b8532c2251ca2aad9e7feb4b58c76e33217129a9d67b3fc74c35ed5bf",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/SCIENTIFIC_AUDIT.md",
+      "sha256": "26726636b3c9f199ef1851ae902e5a11587546ea18b4420d372fc25e301ba557",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "ANALYSIS_MAP.md",
+      "sha256": "66523d33511d3c7ebf5ec71452e767e037853a6d6965ec1ff7817c4076ba995a",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "agentic_results.md",
+      "sha256": "944d53cbe1afa662896c642542af7bf8256ffb8c2589d99c444246d286032f58",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "agentic_synthesis.md",
+      "sha256": "e19a3be352c67ce0b21d540c62dadc56f9c98f65909f14c23812875afd0d2e81",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/FINAL_ANALYSIS_before_classifier_sequences.md",
+      "sha256": "79d7af84b12c59939f5e534233b912cf91ba4d3d65f789bdd432435c4e8de30c",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/agentic_synthesis_before_decision_trends.md",
+      "sha256": "0c022d5a7401e229410ecfb6e65bbacda83f721aa056c1af44f342fcd2e61b10",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/agentic_results_before_decision_trends.md",
+      "sha256": "85fce8701b4075c4fe4160b8201044f49286ec00e38cfe7653e85a4f3d3c3f2f",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/FINAL_ANALYSIS_before_model_review.md",
+      "sha256": "22a52c37d02c7643d64ed1758f5760fbf5d836692fa77c2ad9d77a269d53208d",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/agentic_synthesis_before_model_review.md",
+      "sha256": "c57358f904b1dda06943465c4f3a11c4d016e9b97d2b082ededaff7862e5b755",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/mic_comparability_audit_before_model_review.md",
+      "sha256": "b0d69a6d4c57b3919b1e917ee8af30948b2cc636fe5593258a9711b204262eba",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/FINAL_ANALYSIS_before_decision_trends.md",
+      "sha256": "217e545febdd10eebc00e4677a18f090aa715a157bb3f2ecc7662a7dad61039d",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/agentic_results_before_model_review.md",
+      "sha256": "51c7d4edacafdcc65b0933bd5d9dd82705e3e29590d14484bb17d1a1a46d8766",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    },
+    {
+      "path": "analysis_review/archive/FINAL_ANALYSIS_expanded.md",
+      "sha256": "665324e62d3a2148900bc01fa631034c71c774887d9ebbc98388f58c2c056d4e",
+      "reason": "Moved to canonical report or merged; duplicate overviews and superseded snapshots removed"
+    }
+  ],
+  "obsolete_exports": [
+    {
+      "path": "analysis_review/AGREEMENT_FINDINGS.html",
+      "sha256": "7f66c8aedf0f8a415c934868c4749c9c8530cf365cb18d1a8335d7b6c67f157b"
+    },
+    {
+      "path": "analysis_review/AGREEMENT_FINDINGS.pdf",
+      "sha256": "a3acb41b80c61b7577302df942b072fe2dab7eaf059ddd87557fe827a40501e7"
+    },
+    {
+      "path": "analysis_review/ANALYSIS_MAP.html",
+      "sha256": "514534158867e2d02072f257e3af0f8f43cd8e56888fbd6430df109e1dcfca71"
+    },
+    {
+      "path": "analysis_review/ANALYSIS_MAP.pdf",
+      "sha256": "d242df4afe5b0afd9eec339278f3ce8f971d8fa107dcc547bcaa2554bfd55828"
+    },
+    {
+      "path": "analysis_review/CLASSIFIER_FINDINGS.html",
+      "sha256": "a85abe28ec684edad9a16501ebb65d0b4c6f54462bbf8a7ff5e200b69447e34d"
+    },
+    {
+      "path": "analysis_review/CLASSIFIER_FINDINGS.pdf",
+      "sha256": "fee77028a6178ebe631ff661f52f9c223e6ad2d86db3bcef9fb8768f21bf24e5"
+    },
+    {
+      "path": "analysis_review/EXPERIMENTAL_CURATION.html",
+      "sha256": "7bf7e8d6a4bffd8e50b807ac46b724c16dc1d194611c2b69020ecc0789b75de8"
+    },
+    {
+      "path": "analysis_review/EXPERIMENTAL_CURATION.pdf",
+      "sha256": "608b8b8071c2a27fe00b600d9919d6b249131211887fc96f85cb69ae84b708bf"
+    },
+    {
+      "path": "analysis_review/FINAL_ANALYSIS.html",
+      "sha256": "1f72a67f470194673bc21dc4bbc199b0ffd96f2df3b2fec5b8dc46bd4eea499d"
+    },
+    {
+      "path": "analysis_review/FINAL_ANALYSIS.pdf",
+      "sha256": "afd48c2c1d544994b950685042c04bbd41d53b288b5163d09d7b7d2f3f49ff15"
+    },
+    {
+      "path": "analysis_review/INTERPRETATION_FINDINGS.html",
+      "sha256": "35f749d49b7b53d2cf7a8fbce92cf977b897252989a13f9377eb160e983023bd"
+    },
+    {
+      "path": "analysis_review/INTERPRETATION_FINDINGS.pdf",
+      "sha256": "08378aebcf91aa0b19ae7e8b7906cf3f3186d6abe98d8211f829f274dca3a437"
+    },
+    {
+      "path": "analysis_review/MATCHED_TARGET_FINDINGS.html",
+      "sha256": "f66a0a1b1ffbca09953dea58df389a50969fb8760e44668c98f030e926525303"
+    },
+    {
+      "path": "analysis_review/MATCHED_TARGET_FINDINGS.pdf",
+      "sha256": "4b4de883ec2cddb9ba3aad947cb39e171dbf9b3c50e8c200da55b4f7cef804c8"
+    },
+    {
+      "path": "analysis_review/MIC_VARIABILITY.html",
+      "sha256": "f1d57b6c64602de096be9ef1bed7879613a3a50a3c109abc6911b9cf78f95a6e"
+    },
+    {
+      "path": "analysis_review/MIC_VARIABILITY.pdf",
+      "sha256": "48f135b5c067b26e69614642873eedd97068f807bc08f7f37878d3445cb33f3b"
+    },
+    {
+      "path": "analysis_review/MODEL_COMPARISON.html",
+      "sha256": "179c8fe3e5e40abebe09589f55c572bb05261de8dfc46e7488e5babaefb81941"
+    },
+    {
+      "path": "analysis_review/MODEL_COMPARISON.pdf",
+      "sha256": "1e7da3d9a534a7d880fe65d1304dd80134545533f9341e7a5e5492f7441d4bf3"
+    },
+    {
+      "path": "analysis_review/OUTPUT_PATTERNS.html",
+      "sha256": "90cef82ebbcaa3dd2d9b0dd42710d1d519d4102b9b6b07e4e5a450a6e74458e8"
+    },
+    {
+      "path": "analysis_review/OUTPUT_PATTERNS.pdf",
+      "sha256": "9bb2b34d8c33f24d917de894fc206ce3a103844f566d824f36a05384f12322f4"
+    },
+    {
+      "path": "analysis_review/OVERVIEW.html",
+      "sha256": "08ecc8a22f0deb3b96e3e105bd519564320d60b72c0ae4d33e8e2aa3ca782118"
+    },
+    {
+      "path": "analysis_review/OVERVIEW.pdf",
+      "sha256": "6564adc2030e1d486b9d6430b84c62fde30011a4e1d170f1f27974b6bd6b7645"
+    },
+    {
+      "path": "analysis_review/PRELIMINARY_ANALYSES.html",
+      "sha256": "e9823697355fe0c5e28bcdf184158b01d34a3d4006b83d413fbedf4af959a2ae"
+    },
+    {
+      "path": "analysis_review/PRELIMINARY_ANALYSES.pdf",
+      "sha256": "a487c1e3abb3cf341e87cad8511f68b316c1a5a8a74a82220d51a7d2ade24c7b"
+    },
+    {
+      "path": "analysis_review/REPRODUCIBILITY.html",
+      "sha256": "3014932f1798f062509c71518376c0cf8cefd108897ce8852a2afebfd18719a0"
+    },
+    {
+      "path": "analysis_review/REPRODUCIBILITY.pdf",
+      "sha256": "eac9cff5c7085bb4bde484a077c2495cc8ad9d7e8fa8d9e7727709d52e19a2ab"
+    },
+    {
+      "path": "analysis_review/ROBUSTNESS_FINDINGS.html",
+      "sha256": "763075a7cd67113f700643dd71e1a3d74866d6d19bfb9357f3272db303fa0283"
+    },
+    {
+      "path": "analysis_review/ROBUSTNESS_FINDINGS.pdf",
+      "sha256": "75cc149248198eba8f91ffe492491cafbc6fdc7ecb0acb2b863ac8089cae97f2"
+    },
+    {
+      "path": "analysis_review/SEQUENCE_FINDINGS.html",
+      "sha256": "ae23a490b6b1d1f0c5ba885d41ee47bc3ef4176bb27d05ac6abdbc2c5ab8f0a6"
+    },
+    {
+      "path": "analysis_review/SEQUENCE_FINDINGS.pdf",
+      "sha256": "4f38877245ec161dc75f76e63b93aff1628af63026ce0fc04a6ca1656a05f707"
+    },
+    {
+      "path": "analysis_review/TECHNICAL_OVERVIEW.html",
+      "sha256": "c9f4fad45b2bf6aca2b96d50f79335cc9a6a5fdf155edc562d76376f4a28d8d6"
+    },
+    {
+      "path": "analysis_review/TECHNICAL_OVERVIEW.pdf",
+      "sha256": "e304271ed7c4bb9d405c811670d604a069cbe33230cead631086c29159114c0e"
+    },
+    {
+      "path": "analysis_review/VALIDATION_FINDINGS.html",
+      "sha256": "dad984badf654ed2f836bdd9cf0496233a98b0d8f2fa303fcd204ea2903ff2b2"
+    },
+    {
+      "path": "analysis_review/VALIDATION_FINDINGS.pdf",
+      "sha256": "b91a1714d7d2b22831901948327b4e6fb27ad614f2baa5a3890841486148fd6e"
+    }
+  ],
+  "notebook_markdown_cells_updated": {
+    "agentic.ipynb": 9,
+    "eda.ipynb": 1
+  },
+  "preserved": "Scientific inputs, numerical output tables, notebook code cells and stored outputs, pinned source/model snapshots",
+  "validation_before_removal": {
+    "all_checks_passed": true,
+    "canonical_reports": {
+      "reports/01_shortlists.md": {
+        "words": 1074,
+        "embedded_figures": 2,
+        "pdf_pages": 4
+      },
+      "reports/02_concentration_rules.md": {
+        "words": 860,
+        "embedded_figures": 3,
+        "pdf_pages": 4
+      },
+      "reports/03_matched_targets.md": {
+        "words": 1608,
+        "embedded_figures": 3,
+        "pdf_pages": 6
+      },
+      "reports/04_classifier_sequences.md": {
+        "words": 1432,
+        "embedded_figures": 5,
+        "pdf_pages": 6
+      },
+      "reports/05_sequence_responses.md": {
+        "words": 1556,
+        "embedded_figures": 5,
+        "pdf_pages": 6
+      },
+      "reports/06_interpretation.md": {
+        "words": 463,
+        "embedded_figures": 1,
+        "pdf_pages": 2
+      },
+      "reports/FINAL_ANALYSIS.md": {
+        "words": 1504,
+        "embedded_figures": 6,
+        "pdf_pages": 7
+      },
+      "reports/METHODS.md": {
+        "words": 10992,
+        "embedded_figures": 15,
+        "pdf_pages": 34
+      },
+      "reports/PRELIMINARY_ANALYSES.md": {
+        "words": 3377,
+        "embedded_figures": 3,
+        "pdf_pages": 11
+      },
+      "reports/REPRODUCIBILITY.md": {
+        "words": 532,
+        "embedded_figures": 0,
+        "pdf_pages": 2
+      },
+      "README.md": {
+        "words": 378,
+        "embedded_figures": 0
+      },
+      "scratchpad/README.md": {
+        "words": 311,
+        "embedded_figures": 0
+      }
+    },
+    "scientific_files_unchanged": 197,
+    "notebook_code_and_stored_outputs_unchanged": true,
+    "all_local_figure_references_have_embedded_figures": true,
+    "all_HTML_PDF_exports_valid": true
+  },
+  "removal_completed": true,
+  "removed_file_count": 61,
+  "validation_after_removal": {
+    "all_checks_passed": true,
+    "ten_canonical_reports_and_export_pairs": true,
+    "old_files_absent": true,
+    "all_remaining_report_links_and_anchors_valid": true,
+    "every_referenced_local_plot_embedded": true,
+    "all_scientific_tables_and_inputs_unchanged": true,
+    "both_notebook_code_and_stored_outputs_unchanged": true,
+    "notebook_schemas_valid": true
+  }
+}

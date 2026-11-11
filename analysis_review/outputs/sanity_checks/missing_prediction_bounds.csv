@@ -1,0 +1,7 @@
+left,right,missing_left,missing_right,pairwise_available_n,common_universe_intersection,pairwise_available_intersection_same_k,max_possible_replacements_left,max_possible_replacements_right,adversarial_full_universe_min_intersection,adversarial_full_universe_max_intersection,smallest_intersection_in_50_random_completions,largest_intersection_in_50_random_completions,bound_scope
+APEX 1.0,APEX 1.1,0,0,195625,752,752,0,0,752,752,752,752,"fixed k=1950; arbitrary finite missing scores; loose count bound, not probability"
+APEX 1.0,MBC-Attention,0,667,194958,19,19,0,667,0,19,16,17,"fixed k=1950; arbitrary finite missing scores; loose count bound, not probability"
+APEX 1.0,AMPredictor,0,11,195614,43,43,0,11,32,43,43,43,"fixed k=1950; arbitrary finite missing scores; loose count bound, not probability"
+APEX 1.1,MBC-Attention,0,667,194958,42,42,0,667,0,42,36,38,"fixed k=1950; arbitrary finite missing scores; loose count bound, not probability"
+APEX 1.1,AMPredictor,0,11,195614,33,33,0,11,22,33,33,33,"fixed k=1950; arbitrary finite missing scores; loose count bound, not probability"
+MBC-Attention,AMPredictor,667,11,194947,107,107,667,11,0,118,85,92,"fixed k=1950; arbitrary finite missing scores; loose count bound, not probability"

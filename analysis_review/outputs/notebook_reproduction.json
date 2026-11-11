@@ -1,0 +1,534 @@
+{
+  "executed_cells": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    30,
+    34,
+    37,
+    39,
+    41,
+    44,
+    47
+  ],
+  "tables": {
+    "all_high_vs_low_matches.csv": {
+      "status": "match",
+      "rows": 1019,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "all_high_vs_rest_matches.csv": {
+      "status": "match",
+      "rows": 8872,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "ampread_associations.csv": {
+      "status": "match",
+      "rows": 17,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "apex_1_0_target_summary.csv": {
+      "status": "match",
+      "rows": 34,
+      "columns": 4,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "apex_1_1_target_summary.csv": {
+      "status": "match",
+      "rows": 11,
+      "columns": 4,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "apex_spectrum_decomposition.csv": {
+      "status": "match",
+      "rows": 2,
+      "columns": 8,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 2.886579864025407e-14
+    },
+    "apex_version_source_drift.csv": {
+      "status": "match",
+      "rows": 8,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "apex_versions.csv": {
+      "status": "match",
+      "rows": 11,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "charge_within_source_length.csv": {
+      "status": "match",
+      "rows": 111,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "classifier_by_source.csv": {
+      "status": "match",
+      "rows": 8,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "classifier_consensus.csv": {
+      "status": "match",
+      "rows": 3,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "classifier_phi.csv": {
+      "status": "match",
+      "rows": 4,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "classifier_positive_rates.csv": {
+      "status": "match",
+      "rows": 4,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "column_semantics.csv": {
+      "status": "match",
+      "rows": 56,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "composition_adjusted_agreement.csv": {
+      "status": "match",
+      "rows": 48,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "coverage.csv": {
+      "status": "match",
+      "rows": 7,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "deepamp_above_1000_by_source.csv": {
+      "status": "match",
+      "rows": 8,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "deepamp_agreement.csv": {
+      "status": "match",
+      "rows": 6,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "deepamp_by_length.csv": {
+      "status": "match",
+      "rows": 52,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "deepamp_quantiles.csv": {
+      "status": "match",
+      "rows": 4,
+      "columns": 8,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "deepamp_replay.csv": {
+      "status": "match",
+      "rows": 320,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "deepamp_replay_summary.csv": {
+      "status": "match",
+      "rows": 8,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "discordant_family_training_neighbors.csv": {
+      "status": "match",
+      "rows": 132,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "domain_restricted_agreement.csv": {
+      "status": "match",
+      "rows": 12,
+      "columns": 8,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "ecoli_agreement.csv": {
+      "status": "match",
+      "rows": 6,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "ecoli_disagreement_diagnostics.csv": {
+      "status": "match",
+      "rows": 30,
+      "columns": 12,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "ecoli_threshold_sensitivity.csv": {
+      "status": "match",
+      "rows": 4,
+      "columns": 10,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "ecoli_within_source.csv": {
+      "status": "match",
+      "rows": 48,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "experimental_ecoli_matched.csv": {
+      "status": "match",
+      "rows": 13,
+      "columns": 27,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "experimental_label_audit.csv": {
+      "status": "match",
+      "rows": 118,
+      "columns": 12,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "experimental_metrics.csv": {
+      "status": "match",
+      "rows": 4,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "experimental_training_overlap.csv": {
+      "status": "match",
+      "rows": 13,
+      "columns": 4,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "extreme_one_substitution_pairs.csv": {
+      "status": "match",
+      "rows": 201,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "extreme_sequence_components.csv": {
+      "status": "match",
+      "rows": 104,
+      "columns": 3,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_classifier_agreement.csv": {
+      "status": "match",
+      "rows": 3,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_definition_sensitivity.csv": {
+      "status": "match",
+      "rows": 4,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_matched.csv": {
+      "status": "match",
+      "rows": 20,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_model_direction.csv": {
+      "status": "match",
+      "rows": 30,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_profiles.csv": {
+      "status": "match",
+      "rows": 6,
+      "columns": 21,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_sequences_all.csv": {
+      "status": "match",
+      "rows": 194947,
+      "columns": 15,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_sequences_restricted.csv": {
+      "status": "match",
+      "rows": 122813,
+      "columns": 15,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_sources.csv": {
+      "status": "match",
+      "rows": 48,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_thresholds.csv": {
+      "status": "match",
+      "rows": 2,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "high_low_within_source.csv": {
+      "status": "match",
+      "rows": 80,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "low_disagreement_by_source.csv": {
+      "status": "match",
+      "rows": 16,
+      "columns": 4,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "low_disagreement_features.csv": {
+      "status": "match",
+      "rows": 80,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "low_disagreement_matched.csv": {
+      "status": "match",
+      "rows": 10,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "low_disagreement_matches_all.csv": {
+      "status": "match",
+      "rows": 9318,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "low_disagreement_matches_restricted.csv": {
+      "status": "match",
+      "rows": 5965,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "low_disagreement_sequences_all.csv": {
+      "status": "match",
+      "rows": 9748,
+      "columns": 12,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "low_disagreement_sequences_restricted.csv": {
+      "status": "match",
+      "rows": 6141,
+      "columns": 12,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "low_disagreement_summary.csv": {
+      "status": "match",
+      "rows": 8,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "matched_spectrum.csv": {
+      "status": "match",
+      "rows": 2,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 1.3211653993039363e-14
+    },
+    "mic_variability_strain_labels.csv": {
+      "status": "match",
+      "rows": 5,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "mic_variability_tolerance.csv": {
+      "status": "match",
+      "rows": 8,
+      "columns": 4,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "restricted_high_vs_low_matches.csv": {
+      "status": "match",
+      "rows": 1022,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "restricted_high_vs_rest_matches.csv": {
+      "status": "match",
+      "rows": 5642,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "sequence_associations.csv": {
+      "status": "match",
+      "rows": 5,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "sequence_associations_by_source.csv": {
+      "status": "match",
+      "rows": 64,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "sequence_neighbor_audit.csv": {
+      "status": "match",
+      "rows": 400,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "sequence_neighbor_controls.csv": {
+      "status": "match",
+      "rows": 200,
+      "columns": 4,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "sequence_neighbor_summary.csv": {
+      "status": "match",
+      "rows": 2,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "sequence_similarity_examples.csv": {
+      "status": "match",
+      "rows": 5,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "shortlist_sensitivity.csv": {
+      "status": "match",
+      "rows": 24,
+      "columns": 9,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "shortlist_sources.csv": {
+      "status": "match",
+      "rows": 31,
+      "columns": 5,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "shortlist_within_source.csv": {
+      "status": "match",
+      "rows": 48,
+      "columns": 7,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "source_length_sensitivity.csv": {
+      "status": "match",
+      "rows": 40,
+      "columns": 6,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "source_summary.csv": {
+      "status": "match",
+      "rows": 8,
+      "columns": 4,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "spectrum_residual_reproducibility.csv": {
+      "status": "match",
+      "rows": 8,
+      "columns": 3,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "terminal_extension_pairs.csv": {
+      "status": "match",
+      "rows": 92233,
+      "columns": 2,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "training_overlap_counts.csv": {
+      "status": "match",
+      "rows": 3,
+      "columns": 4,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    },
+    "workbook_assay_inventory.csv": {
+      "status": "match",
+      "rows": 128,
+      "columns": 19,
+      "different_columns": [],
+      "max_numeric_absolute_difference": 0.0
+    }
+  },
+  "errors": [],
+  "tables_not_regenerated": [],
+  "elapsed_seconds": 68.74605899999733,
+  "matching_tables": 72
+}

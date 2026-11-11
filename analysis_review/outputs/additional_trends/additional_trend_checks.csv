@@ -1,0 +1,26 @@
+check,passed
+complete-case denominator,True
+component coverage,True
+known exact-composition group count,True
+two-member composition pair count,True
+all classifiers available on MIC comparison cohort,True
+matched target panel has eight targets,True
+matched Gram target counts,True
+Gram contrast invariant to model-wide scale factor,True
+Gram contrast removes arbitrary common per-peptide potency shifts,True
+weighted Spearman recovers ordinary correlation AMPDIFF_synth50k/APEX 1.0,True
+weighted Spearman recovers ordinary correlation AMPDIFF_synth50k/APEX 1.1,True
+weighted Spearman recovers ordinary correlation Archaeomics/APEX 1.0,True
+weighted Spearman recovers ordinary correlation Archaeomics/APEX 1.1,True
+weighted Spearman recovers ordinary correlation DRAMP_APD_DBAASP/APEX 1.0,True
+weighted Spearman recovers ordinary correlation DRAMP_APD_DBAASP/APEX 1.1,True
+weighted Spearman recovers ordinary correlation Extinctomics/APEX 1.0,True
+weighted Spearman recovers ordinary correlation Extinctomics/APEX 1.1,True
+weighted Spearman recovers ordinary correlation Human_Proteomics/APEX 1.0,True
+weighted Spearman recovers ordinary correlation Human_Proteomics/APEX 1.1,True
+weighted Spearman recovers ordinary correlation NEURIPS_AMP_CHALLENGE/APEX 1.0,True
+weighted Spearman recovers ordinary correlation NEURIPS_AMP_CHALLENGE/APEX 1.1,True
+weighted Spearman recovers ordinary correlation Venomics/APEX 1.0,True
+weighted Spearman recovers ordinary correlation Venomics/APEX 1.1,True
+weighted Spearman recovers ordinary correlation marlys_8to50_novel/APEX 1.0,True
+weighted Spearman recovers ordinary correlation marlys_8to50_novel/APEX 1.1,True

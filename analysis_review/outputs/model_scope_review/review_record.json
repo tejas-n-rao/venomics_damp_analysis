@@ -1,0 +1,56 @@
+{
+  "review_date": "2026-11-09",
+  "input_sha256": "ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600",
+  "metadata_sha256": "a0030622a3a199e46ce53880ac51f111f870837da045cb862c5fd09e7124ece0",
+  "source_urls": {
+    "DeepAMP_paper": "https://www.nature.com/articles/s41467-023-42434-9",
+    "MBC_paper": "https://journals.asm.org/doi/10.1128/msystems.00345-23",
+    "AMPredictor_paper": "https://elifesciences.org/articles/97330",
+    "APEX_1_1_paper": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12408343/"
+  },
+  "DeepAMP_paper_reported_training": {
+    "Gram-negative_export": "4,619 unique AMP sequences with E. coli MIC measurements",
+    "Gram-positive_export": "4,089 unique AMP sequences with B. subtilis MIC measurements",
+    "non_AMP_label_log10_MIC": 4,
+    "checkpoint_specific_training_provenance_rebuilt": false
+  },
+  "MBC_training_target": "E. coli measurements pooled across conditions; paper reports averaging repeated measurements. Exact averaging stage not independently reconstructed.",
+  "AMPredictor_training_scope": "Paper reports 3,280 E. coli AMP sequences, no cysteine and lengths below 40; accepted parser lengths are not the training domain.",
+  "APEX_1_1_inactive_pseudolabel_uM": 512,
+  "pinned_export_revisions": [
+    {
+      "model": "apex_1_0",
+      "revision": "04600373e597842b45255418fdec391f3cb53644"
+    },
+    {
+      "model": "apex_1_1",
+      "revision": "417a4441a1e6ef8b10d2352e1c059622d5259f3a"
+    },
+    {
+      "model": "mbc_attention",
+      "revision": "df9e03fbc47714a4cf99dac5cd5fe0c572158a4f"
+    },
+    {
+      "model": "deep_amp_cnn_neg",
+      "revision": "0a31ad796732b5e5874c3f92e771057e887f58a9"
+    },
+    {
+      "model": "deep_amp_cnn_pos",
+      "revision": "0a31ad796732b5e5874c3f92e771057e887f58a9"
+    },
+    {
+      "model": "deep_amp_lstm_neg",
+      "revision": "0a31ad796732b5e5874c3f92e771057e887f58a9"
+    },
+    {
+      "model": "deep_amp_lstm_pos",
+      "revision": "0a31ad796732b5e5874c3f92e771057e887f58a9"
+    },
+    {
+      "model": "ampredictor",
+      "revision": "d1dd89bb730b3c524a0efbb4e0d28d556c58783e"
+    }
+  ],
+  "policy": "Keep native column labels and numerical tables unchanged; correct prose and display annotations. No cross-species pooling, biological error ranking, or causal architecture attribution.",
+  "sensitivity_note": "Output-conditioned low-MIC subsets cannot establish that synthetic inactive labels cause or do not cause model differences."
+}

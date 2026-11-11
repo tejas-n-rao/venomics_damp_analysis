@@ -1,0 +1,2 @@
+n_full_input_components,n_complete_case_components,n_nontrivial_complete_case_components,largest_component_complete_cases,fraction_complete_cases_in_nontrivial_components,terminal_edges,substitution_union_edges,scope
+111162,110491,17570,2073,0.5233525009361519,92233,21402,single-linkage terminal extension plus equal-length one-substitution edges; minimum shorter/substitution length 8

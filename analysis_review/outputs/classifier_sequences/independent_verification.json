@@ -1,0 +1,17 @@
+{
+  "all_checks_passed": true,
+  "raw_vote_counts": {
+    "0": 24878,
+    "1": 42225,
+    "2": 45391,
+    "3": 40481,
+    "4": 42645
+  },
+  "direct_same_group_pairs": 32423,
+  "neighbor_references_explicitly_recomputed_for_24_pairs": true,
+  "standardized_KR_contrast_recomputed_cell_by_cell": true,
+  "all_pair_model_bit_changes_independently_recomputed": true,
+  "unanimous_switch_pairs": 73,
+  "unanimous_switch_components": 11,
+  "largest_three_switch_components_pairs": 62
+}

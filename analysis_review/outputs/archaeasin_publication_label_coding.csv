@@ -1,0 +1,23 @@
+target,subset,n,pearson_log2,spearman
+A. baumannii ATCC 19606 (-),all_including_512_placeholders,80,0.3951270928038167,0.3970733637462079
+A. baumannii ATCC 19606 (-),numeric_observations_only,70,0.34311759765500877,0.3483632983821898
+E. coli ATCC 11775 (-),all_including_512_placeholders,80,0.24868389629340049,0.228219473198396
+E. coli ATCC 11775 (-),numeric_observations_only,38,0.005163469299863962,0.009161772987732327
+E. coli AIC221 (-),all_including_512_placeholders,80,0.25529546419228016,0.24048474732984348
+E. coli AIC221 (-),numeric_observations_only,57,0.23591773999790125,0.21604397229372152
+E. coli AIC222 - CRE (-),all_including_512_placeholders,80,0.18857617983363817,0.1956439891557356
+E. coli AIC222 - CRE (-),numeric_observations_only,61,0.31545990303893795,0.29560752281378516
+K. pneumoniae ATCC 13883 (-),all_including_512_placeholders,80,0.10201095246893103,0.13142230197344817
+K. pneumoniae ATCC 13883 (-),numeric_observations_only,42,-0.1277058970363705,-0.0710819033208192
+P. aeruginosa PAO1 (-),all_including_512_placeholders,80,0.30367956304027705,0.2882373113313973
+P. aeruginosa PAO1 (-),numeric_observations_only,22,0.3162045787779373,0.2832058967770359
+P. aeruginosa PA14 (-),all_including_512_placeholders,80,0.46619322424662596,0.4933871389439377
+P. aeruginosa PA14 (-),numeric_observations_only,18,0.3906908133870472,0.3459028135465453
+S. aureus ATCC 12600 (+),all_including_512_placeholders,80,0.321405028514339,0.25745032174420046
+S. aureus ATCC 12600 (+),numeric_observations_only,13,0.45026979256763966,0.6518560054485412
+S. aureus ATCC BAA-1556 - MRSA (+),all_including_512_placeholders,80,0.10292658872920964,0.012211648868571342
+S. aureus ATCC BAA-1556 - MRSA (+),numeric_observations_only,12,0.34079767443910797,0.49411779903663977
+E. faecalis ATCC 700802 - VRE (+),all_including_512_placeholders,80,0.1773364163958126,0.17845693680009286
+E. faecalis ATCC 700802 - VRE (+),numeric_observations_only,5,0.16663719679051775,-0.15811388300841897
+E. faecium ATCC 700221 - VRE (+),all_including_512_placeholders,80,0.3633541169784698,0.3255379355701504
+E. faecium ATCC 700221 - VRE (+),numeric_observations_only,37,0.5718594811919162,0.549062252337774

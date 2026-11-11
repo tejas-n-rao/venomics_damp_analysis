@@ -1,0 +1,127 @@
+check,passed
+three MIC outputs have common expected denominator,True
+all common MICs finite and positive,True
+source and component map cover MIC cohort,True
+all MIC columns declared uM,True
+all threshold patterns reconcile all_common/4,True
+passing counts increase with cutoff all_common/4,True
+margin=1 reproduces disagreement all_common/4/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement all_common/4/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement all_common/4/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile all_common/8,True
+passing counts increase with cutoff all_common/8,True
+margin=1 reproduces disagreement all_common/8/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement all_common/8/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement all_common/8/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile all_common/16,True
+passing counts increase with cutoff all_common/16,True
+margin=1 reproduces disagreement all_common/16/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement all_common/16/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement all_common/16/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile all_common/32,True
+passing counts increase with cutoff all_common/32,True
+margin=1 reproduces disagreement all_common/32/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement all_common/32/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement all_common/32/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile all_common/64,True
+passing counts increase with cutoff all_common/64,True
+margin=1 reproduces disagreement all_common/64/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement all_common/64/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement all_common/64/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile all_common/128,True
+passing counts increase with cutoff all_common/128,True
+margin=1 reproduces disagreement all_common/128/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement all_common/128/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement all_common/128/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile cysteine_free_length8_to39/4,True
+passing counts increase with cutoff cysteine_free_length8_to39/4,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/4/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/4/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/4/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile cysteine_free_length8_to39/8,True
+passing counts increase with cutoff cysteine_free_length8_to39/8,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/8/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/8/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/8/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile cysteine_free_length8_to39/16,True
+passing counts increase with cutoff cysteine_free_length8_to39/16,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/16/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/16/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/16/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile cysteine_free_length8_to39/32,True
+passing counts increase with cutoff cysteine_free_length8_to39/32,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/32/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/32/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/32/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile cysteine_free_length8_to39/64,True
+passing counts increase with cutoff cysteine_free_length8_to39/64,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/64/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/64/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/64/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile cysteine_free_length8_to39/128,True
+passing counts increase with cutoff cysteine_free_length8_to39/128,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/128/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/128/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement cysteine_free_length8_to39/128/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile one_component_representative/4,True
+passing counts increase with cutoff one_component_representative/4,True
+margin=1 reproduces disagreement one_component_representative/4/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement one_component_representative/4/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement one_component_representative/4/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile one_component_representative/8,True
+passing counts increase with cutoff one_component_representative/8,True
+margin=1 reproduces disagreement one_component_representative/8/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement one_component_representative/8/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement one_component_representative/8/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile one_component_representative/16,True
+passing counts increase with cutoff one_component_representative/16,True
+margin=1 reproduces disagreement one_component_representative/16/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement one_component_representative/16/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement one_component_representative/16/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile one_component_representative/32,True
+passing counts increase with cutoff one_component_representative/32,True
+margin=1 reproduces disagreement one_component_representative/32/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement one_component_representative/32/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement one_component_representative/32/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile one_component_representative/64,True
+passing counts increase with cutoff one_component_representative/64,True
+margin=1 reproduces disagreement one_component_representative/64/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement one_component_representative/64/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement one_component_representative/64/MBC-Attention/AMPredictor,True
+all threshold patterns reconcile one_component_representative/128,True
+passing counts increase with cutoff one_component_representative/128,True
+margin=1 reproduces disagreement one_component_representative/128/APEX 1.1/MBC-Attention,True
+margin=1 reproduces disagreement one_component_representative/128/APEX 1.1/AMPredictor,True
+margin=1 reproduces disagreement one_component_representative/128/MBC-Attention/AMPredictor,True
+eight unambiguous same-strain APEX comparisons,True
+finite positive matched outputs A. baumannii ATCC 19606,True
+finite positive matched outputs E. coli ATCC 11775,True
+finite positive matched outputs K. pneumoniae ATCC 13883,True
+finite positive matched outputs P. aeruginosa PA14,True
+finite positive matched outputs S. aureus ATCC 12600,True
+finite positive matched outputs S. aureus (ATCC BAA-1556) - MRSA,True
+finite positive matched outputs vancomycin-resistant E. faecalis ATCC 700802,True
+finite positive matched outputs vancomycin-resistant E. faecium ATCC 700221,True
+finite positive matched outputs Gram-negative,True
+DeepAMP exact length matching Gram-negative,True
+finite positive matched outputs Gram-positive,True
+DeepAMP exact length matching Gram-positive,True
+classifier exports in zero-one range,True
+AMP-CLIP is exported as binary,True
+classifier patterns reconcile all_classifier_complete/0.3,True
+classifier patterns reconcile all_classifier_complete/0.5,True
+classifier patterns reconcile all_classifier_complete/0.7,True
+classifier patterns reconcile MIC_common/0.3,True
+classifier patterns reconcile MIC_common/0.5,True
+classifier patterns reconcile MIC_common/0.7,True
+classifier patterns reconcile cysteine_free_length8_to39/0.3,True
+classifier patterns reconcile cysteine_free_length8_to39/0.5,True
+classifier patterns reconcile cysteine_free_length8_to39/0.7,True
+classifier patterns reconcile one_component_representative/0.3,True
+classifier patterns reconcile one_component_representative/0.5,True
+classifier patterns reconcile one_component_representative/0.7,True
+controlled pairs have identical composition,True
+controlled pairs have same source,True
+controlled pairs contain no reused sequence,True
+pairwise four cells partition cohort,True
+xor agrees with marginal minus overlap identity,True

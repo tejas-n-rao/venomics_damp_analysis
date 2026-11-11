@@ -1,0 +1,3 @@
+group,n,with_neighbor,median_neighbors,with_extreme_neighbor
+matched_control,200,90,0.0,11
+top200,200,117,1.0,104

@@ -1,0 +1,63 @@
+{
+  "all_checks_passed": true,
+  "reports": 12,
+  "main_sections": 7,
+  "Venomics_reported_before_other_sources": true,
+  "previous_main_paragraphs_preserved": true,
+  "concurrent_user_caution_preserved": true,
+  "prior_data_and_notebooks_unchanged": 231,
+  "local_links_images_and_anchors_checked": 583,
+  "new_companion_embedded_figures": 4,
+  "separate_arithmetic_checks": 226,
+  "all_12_export_pairs_and_links_verified": true,
+  "export_figures_and_pages": {
+    "05_sequence_responses": {
+      "images": 5,
+      "pages": 8
+    },
+    "06_venomics": {
+      "images": 4,
+      "pages": 8
+    },
+    "03_matched_targets": {
+      "images": 3,
+      "pages": 7
+    },
+    "FINAL_ANALYSIS": {
+      "images": 8,
+      "pages": 11
+    },
+    "07_interpretation": {
+      "images": 1,
+      "pages": 3
+    },
+    "METHODS": {
+      "images": 16,
+      "pages": 39
+    },
+    "04_classifier_sequences": {
+      "images": 6,
+      "pages": 9
+    },
+    "PRELIMINARY_ANALYSES": {
+      "images": 3,
+      "pages": 12
+    },
+    "REPRODUCIBILITY": {
+      "images": 0,
+      "pages": 3
+    },
+    "01_shortlists": {
+      "images": 5,
+      "pages": 8
+    },
+    "SOURCE_COMPARISONS": {
+      "images": 4,
+      "pages": 9
+    },
+    "02_concentration_rules": {
+      "images": 4,
+      "pages": 6
+    }
+  }
+}

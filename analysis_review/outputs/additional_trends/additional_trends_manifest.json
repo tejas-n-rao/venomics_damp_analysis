@@ -1,0 +1,22 @@
+{
+  "input_sha256": "ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600",
+  "complete_cases": 194947,
+  "same_source_composition_groups": 6886,
+  "sequences_in_those_groups": 16815,
+  "two_member_groups": 5410,
+  "unique_terminal_position_pairs": 2222,
+  "Gram_contrast_cross_version_rho": 0.7337231698977126,
+  "Gram_contrast_cross_version_rank_residual_correlation_after_PC1": 0.5297448498351007,
+  "Gram_contrast_leave_target_out_rho_min": 0.5402076518576867,
+  "Gram_contrast_leave_target_out_rho_max": 0.8625881434570851,
+  "checks": 25,
+  "passed": 25,
+  "failed": [],
+  "elapsed_seconds": 8.587423250020947,
+  "dependency_sha256": {
+    "scratchpad/source_sequences.tsv": "0f0f6b0b88bac304de91c8052e9daaaa37c03979a032e65e168b70e16b96373a",
+    "scratchpad/damp_metadata.json": "a0030622a3a199e46ce53880ac51f111f870837da045cb862c5fd09e7124ece0",
+    "analysis_review/outputs/sanity_checks/broader_sequence_components.csv": "526e3b604459d967c026b95e4a8221e18ae918bd8a7cb7ed56e9ce71f96f6c7c"
+  },
+  "scope": "Exploratory selected-collection model behavior. No accuracy, causal residue effects, or population significance inferred."
+}

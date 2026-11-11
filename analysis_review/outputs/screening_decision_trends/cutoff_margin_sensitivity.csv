@@ -1,0 +1,703 @@
+comparison_type,population,target,left,right,cutoff_uM,margin_factor,n,far_disagreement_n,far_disagreement_fraction,fraction_of_all_cutoff_disagreements
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,4,1.0,194947,34666,0.17782269026966305,1.0
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,4,1.4142135623730951,194947,23679,0.12146378246395174,0.6830612127156291
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,4,2.0,194947,15230,0.07812379775015774,0.43933537183407373
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,4,1.0,194947,51768,0.26554909795995835,1.0
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,4,1.4142135623730951,194947,35697,0.1831113071757965,0.6895572554473807
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,4,2.0,194947,22757,0.11673429188446091,0.43959588935249577
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,4,1.0,194947,46866,0.24040380205902118,1.0
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,4,1.4142135623730951,194947,22821,0.11706258624138868,0.4869414927666112
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,4,2.0,194947,9329,0.04785403212155098,0.1990568855886997
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,8,1.0,194947,64271,0.32968447834539644,1.0
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,8,1.4142135623730951,194947,48173,0.24710818837940568,0.7495293367148481
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,8,2.0,194947,34357,0.1762376440776211,0.5345645781145463
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,8,1.0,194947,87831,0.45053783848943557,1.0
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,8,1.4142135623730951,194947,69335,0.35566076933730706,0.7894137605173572
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,8,2.0,194947,51320,0.2632510374614639,0.5843039473534402
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,8,1.0,194947,59746,0.30647304139073694,1.0
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,8,1.4142135623730951,194947,31162,0.15984857422786705,0.5215746660864325
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,8,2.0,194947,13795,0.07076282271591766,0.23089411843470692
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,16,1.0,194947,100084,0.5133908190431246,1.0
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,16,1.4142135623730951,194947,80061,0.41068085171867225,0.7999380520362895
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,16,2.0,194947,61597,0.3159679297450076,0.6154530194636505
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,16,1.0,194947,125226,0.6423592053224723,1.0
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,16,1.4142135623730951,194947,104822,0.5376948606544343,0.837062590835769
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,16,2.0,194947,84324,0.4325483336496586,0.6733745388337885
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,16,1.0,194947,61618,0.31607565133087456,1.0
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,16,1.4142135623730951,194947,30868,0.15834047202573007,0.5009575124152034
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,16,2.0,194947,13429,0.06888538936223691,0.21793956311467427
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,32,1.0,194947,134169,0.6882332121038026,1.0
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,32,1.4142135623730951,194947,110525,0.5669489656162957,0.8237744933628484
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,32,2.0,194947,84085,0.43132235941050645,0.6267095975970605
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,32,1.0,194947,152760,0.7835975931919957,1.0
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,32,1.4142135623730951,194947,132715,0.6807747746823496,0.8687810945273632
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,32,2.0,194947,107350,0.5506624877530816,0.7027363184079602
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,32,1.0,194947,48345,0.2479904794636491,1.0
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,32,1.4142135623730951,194947,23142,0.11870918762535458,0.47868445547626437
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,32,2.0,194947,9134,0.046853760252786654,0.18893370565725515
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,64,1.0,194947,148481,0.7616480376717775,1.0
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,64,1.4142135623730951,194947,122482,0.6282835847691937,0.8249001555754608
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,64,2.0,194947,94180,0.4831056646165368,0.6342899091466249
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,64,1.0,194947,159130,0.816273140904964,1.0
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,64,1.4142135623730951,194947,136295,0.6991387402729973,0.8565009740463772
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,64,2.0,194947,111636,0.5726479504685889,0.7015396216929555
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,64,1.0,194947,27081,0.13891467937439406,1.0
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,64,1.4142135623730951,194947,11151,0.057200162095338736,0.4117647058823529
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,64,2.0,194947,4030,0.02067228528779617,0.14881282079686867
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,128,1.0,194947,137423,0.7049249283138495,1.0
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,128,1.4142135623730951,194947,114706,0.5883958204024684,0.834692882559688
+approximate_species,all_common,E. coli,APEX 1.1,MBC-Attention,128,2.0,194947,85439,0.4382678368992598,0.6217227101722419
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,128,1.0,194947,143277,0.7349536027740873,1.0
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,128,1.4142135623730951,194947,122591,0.6288427110958363,0.8556223259839332
+approximate_species,all_common,E. coli,APEX 1.1,AMPredictor,128,2.0,194947,95487,0.4898100509369213,0.6664503025607739
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,128,1.0,194947,9562,0.04904922876474119,1.0
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,128,1.4142135623730951,194947,4438,0.02276516181321077,0.46412884333821375
+approximate_species,all_common,E. coli,MBC-Attention,AMPredictor,128,2.0,194947,1996,0.01023868025668515,0.20874294080736247
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,4,1.0,122813,16564,0.13487171553500035,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,4,1.4142135623730951,122813,10524,0.08569125418318907,0.6353537792803671
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,4,2.0,122813,6183,0.05034483320169689,0.3732794011108428
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,4,1.0,122813,25243,0.20554013011651862,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,4,1.4142135623730951,122813,15942,0.12980710511102245,0.6315414174226518
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,4,2.0,122813,8950,0.07287502137395878,0.35455373766984905
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,4,1.0,122813,23495,0.1913071091822527,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,4,1.4142135623730951,122813,10238,0.08336251048341788,0.43575228772079166
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,4,2.0,122813,3486,0.02838461726364473,0.14837199404128537
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,8,1.0,122813,34003,0.2768680839976224,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,8,1.4142135623730951,122813,24257,0.19751166407465007,0.7133782313325295
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,8,2.0,122813,16310,0.1328035305708679,0.4796635590977267
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,8,1.0,122813,46868,0.3816208381848827,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,8,1.4142135623730951,122813,35453,0.2886746517062526,0.7564436289152513
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,8,2.0,122813,24859,0.20241342528885378,0.5304045404113681
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,8,1.0,122813,34911,0.2842614381213715,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,8,1.4142135623730951,122813,17416,0.1418090918713817,0.4988685514594254
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,8,2.0,122813,7218,0.058772279807512234,0.20675431812322764
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,16,1.0,122813,56250,0.4580134024899644,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,16,1.4142135623730951,122813,43330,0.352812812975825,0.7703111111111111
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,16,2.0,122813,31976,0.2603633165870063,0.5684622222222222
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,16,1.0,122813,71633,0.5832688721877977,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,16,1.4142135623730951,122813,57545,0.4685578888228445,0.8033308670584787
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,16,2.0,122813,44055,0.3587160968301401,0.6150098418326749
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,16,1.0,122813,40497,0.32974522241130827,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,16,1.4142135623730951,122813,19781,0.16106601092718198,0.4884559350075314
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,16,2.0,122813,8315,0.06770455896362763,0.20532385114946786
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,32,1.0,122813,78799,0.641617744049897,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,32,1.4142135623730951,122813,62536,0.5091969091219984,0.7936141321590375
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,32,2.0,122813,45887,0.37363308444545773,0.5823297249965101
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,32,1.0,122813,91049,0.7413628850366003,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,32,1.4142135623730951,122813,76501,0.6229063698468403,0.8402179046447518
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,32,2.0,122813,59616,0.4854209244949639,0.6547683115684961
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,32,1.0,122813,33902,0.27604569548826263,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,32,1.4142135623730951,122813,15849,0.12904985628557236,0.46749454309480265
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,32,2.0,122813,5991,0.04878148078786448,0.17671523803905376
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,64,1.0,122813,90044,0.7331797122454463,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,64,1.4142135623730951,122813,72682,0.591810313240455,0.8071831549020478
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,64,2.0,122813,53418,0.43495395438593637,0.5932433032739549
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,64,1.0,122813,96944,0.7893626896175486,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,64,1.4142135623730951,122813,81636,0.6647179044563686,0.8420944050173296
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,64,2.0,122813,64728,0.5270451825132518,0.6676844363756396
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,64,1.0,122813,19524,0.15897339858158338,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,64,1.4142135623730951,122813,7747,0.06307964140604008,0.39679368981766033
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,64,2.0,122813,2625,0.021373958782865007,0.1344499078057775
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,128,1.0,122813,84155,0.6852287624274304,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,128,1.4142135623730951,122813,68420,0.557107146637571,0.8130235874279603
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,MBC-Attention,128,2.0,122813,48760,0.39702637342952296,0.5794070465212999
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,128,1.0,122813,87909,0.7157955591020495,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,128,1.4142135623730951,122813,73529,0.5987069772743928,0.8364217543141202
+approximate_species,cysteine_free_length8_to39,E. coli,APEX 1.1,AMPredictor,128,2.0,122813,55168,0.4492032602411797,0.6275580429762595
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,128,1.0,122813,6566,0.053463395568873,1.0
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,128,1.4142135623730951,122813,2912,0.023710844943124913,0.44349680170575695
+approximate_species,cysteine_free_length8_to39,E. coli,MBC-Attention,AMPredictor,128,2.0,122813,1231,0.0100233688616026,0.18748096253426744
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,4,1.0,110491,16984,0.153713877148365,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,4,1.4142135623730951,110491,11537,0.10441574426876397,0.6792863871879415
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,4,2.0,110491,7410,0.06706428577893223,0.4362929816297692
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,4,1.0,110491,27822,0.2518033142970921,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,4,1.4142135623730951,110491,19177,0.17356164755500447,0.6892746747178492
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,4,2.0,110491,12290,0.11123077897747329,0.44173675508590327
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,4,1.0,110491,25746,0.23301445366590945,1.0
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,4,1.4142135623730951,110491,13114,0.11868839996017776,0.5093606773867785
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,4,2.0,110491,5782,0.05233005403155008,0.22457857531266992
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,8,1.0,110491,32231,0.2917070168611018,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,8,1.4142135623730951,110491,23782,0.21523925025567694,0.7378610654338991
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,8,2.0,110491,16813,0.15216623978423582,0.5216406565108126
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,8,1.0,110491,46970,0.4251024970359577,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,8,1.4142135623730951,110491,37135,0.336090722321275,0.7906110283159463
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,8,2.0,110491,27594,0.24973979781158645,0.5874813710879284
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,8,1.0,110491,33911,0.3069118751753536,1.0
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,8,1.4142135623730951,110491,18517,0.16758831036011984,0.546047005396479
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,8,2.0,110491,8754,0.0792281724303337,0.2581463242015865
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,16,1.0,110491,52017,0.4707804255550226,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,16,1.4142135623730951,110491,40969,0.37079038111701407,0.7876078974181517
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,16,2.0,110491,31150,0.28192341457675285,0.5988426860449468
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,16,1.0,110491,67631,0.6120951027685513,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,16,1.4142135623730951,110491,56623,0.5124670787665964,0.8372344043412044
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,16,2.0,110491,45585,0.41256753943760127,0.6740252251186586
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,16,1.0,110491,36430,0.32971011213583007,1.0
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,16,1.4142135623730951,110491,18837,0.17048447384854876,0.5170738402415591
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,16,2.0,110491,8517,0.07708320134671602,0.23379083173208895
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,32,1.0,110491,72884,0.6596374365332923,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,32,1.4142135623730951,110491,60182,0.5446778470644668,0.8257230667910652
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,32,2.0,110491,46550,0.42130128245739473,0.6386861313868614
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,32,1.0,110491,84362,0.7635192006588772,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,32,1.4142135623730951,110491,73982,0.6695748975029641,0.8769588203219459
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,32,2.0,110491,61441,0.5560724402892543,0.7283018420615918
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,32,1.0,110491,29910,0.2707007810590908,1.0
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,32,1.4142135623730951,110491,14705,0.1330877628042103,0.4916415914409896
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,32,2.0,110491,5970,0.05403155008100207,0.1995987963891675
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,64,1.0,110491,85649,0.7751672081889023,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,64,1.4142135623730951,110491,72426,0.6554923025404784,0.8456140760545949
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,64,2.0,110491,57277,0.518386112896073,0.6687410244135951
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,64,1.0,110491,93025,0.8419237765971889,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,64,1.4142135623730951,110491,81380,0.7365305771510802,0.8748185971513034
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,64,2.0,110491,68172,0.6169914291661764,0.7328352593388874
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,64,1.0,110491,17734,0.1605017603243703,1.0
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,64,1.4142135623730951,110491,7619,0.06895584255731237,0.42962670576294126
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,64,2.0,110491,2933,0.026545148473631337,0.16538851922860043
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,128,1.0,110491,84459,0.7643971002163072,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,128,1.4142135623730951,110491,72627,0.6573114552316478,0.859908357901467
+approximate_species,one_component_representative,E. coli,APEX 1.1,MBC-Attention,128,2.0,110491,56645,0.5126661900064259,0.6706804485016399
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,128,1.0,110491,88972,0.8052420559140564,1.0
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,128,1.4142135623730951,110491,78505,0.7105103583097265,0.8823562469091399
+approximate_species,one_component_representative,E. coli,APEX 1.1,AMPredictor,128,2.0,110491,63689,0.5764179887954675,0.715831947129434
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,128,1.0,110491,7141,0.06462969834647166,1.0
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,128,1.4142135623730951,110491,3537,0.032011657058040925,0.49530878028287356
+approximate_species,one_component_representative,E. coli,MBC-Attention,AMPredictor,128,2.0,110491,1680,0.01520485831425184,0.23526116790365495
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,1.0,195625,645,0.0032971246006389776,1.0
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,1.4142135623730951,195625,58,0.0002964856230031949,0.08992248062015504
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,2.0,195625,15,7.667731629392971e-05,0.023255813953488372
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,1.0,195625,5819,0.029745686900958468,1.0
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,1.4142135623730951,195625,811,0.004145686900958467,0.13937102594947587
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,2.0,195625,64,0.0003271565495207668,0.010998453342498712
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,1.0,195625,18993,0.0970888178913738,1.0
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,1.4142135623730951,195625,3830,0.019578274760383388,0.2016532406676144
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,2.0,195625,575,0.002939297124600639,0.030274311588479968
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,1.0,195625,36729,0.1877520766773163,1.0
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,1.4142135623730951,195625,10791,0.05516166134185303,0.29380053908355797
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,2.0,195625,2267,0.011588498402555911,0.061722344741212666
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,1.0,195625,54471,0.27844600638977635,1.0
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,1.4142135623730951,195625,23984,0.12260191693290735,0.44030768665895614
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,2.0,195625,6006,0.030701597444089457,0.11026050559013052
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,1.0,195625,83132,0.424955910543131,1.0
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,1.4142135623730951,195625,36431,0.18622875399361022,0.43823076552951934
+APEX_version_same_strain,all_paired,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,2.0,195625,12475,0.06376996805111822,0.1500625511235144
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,1.0,122823,610,0.004966496503097954,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,1.4142135623730951,122823,43,0.0003500972944806754,0.07049180327868852
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,2.0,122823,7,5.6992582822435535e-05,0.011475409836065573
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,1.0,122823,5217,0.0424757577978066,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,1.4142135623730951,122823,730,0.0059435122086254205,0.13992716120375695
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,2.0,122823,44,0.0003582390920267377,0.00843396588077439
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,1.0,122823,14971,0.12189085106209749,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,1.4142135623730951,122823,3316,0.02699820066274232,0.2214948901209004
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,2.0,122823,522,0.004250018319044479,0.03486741032663149
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,1.0,122823,26205,0.21335580469456047,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,1.4142135623730951,122823,8429,0.06862721151575844,0.32165617248616674
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,2.0,122823,1920,0.015632251288439463,0.07326846021751574
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,1.0,122823,40552,0.33016617408791515,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,1.4142135623730951,122823,19130,0.15575258705617026,0.47173998816334584
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,2.0,122823,5027,0.04092881626405478,0.12396429275991319
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,1.0,122823,50766,0.4133264942233946,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,1.4142135623730951,122823,26655,0.21701961359028846,0.5250561399361777
+APEX_version_same_strain,cysteine_free_length8_to39,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,2.0,122823,11235,0.09147309543000903,0.22130953787968324
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,1.0,110491,299,0.0027061027595007736,1.0
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,1.4142135623730951,110491,27,0.0002443637943361903,0.0903010033444816
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,4,2.0,110491,8,7.240408721072305e-05,0.026755852842809364
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,1.0,110491,2282,0.02065326587685875,1.0
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,1.4142135623730951,110491,328,0.002968567575639645,0.1437335670464505
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,8,2.0,110491,26,0.0002353132834348499,0.011393514460999123
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,1.0,110491,7371,0.06671131585377994,1.0
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,1.4142135623730951,110491,1655,0.01497859554171833,0.2245285578618912
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,16,2.0,110491,271,0.002452688454263243,0.0367657034323701
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,1.0,110491,13737,0.12432686825171281,1.0
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,1.4142135623730951,110491,3881,0.035125032808102016,0.28252165683919345
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,32,2.0,110491,819,0.007412368428197771,0.059620004367765884
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,1.0,110491,22799,0.20634259803965935,1.0
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,1.4142135623730951,110491,8098,0.07329103727905441,0.355191017149875
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,64,2.0,110491,1732,0.01567548488112154,0.07596824422123777
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,1.0,110491,53598,0.4850892832900417,1.0
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,1.4142135623730951,110491,18249,0.16516277343856062,0.34047912235531175
+APEX_version_same_strain,one_component_representative,A. baumannii ATCC 19606,apex_1_0_A._baumannii_ATCC19606,apex_1_1_A._baumannii_ATCC_19606,128,2.0,110491,3465,0.03136002027314442,0.06464793462442628
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,1.0,195625,33,0.00016869009584664536,1.0
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,1.4142135623730951,195625,7,3.5782747603833865e-05,0.21212121212121213
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,2.0,195625,3,1.533546325878594e-05,0.09090909090909091
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,1.0,195625,294,0.0015028753993610224,1.0
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,1.4142135623730951,195625,25,0.00012779552715654952,0.08503401360544217
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,2.0,195625,9,4.600638977635783e-05,0.030612244897959183
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,1.0,195625,2585,0.013214057507987221,1.0
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,1.4142135623730951,195625,464,0.0023718849840255593,0.1794970986460348
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,2.0,195625,56,0.0002862619808306709,0.021663442940038684
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,1.0,195625,19553,0.09995143769968051,1.0
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,1.4142135623730951,195625,4088,0.02089712460063898,0.2090727765560272
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,2.0,195625,622,0.003179552715654952,0.03181097529790825
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,1.0,195625,66536,0.34012012779552714,1.0
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,1.4142135623730951,195625,24844,0.12699808306709265,0.3733918480221234
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,2.0,195625,5334,0.027266453674121404,0.08016712757003727
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,1.0,195625,118224,0.6043399361022365,1.0
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,1.4142135623730951,195625,59710,0.30522683706070286,0.5050581946136148
+APEX_version_same_strain,all_paired,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,2.0,195625,17686,0.0904076677316294,0.1495973744755718
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,1.0,122823,24,0.00019540314110549328,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,1.4142135623730951,122823,4,3.256719018424888e-05,0.16666666666666666
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,2.0,122823,1,8.14179754606222e-06,0.041666666666666664
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,1.0,122823,269,0.002190143539890737,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,1.4142135623730951,122823,17,0.00013841055828305772,0.06319702602230483
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,2.0,122823,2,1.628359509212444e-05,0.007434944237918215
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,1.0,122823,2403,0.019564739503187514,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,1.4142135623730951,122823,431,0.0035091147423528166,0.1793591344153142
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,2.0,122823,52,0.0004233734723952354,0.021639617145235122
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,1.0,122823,15940,0.12978025288423178,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,1.4142135623730951,122823,3633,0.029579150484844045,0.2279171894604768
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,2.0,122823,571,0.004648966398801527,0.03582183186951066
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,1.0,122823,48373,0.39384317269566776,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,1.4142135623730951,122823,18964,0.15440104866352394,0.3920368800777293
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,2.0,122823,4318,0.03515628180389666,0.08926467244123788
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,1.0,122823,76332,0.6214796902860213,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,1.4142135623730951,122823,44948,0.36595751610040467,0.5888487135146465
+APEX_version_same_strain,cysteine_free_length8_to39,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,2.0,122823,14457,0.1177059671234215,0.18939632133312373
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,1.0,110491,21,0.000190060728928148,1.0
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,1.4142135623730951,110491,6,5.430306540804228e-05,0.2857142857142857
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,4,2.0,110491,2,1.8101021802680763e-05,0.09523809523809523
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,1.0,110491,189,0.001710546560353332,1.0
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,1.4142135623730951,110491,15,0.00013575766352010572,0.07936507936507936
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,8,2.0,110491,7,6.335357630938266e-05,0.037037037037037035
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,1.0,110491,1114,0.010082269144093185,1.0
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,1.4142135623730951,110491,200,0.0018101021802680761,0.17953321364452424
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,16,2.0,110491,24,0.00021721226163216913,0.02154398563734291
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,1.0,110491,6733,0.06093708989872478,1.0
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,1.4142135623730951,110491,1480,0.013394756133983764,0.21981286202287242
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,32,2.0,110491,246,0.0022264256817297336,0.03653646220109907
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,1.0,110491,24728,0.22380103356834494,1.0
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,1.4142135623730951,110491,8682,0.07857653564543718,0.3510999676480104
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,64,2.0,110491,1736,0.0157116869247269,0.07020381753477839
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,1.0,110491,66678,0.6034699658795739,1.0
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,1.4142135623730951,110491,24831,0.224733236191183,0.3724016917124089
+APEX_version_same_strain,one_component_representative,E. coli ATCC 11775,apex_1_0_E._coli_ATCC11775,apex_1_1_E._coli_ATCC_11775,128,2.0,110491,4698,0.04251930021449711,0.07045802213623684
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,1.0,195625,15,7.667731629392971e-05,1.0
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,1.4142135623730951,195625,7,3.5782747603833865e-05,0.4666666666666667
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,2.0,195625,2,1.0223642172523962e-05,0.13333333333333333
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,1.0,195625,36,0.00018402555910543132,1.0
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,1.4142135623730951,195625,6,3.067092651757188e-05,0.16666666666666666
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,2.0,195625,2,1.0223642172523962e-05,0.05555555555555555
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,1.0,195625,122,0.0006236421725239617,1.0
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,1.4142135623730951,195625,28,0.00014313099041533546,0.22950819672131148
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,2.0,195625,16,8.17891373801917e-05,0.13114754098360656
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,1.0,195625,919,0.00469776357827476,1.0
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,1.4142135623730951,195625,168,0.0008587859424920128,0.18280739934711643
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,2.0,195625,43,0.00021980830670926518,0.046789989118607184
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,1.0,195625,19935,0.10190415335463258,1.0
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,1.4142135623730951,195625,2670,0.01364856230031949,0.13393528969149737
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,2.0,195625,285,0.0014568690095846646,0.014296463506395787
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,1.0,195625,146444,0.7485955271565495,1.0
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,1.4142135623730951,195625,64823,0.3313635782747604,0.4426470186555953
+APEX_version_same_strain,all_paired,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,2.0,195625,8237,0.04210607028753994,0.05624675643932152
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,1.0,122823,15,0.0001221269631909333,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,1.4142135623730951,122823,7,5.6992582822435535e-05,0.4666666666666667
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,2.0,122823,2,1.628359509212444e-05,0.13333333333333333
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,1.0,122823,35,0.0002849629141121777,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,1.4142135623730951,122823,6,4.885078527637332e-05,0.17142857142857143
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,2.0,122823,2,1.628359509212444e-05,0.05714285714285714
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,1.0,122823,115,0.0009363067177971553,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,1.4142135623730951,122823,27,0.00021982853374367993,0.23478260869565218
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,2.0,122823,16,0.0001302687607369955,0.1391304347826087
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,1.0,122823,909,0.007400893969370557,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,1.4142135623730951,122823,168,0.0013678219877384528,0.1848184818481848
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,2.0,122823,43,0.0003500972944806754,0.047304730473047306
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,1.0,122823,17690,0.14402839858984068,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,1.4142135623730951,122823,2649,0.02156762169951882,0.1497456189937818
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,2.0,122823,285,0.0023204123006277328,0.01611079706048615
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,1.0,122823,98796,0.804377030360763,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,1.4142135623730951,122823,50685,0.4126670086221636,0.5130268431920321
+APEX_version_same_strain,cysteine_free_length8_to39,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,2.0,122823,7529,0.06129959372430245,0.0762075387667517
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,1.0,110491,4,3.6202043605361526e-05,1.0
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,1.4142135623730951,110491,3,2.715153270402114e-05,0.75
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,4,2.0,110491,2,1.8101021802680763e-05,0.5
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,1.0,110491,13,0.00011765664171742495,1.0
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,1.4142135623730951,110491,3,2.715153270402114e-05,0.23076923076923078
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,8,2.0,110491,1,9.050510901340382e-06,0.07692307692307693
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,1.0,110491,61,0.0005520811649817632,1.0
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,1.4142135623730951,110491,12,0.00010860613081608456,0.19672131147540983
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,16,2.0,110491,6,5.430306540804228e-05,0.09836065573770492
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,1.0,110491,428,0.003873618665773683,1.0
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,1.4142135623730951,110491,68,0.0006154347412911459,0.1588785046728972
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,32,2.0,110491,14,0.00012670715261876533,0.03271028037383177
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,1.0,110491,6104,0.05524431854178168,1.0
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,1.4142135623730951,110491,961,0.008697540976188106,0.15743774574049804
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,64,2.0,110491,114,0.0010317582427528033,0.018676277850589777
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,1.0,110491,74337,0.6727878288729399,1.0
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,1.4142135623730951,110491,21316,0.19292069037297155,0.2867481873091462
+APEX_version_same_strain,one_component_representative,K. pneumoniae ATCC 13883,apex_1_0_K._pneumoniae_ATCC13883,apex_1_1_K._pneumoniae_ATCC_13883,128,2.0,110491,2109,0.01908752749092686,0.028370797853020702
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,1.0,195625,7,3.5782747603833865e-05,1.0
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,1.4142135623730951,195625,0,0.0,0.0
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,2.0,195625,0,0.0,0.0
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,1.0,195625,41,0.00020958466453674122,1.0
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,1.4142135623730951,195625,5,2.5559105431309903e-05,0.12195121951219512
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,2.0,195625,2,1.0223642172523962e-05,0.04878048780487805
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,1.0,195625,437,0.0022338658146964854,1.0
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,1.4142135623730951,195625,21,0.0001073482428115016,0.04805491990846682
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,2.0,195625,4,2.0447284345047924e-05,0.009153318077803204
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,1.0,195625,19982,0.1021444089456869,1.0
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,1.4142135623730951,195625,3725,0.01904153354632588,0.18641777599839857
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,2.0,195625,66,0.0003373801916932907,0.003302972675407867
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,1.0,195625,52329,0.2674964856230032,1.0
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,1.4142135623730951,195625,20398,0.10427092651757189,0.3898029773165931
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,2.0,195625,4342,0.02219552715654952,0.08297502340958168
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,1.0,195625,121015,0.6186070287539936,1.0
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,1.4142135623730951,195625,47960,0.2451629392971246,0.3963145064661406
+APEX_version_same_strain,all_paired,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,2.0,195625,10330,0.05280511182108626,0.08536131884477131
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,1.0,122823,7,5.6992582822435535e-05,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,1.4142135623730951,122823,0,0.0,0.0
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,2.0,122823,0,0.0,0.0
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,1.0,122823,41,0.000333813699388551,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,1.4142135623730951,122823,5,4.07089877303111e-05,0.12195121951219512
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,2.0,122823,2,1.628359509212444e-05,0.04878048780487805
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,1.0,122823,417,0.0033951295767079455,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,1.4142135623730951,122823,21,0.0001709777484673066,0.050359712230215826
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,2.0,122823,4,3.256719018424888e-05,0.009592326139088728
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,1.0,122823,13925,0.11337453082891641,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,1.4142135623730951,122823,2914,0.023725198049225307,0.20926391382405746
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,2.0,122823,63,0.0005129332454019198,0.0045242369838420105
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,1.0,122823,37348,0.3040798547503318,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,1.4142135623730951,122823,14596,0.11883767698232416,0.3908107529184963
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,2.0,122823,3468,0.028235753889743778,0.09285637785155831
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,1.0,122823,79300,0.645644545402734,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,1.4142135623730951,122823,33671,0.27414246517346097,0.42460277427490545
+APEX_version_same_strain,cysteine_free_length8_to39,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,2.0,122823,7432,0.060509839362334415,0.09372005044136192
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,1.0,110491,3,2.715153270402114e-05,1.0
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,1.4142135623730951,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,4,2.0,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,1.0,110491,24,0.00021721226163216913,1.0
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,1.4142135623730951,110491,2,1.8101021802680763e-05,0.08333333333333333
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,8,2.0,110491,1,9.050510901340382e-06,0.041666666666666664
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,1.0,110491,240,0.0021721226163216915,1.0
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,1.4142135623730951,110491,11,9.955561991474419e-05,0.04583333333333333
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,16,2.0,110491,1,9.050510901340382e-06,0.004166666666666667
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,1.0,110491,5541,0.05014888090432705,1.0
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,1.4142135623730951,110491,873,0.007901096016870153,0.15755278830536004
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,32,2.0,110491,23,0.00020816175073082877,0.004150875293268363
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,1.0,110491,20923,0.18936383958874478,1.0
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,1.4142135623730951,110491,7015,0.06348933397290277,0.33527696793002915
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,64,2.0,110491,1051,0.00951208695730874,0.05023180232280266
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,1.0,110491,66850,0.6050266537546044,1.0
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,1.4142135623730951,110491,21905,0.19825144129386105,0.32767389678384445
+APEX_version_same_strain,one_component_representative,P. aeruginosa PA14,apex_1_0_P._aeruginosa_PA14,apex_1_1_P._aeruginosa_PA14,128,2.0,110491,3545,0.03208406114525165,0.053029169783096484
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,1.0,195625,19,9.712460063897764e-05,1.0
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,1.4142135623730951,195625,3,1.533546325878594e-05,0.15789473684210525
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,2.0,195625,2,1.0223642172523962e-05,0.10526315789473684
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,1.0,195625,98,0.0005009584664536741,1.0
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,1.4142135623730951,195625,24,0.00012268370607028753,0.24489795918367346
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,2.0,195625,6,3.067092651757188e-05,0.061224489795918366
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,1.0,195625,452,0.0023105431309904155,1.0
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,1.4142135623730951,195625,134,0.0006849840255591054,0.29646017699115046
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,2.0,195625,39,0.00019936102236421725,0.08628318584070796
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,1.0,195625,2579,0.013183386581469649,1.0
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,1.4142135623730951,195625,714,0.0036498402555910545,0.276851492826677
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,2.0,195625,205,0.001047923322683706,0.0794881737107406
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,1.0,195625,32534,0.1663079872204473,1.0
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,1.4142135623730951,195625,7360,0.03762300319488818,0.2262248724411385
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,2.0,195625,1345,0.006875399361022364,0.04134136595561566
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,1.0,195625,136768,0.6991335463258785,1.0
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,1.4142135623730951,195625,59725,0.3053035143769968,0.4366884066448292
+APEX_version_same_strain,all_paired,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,2.0,195625,11964,0.06115782747603834,0.08747660271408517
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,1.0,122823,19,0.00015469415337518216,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,1.4142135623730951,122823,3,2.442539263818666e-05,0.15789473684210525
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,2.0,122823,2,1.628359509212444e-05,0.10526315789473684
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,1.0,122823,98,0.0007978961595140975,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,1.4142135623730951,122823,24,0.00019540314110549328,0.24489795918367346
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,2.0,122823,6,4.885078527637332e-05,0.061224489795918366
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,1.0,122823,452,0.003680092490820123,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,1.4142135623730951,122823,134,0.0010910008711723373,0.29646017699115046
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,2.0,122823,39,0.0003175301042964266,0.08628318584070796
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,1.0,122823,2548,0.020745300147366537,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,1.4142135623730951,122823,713,0.0058051016503423624,0.27982731554160123
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,2.0,122823,205,0.001669068496942755,0.0804552590266876
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,1.0,122823,27683,0.22538938146764043,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,1.4142135623730951,122823,6956,0.0566343437304088,0.25127334465195245
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,2.0,122823,1341,0.010918150509269437,0.04844128165300004
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,1.0,122823,92980,0.7570243358328652,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,1.4142135623730951,122823,49314,0.4015046041865123,0.5303721230372123
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,2.0,122823,11373,0.09259666349136562,0.12231662723166273
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,1.0,110491,4,3.6202043605361526e-05,1.0
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,1.4142135623730951,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,4,2.0,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,1.0,110491,24,0.00021721226163216913,1.0
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,1.4142135623730951,110491,6,5.430306540804228e-05,0.25
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,8,2.0,110491,1,9.050510901340382e-06,0.041666666666666664
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,1.0,110491,125,0.0011313138626675475,1.0
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,1.4142135623730951,110491,41,0.0003710709469549556,0.328
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,16,2.0,110491,15,0.00013575766352010572,0.12
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,1.0,110491,782,0.007077499524848178,1.0
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,1.4142135623730951,110491,228,0.0020635164855056067,0.2915601023017903
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,32,2.0,110491,72,0.0006516367848965074,0.09207161125319693
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,1.0,110491,10054,0.09099383660207619,1.0
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,1.4142135623730951,110491,2087,0.018888416251097374,0.20757907300576886
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,64,2.0,110491,393,0.0035568507842267698,0.03908891983290233
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,1.0,110491,68244,0.617643065951073,1.0
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,1.4142135623730951,110491,21968,0.19882162348064547,0.3219037571068519
+APEX_version_same_strain,one_component_representative,S. aureus ATCC 12600,apex_1_0_S._aureus_ATCC12600,apex_1_1_S._aureus_ATCC_12600,128,2.0,110491,3295,0.029821433419916554,0.04828263290545689
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,1.0,195625,8,4.089456869009585e-05,1.0
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,1.4142135623730951,195625,3,1.533546325878594e-05,0.375
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,2.0,195625,2,1.0223642172523962e-05,0.25
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,1.0,195625,49,0.00025047923322683705,1.0
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,1.4142135623730951,195625,8,4.089456869009585e-05,0.16326530612244897
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,2.0,195625,4,2.0447284345047924e-05,0.08163265306122448
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,1.0,195625,295,0.0015079872204472843,1.0
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,1.4142135623730951,195625,93,0.00047539936102236423,0.3152542372881356
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,2.0,195625,19,9.712460063897764e-05,0.06440677966101695
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,1.0,195625,1724,0.008812779552715654,1.0
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,1.4142135623730951,195625,507,0.002591693290734824,0.29408352668213456
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,2.0,195625,144,0.0007361022364217253,0.08352668213457076
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,1.0,195625,19182,0.09805495207667732,1.0
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,1.4142135623730951,195625,3744,0.019138658146964856,0.19518298404754458
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,2.0,195625,935,0.004779552715654952,0.04874361380460849
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,1.0,195625,136465,0.6975846645367412,1.0
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,1.4142135623730951,195625,58811,0.3006313099041534,0.4309603194958414
+APEX_version_same_strain,all_paired,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,2.0,195625,8612,0.04402300319488818,0.06310775656761806
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,1.0,122823,8,6.513438036849776e-05,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,1.4142135623730951,122823,3,2.442539263818666e-05,0.375
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,2.0,122823,2,1.628359509212444e-05,0.25
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,1.0,122823,49,0.0003989480797570488,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,1.4142135623730951,122823,8,6.513438036849776e-05,0.16326530612244897
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,2.0,122823,4,3.256719018424888e-05,0.08163265306122448
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,1.0,122823,295,0.0024018302760883546,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,1.4142135623730951,122823,93,0.0007571871717837864,0.3152542372881356
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,2.0,122823,19,0.00015469415337518216,0.06440677966101695
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,1.0,122823,1724,0.014036458969411266,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,1.4142135623730951,122823,507,0.004127891355853545,0.29408352668213456
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,2.0,122823,144,0.0011724188466329596,0.08352668213457076
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,1.0,122823,18412,0.14990677641809758,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,1.4142135623730951,122823,3732,0.030385188441904205,0.20269389528568324
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,2.0,122823,935,0.007612580705568175,0.0507820986313274
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,1.0,122823,94827,0.7720622359004421,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,1.4142135623730951,122823,49196,0.40054387207607695,0.5187973889293134
+APEX_version_same_strain,cysteine_free_length8_to39,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,2.0,122823,8493,0.06914828655870643,0.08956309911733999
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,1.0,110491,1,9.050510901340382e-06,1.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,1.4142135623730951,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,4,2.0,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,1.0,110491,11,9.955561991474419e-05,1.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,1.4142135623730951,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,8,2.0,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,1.0,110491,81,0.0007330913830085709,1.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,1.4142135623730951,110491,25,0.00022626277253350952,0.30864197530864196
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,16,2.0,110491,8,7.240408721072305e-05,0.09876543209876543
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,1.0,110491,542,0.004905376908526486,1.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,1.4142135623730951,110491,163,0.0014752332769184821,0.3007380073800738
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,32,2.0,110491,55,0.000497778099573721,0.1014760147601476
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,1.0,110491,5814,0.052619670380392974,1.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,1.4142135623730951,110491,1187,0.010742956439891031,0.20416236670106638
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,64,2.0,110491,265,0.002398385388855201,0.0455796353629171
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,1.0,110491,63812,0.5775312016363324,1.0
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,1.4142135623730951,110491,19533,0.17678362943588166,0.3061023005077415
+APEX_version_same_strain,one_component_representative,S. aureus (ATCC BAA-1556) - MRSA,apex_1_0_S._aureus_(ATCC_BAA-1556)_-_MRSA,apex_1_1_S._aureus_(ATCC_BAA-1556)_-_MRSA,128,2.0,110491,2092,0.018933668805604077,0.0327838024196076
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,1.0,195625,0,0.0,
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,1.4142135623730951,195625,0,0.0,
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,2.0,195625,0,0.0,
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,1.0,195625,2,1.0223642172523962e-05,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,1.4142135623730951,195625,0,0.0,0.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,2.0,195625,0,0.0,0.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,1.0,195625,7,3.5782747603833865e-05,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,1.4142135623730951,195625,3,1.533546325878594e-05,0.42857142857142855
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,2.0,195625,2,1.0223642172523962e-05,0.2857142857142857
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,1.0,195625,67,0.0003424920127795527,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,1.4142135623730951,195625,13,6.645367412140575e-05,0.19402985074626866
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,2.0,195625,1,5.111821086261981e-06,0.014925373134328358
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,1.0,195625,3772,0.01928178913738019,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,1.4142135623730951,195625,550,0.0028115015974440895,0.14581124072110285
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,2.0,195625,29,0.00014824281150159745,0.0076882290562036056
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,1.0,195625,147520,0.7540958466453674,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,1.4142135623730951,195625,37765,0.1930479233226837,0.25599918655097614
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,2.0,195625,2397,0.012253035143769969,0.0162486442516269
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,1.0,122823,0,0.0,
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,1.4142135623730951,122823,0,0.0,
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,2.0,122823,0,0.0,
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,1.0,122823,2,1.628359509212444e-05,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,1.4142135623730951,122823,0,0.0,0.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,2.0,122823,0,0.0,0.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,1.0,122823,7,5.6992582822435535e-05,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,1.4142135623730951,122823,3,2.442539263818666e-05,0.42857142857142855
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,2.0,122823,2,1.628359509212444e-05,0.2857142857142857
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,1.0,122823,67,0.0005455004355861687,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,1.4142135623730951,122823,13,0.00010584336809880885,0.19402985074626866
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,2.0,122823,1,8.14179754606222e-06,0.014925373134328358
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,1.0,122823,3763,0.03063758416583213,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,1.4142135623730951,122823,550,0.004477988650334221,0.14615997874036674
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,2.0,122823,29,0.00023611212883580438,0.0077066170608557005
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,1.0,122823,103961,0.8464294146861744,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,1.4142135623730951,122823,32698,0.26622049616114246,0.3145217918257808
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,2.0,122823,2389,0.019450754337542644,0.022979771260376487
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,1.0,110491,0,0.0,
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,1.4142135623730951,110491,0,0.0,
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,4,2.0,110491,0,0.0,
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,1.0,110491,0,0.0,
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,1.4142135623730951,110491,0,0.0,
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,8,2.0,110491,0,0.0,
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,1.0,110491,1,9.050510901340382e-06,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,1.4142135623730951,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,16,2.0,110491,0,0.0,0.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,1.0,110491,13,0.00011765664171742495,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,1.4142135623730951,110491,3,2.715153270402114e-05,0.23076923076923078
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,32,2.0,110491,1,9.050510901340382e-06,0.07692307692307693
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,1.0,110491,1282,0.011602754975518367,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,1.4142135623730951,110491,159,0.0014390312333131205,0.12402496099843993
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,64,2.0,110491,8,7.240408721072305e-05,0.0062402496099844
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,1.0,110491,70997,0.642559122462463,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,1.4142135623730951,110491,12844,0.11624476201681586,0.18090905249517586
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecalis ATCC 700802,apex_1_0_vancomycin-resistant_E._faecalis_ATCC700802,apex_1_1_vancomycin-resistant_E._faecalis_ATCC_700802,128,2.0,110491,816,0.00738521689549375,0.011493443384931757
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,1.0,195625,1464,0.00748370607028754,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,1.4142135623730951,195625,363,0.0018555910543130991,0.24795081967213115
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,2.0,195625,76,0.00038849840255591057,0.05191256830601093
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,1.0,195625,6383,0.032628753993610225,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,1.4142135623730951,195625,1310,0.0066964856230031945,0.20523264922450257
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,2.0,195625,146,0.0007463258785942492,0.022873257089143038
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,1.0,195625,16996,0.08688051118210863,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,1.4142135623730951,195625,3665,0.01873482428115016,0.21563897387620617
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,2.0,195625,442,0.0022594249201277955,0.026006119086843964
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,1.0,195625,33300,0.17022364217252395,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,1.4142135623730951,195625,10410,0.053214057507987224,0.31261261261261264
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,2.0,195625,2261,0.011557827476038339,0.0678978978978979
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,1.0,195625,61590,0.3148370607028754,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,1.4142135623730951,195625,26721,0.1365929712460064,0.43385289819775935
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,2.0,195625,6379,0.03260830670926518,0.10357200844292905
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,1.0,195625,98693,0.5045009584664537,1.0
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,1.4142135623730951,195625,42049,0.21494696485623002,0.426058585715299
+APEX_version_same_strain,all_paired,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,2.0,195625,14562,0.07443833865814696,0.1475484583506429
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,1.0,122823,1414,0.011512501730131979,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,1.4142135623730951,122823,347,0.0028252037484835903,0.2454031117397454
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,2.0,122823,65,0.0005292168404940443,0.04596888260254597
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,1.0,122823,5965,0.04856582236226114,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,1.4142135623730951,122823,1172,0.009542186723984922,0.19647946353730092
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,2.0,122823,108,0.0008793141349747197,0.018105616093880974
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,1.0,122823,14421,0.11741286241176327,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,1.4142135623730951,122823,3162,0.025744363840648737,0.21926357395464946
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,2.0,122823,352,0.0028659127362139014,0.02440884820747521
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,1.0,122823,24932,0.20299129641842326,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,1.4142135623730951,122823,8645,0.0703858397857079,0.34674314134445694
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,2.0,122823,2095,0.01705706585900035,0.08402855767688111
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,1.0,122823,46964,0.3823713799532661,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,1.4142135623730951,122823,21776,0.1772957833630509,0.4636743037219998
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,2.0,122823,5558,0.04525211076101382,0.11834596712375436
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,1.0,122823,59728,0.48629328383120424,1.0
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,1.4142135623730951,122823,31992,0.2604723870936225,0.5356281810875971
+APEX_version_same_strain,cysteine_free_length8_to39,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,2.0,122823,13314,0.1083998925282724,0.22291052772568978
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,1.0,110491,671,0.006072892814799395,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,1.4142135623730951,110491,159,0.0014390312333131205,0.23695976154992549
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,4,2.0,110491,20,0.0001810102180268076,0.029806259314456036
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,1.0,110491,2425,0.021947488935750423,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,1.4142135623730951,110491,477,0.004317093699939362,0.19670103092783506
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,8,2.0,110491,55,0.000497778099573721,0.02268041237113402
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,1.0,110491,6395,0.057878017214071736,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,1.4142135623730951,110491,1425,0.012896978034410042,0.22283033620015638
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,16,2.0,110491,191,0.0017286475821560127,0.02986708365910868
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,1.0,110491,12661,0.11458851852187056,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,1.4142135623730951,110491,3834,0.03469965879573902,0.3028196824895348
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,32,2.0,110491,794,0.007186105655664262,0.062712266013743
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,1.0,110491,24785,0.22431691268972134,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,1.4142135623730951,110491,8953,0.08102922409970043,0.36122654831551343
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,64,2.0,110491,1830,0.016562434949452896,0.07383498083518257
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,1.0,110491,62074,0.5618014136898027,1.0
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,1.4142135623730951,110491,20499,0.18552642296657645,0.3302348809485453
+APEX_version_same_strain,one_component_representative,vancomycin-resistant E. faecium ATCC 700221,apex_1_0_vancomycin-resistant_E._faecium_ATCC700221,apex_1_1_vancomycin-resistant_E._faecium_ATCC_700221,128,2.0,110491,4025,0.036428306377895035,0.06484196281857138
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,1.0,190876,18993,0.09950439028479222,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,1.4142135623730951,190876,6848,0.0358766948175779,0.3605538882746275
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,2.0,190876,2486,0.013024162283367212,0.1308903280155847
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,1.0,190876,32931,0.17252561872629352,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,1.4142135623730951,190876,16424,0.0860453907248685,0.49873978925632384
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,2.0,190876,6547,0.03429975481464406,0.19880963226139503
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,1.0,190876,41165,0.21566357216203189,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,1.4142135623730951,190876,23123,0.1211414740459775,0.561715049192275
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,2.0,190876,11646,0.061013432804543265,0.28291023928094255
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,1.0,190876,42006,0.22006957396424903,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,1.4142135623730951,190876,26250,0.13752383746516061,0.6249107270389944
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,2.0,190876,14715,0.07709193403047004,0.35030709898585916
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,1.0,190876,37204,0.19491187996395565,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,1.4142135623730951,190876,24601,0.12888472097068254,0.6612461025696161
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,2.0,190876,15805,0.08280244766235671,0.42481991183743684
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,1.0,190876,32071,0.16802007586076825,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,1.4142135623730951,190876,23528,0.12326327039543997,0.7336222755760656
+DeepAMP_same_Gram_group,all_paired,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,2.0,190876,16679,0.08738133657453007,0.520064856100527
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,1.0,122823,11992,0.09763643617237813,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,1.4142135623730951,122823,3787,0.030832987306937627,0.31579386257505004
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,2.0,122823,1249,0.010169105135031713,0.10415276851234156
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,1.0,122823,21941,0.17863917995815115,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,1.4142135623730951,122823,10070,0.08198790128884655,0.45895811494462424
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,2.0,122823,3294,0.02681908111672895,0.1501298938061164
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,1.0,122823,28265,0.23012790763944863,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,1.4142135623730951,122823,14796,0.1204660364915366,0.5234742614540951
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,2.0,122823,6768,0.0551036857917491,0.23944808066513357
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,1.0,122823,29085,0.23680418162721967,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,1.4142135623730951,122823,17497,0.14245703166345067,0.6015815712566616
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,2.0,122823,9122,0.07426947721517957,0.3136324565927454
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,1.0,122823,25429,0.2070377697988162,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,1.4142135623730951,122823,16205,0.13193782923393826,0.6372645404852727
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,2.0,122823,9974,0.08120628872442458,0.39222934444925084
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,1.0,122823,20894,0.17011471792742403,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,1.4142135623730951,122823,14864,0.12101967872466883,0.7114004020292907
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,2.0,122823,10499,0.08548073243610724,0.5024887527519862
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,1.0,108657,7614,0.07007371821419697,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,1.4142135623730951,108657,2704,0.0248856493369042,0.3551352771210927
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4,2.0,108657,1028,0.009460964318911805,0.13501444707118465
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,1.0,108657,13026,0.11988182997874045,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,1.4142135623730951,108657,6639,0.06110052734752478,0.5096729617687702
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,8,2.0,108657,2626,0.024167794067570428,0.20159680638722555
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,1.0,108657,16452,0.15141224219332394,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,1.4142135623730951,108657,9386,0.08638191740983094,0.5705081449063943
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,16,2.0,108657,4851,0.04464507578895055,0.2948577680525164
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,1.0,108657,17181,0.15812142797978962,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,1.4142135623730951,108657,10908,0.10038929843452332,0.6348873755893137
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,32,2.0,108657,6212,0.05717072991155655,0.3615621907921541
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,1.0,108657,15711,0.14459261713465307,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,1.4142135623730951,108657,10464,0.09630304536293106,0.6660301699446248
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,64,2.0,108657,6756,0.062177310251525446,0.43001718541149514
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,1.0,108657,14513,0.133567096459501,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,1.4142135623730951,108657,10507,0.09669878608833302,0.7239716116585131
+DeepAMP_same_Gram_group,one_component_representative,Gram-negative,deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,128,2.0,108657,7282,0.06701823168318655,0.5017570454075656
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,1.0,190876,25681,0.13454284456924914,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,1.4142135623730951,190876,11168,0.05850918921184434,0.4348740313850707
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,2.0,190876,4901,0.02567635533016199,0.19084147813558663
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,1.0,190876,35955,0.18836836480228,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,1.4142135623730951,190876,19680,0.10310358557388043,0.5473508552357113
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,2.0,190876,9395,0.04922043630419749,0.2612988457794465
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,1.0,190876,38421,0.2012877470190071,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,1.4142135623730951,190876,21558,0.11294243383138791,0.5610993987662997
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,2.0,190876,11685,0.061217753934491505,0.3041305536034981
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,1.0,190876,35776,0.18743058320585093,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,1.4142135623730951,190876,20353,0.10662943481632055,0.5689009391771019
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,2.0,190876,11320,0.05930551771830927,0.3164132379248658
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,1.0,190876,31624,0.1656782413713615,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,1.4142135623730951,190876,19466,0.10198243886083111,0.615545155578042
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,2.0,190876,12118,0.06348624237725015,0.3831899822919302
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,1.0,190876,25970,0.13605691653219892,1.0
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,1.4142135623730951,190876,18744,0.0981998784551227,0.7217558721601848
+DeepAMP_same_Gram_group,all_paired,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,2.0,190876,13361,0.06999832351893376,0.5144782441278398
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,1.0,122823,15554,0.12663751903145176,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,1.4142135623730951,122823,6466,0.052644862932838314,0.4157129998714157
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,2.0,122823,2580,0.021005837668840528,0.16587373023016588
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,1.0,122823,23503,0.19135666772510035,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,1.4142135623730951,122823,11778,0.09589409149752082,0.5011275156363018
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,2.0,122823,5075,0.04131962254626576,0.21592988129175
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,1.0,122823,25875,0.21066901150435993,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,1.4142135623730951,122823,13572,0.11050047629515644,0.5245217391304348
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,2.0,122823,6653,0.05416737907395195,0.2571207729468599
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,1.0,122823,24510,0.199555457853985,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,1.4142135623730951,122823,12929,0.10526530047303843,0.52749898000816
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,2.0,122823,6451,0.05252273596964738,0.2631986944104447
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,1.0,122823,21867,0.17803668693974256,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,1.4142135623730951,122823,12407,0.10101528215399395,0.5673846435267755
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,2.0,122823,7092,0.057741628196673264,0.32432432432432434
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,1.0,122823,17458,0.14213950155915422,1.0
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,1.4142135623730951,122823,11975,0.09749802561409508,0.6859319509680376
+DeepAMP_same_Gram_group,cysteine_free_length8_to39,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,2.0,122823,8045,0.06550076125807056,0.4608202543246649
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,1.0,108657,10121,0.0931463228323992,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,1.4142135623730951,108657,4456,0.04100978307886284,0.44027270032605476
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4,2.0,108657,2040,0.01877467627488335,0.20156111056219742
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,1.0,108657,14641,0.13474511536302308,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,1.4142135623730951,108657,7941,0.07308318838178857,0.5423809849054027
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,8,2.0,108657,3815,0.03511048528856862,0.26056963322177445
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,1.0,108657,15918,0.1464976945801927,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,1.4142135623730951,108657,8861,0.0815501992508536,0.5566654102274156
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,16,2.0,108657,4887,0.04497639360556614,0.30701093102148513
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,1.0,108657,15283,0.14065361642600108,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,1.4142135623730951,108657,8869,0.08162382543232373,0.5803180003925931
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,32,2.0,108657,5028,0.04627405505397719,0.3289929987567886
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,1.0,108657,14049,0.12929677793423341,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,1.4142135623730951,108657,8964,0.08249813633728154,0.6380525304292121
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,64,2.0,108657,5735,0.052780768841400004,0.4082141077656773
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,1.0,108657,12318,0.11336591291863386,1.0
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,1.4142135623730951,108657,9014,0.08295829997146985,0.7317746387400552
+DeepAMP_same_Gram_group,one_component_representative,Gram-positive,deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,128,2.0,108657,6500,0.05982127244448126,0.5276830654327002

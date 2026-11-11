@@ -1,0 +1,8 @@
+column,missing,length_ineligible,eligible_missing,ineligible_present
+macrel_general_AMP,5,5,0,0
+mbc_attention_E._coli_unspecified_strain,667,667,0,0
+deep_amp_cnn_neg_Gram-negative_unspecified_species_and_strain,4749,4749,0,0
+deep_amp_cnn_pos_Gram-positive_unspecified_species_and_strain,4749,4749,0,0
+deep_amp_lstm_neg_Gram-negative_unspecified_species_and_strain,4749,4749,0,0
+deep_amp_lstm_pos_Gram-positive_unspecified_species_and_strain,4749,4749,0,0
+ampredictor_E._coli_unspecified_strain,11,0,11,0

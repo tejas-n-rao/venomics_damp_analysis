@@ -1,0 +1,4 @@
+left,right,k,intersection_including_triple,fraction_of_either_shortlist
+APEX 1.1,MBC-Attention,3899,175,0.04488330341113106
+APEX 1.1,AMPredictor,3899,104,0.026673506027186458
+MBC-Attention,AMPredictor,3899,384,0.09848679148499616

@@ -1,0 +1,43 @@
+{
+  "article": "https://doi.org/10.1038/s41564-025-02061-0",
+  "retrieved_date_India": "2026-11-06",
+  "files": [
+    {
+      "name": "archaeasin_figure2_source.xlsx",
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM8_ESM.xlsx",
+      "sha256": "2a397fcec1120cf8aea257ec50febbbed53f14417d0ee7bdb4137bf78cdb9c1b"
+    },
+    {
+      "name": "archaeasin_extended4_source.xlsx",
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM14_ESM.xlsx",
+      "sha256": "3ec4f326d48a36ef22ac9c2472d83d9c427d6ff278dcef791294e0d18c788fe1"
+    },
+    {
+      "name": "archaeasin_sequences.csv",
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM4_ESM.csv",
+      "sha256": "51ad7cc136604d56632bad87f3d2efae5adfcaa7513d922575c62d1b92953c7a"
+    },
+    {
+      "name": "archaeasin_supplement.pdf",
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM1_ESM.pdf",
+      "sha256": "635f36cf4a0a79d77d32cd63f93f49237bd0d3b967cf1e1234eaffff07c49919"
+    },
+    {
+      "name": "archaeasin_certificates.zip",
+      "url": "https://data.mendeley.com/public-files/datasets/d8yzgtdrcp/files/b1307377-6e4d-4f63-b2c1-da070f075949/file_downloaded",
+      "sha256": "982cd9a9f6d497c14c67a1b72ea25106cc865743ae63f2e1275d73bad37ef0b3"
+    }
+  ],
+  "n_source_peptides": 80,
+  "n_certificate_base_sequence_matches": 79,
+  "n_numeric_Ecoli_after_chemistry_exclusion": 37,
+  "n_blank_source_coded_inactive": 42,
+  "n_exact_APEXDB_overlap": 0,
+  "n_exact_AMPredictor_training_overlap": 0,
+  "mismatched_prediction_sequence": "KWKKLIKGFVINKF",
+  "unmatched_certified_sequence": "VKWKKLIKGFVINKF",
+  "excluded_peptide": "Archaeasin-31",
+  "excluded_numeric_Ecoli_MIC_uM": 32,
+  "id_linkage_status": "inferred from unique prediction fingerprints, not author-confirmed identifiers",
+  "evaluation_status": "selected-cohort provisional diagnostic; not an independent multi-model benchmark"
+}

@@ -1,0 +1,11 @@
+{
+  "n": 194947,
+  "excluded": 678,
+  "median_raw_fold_spread": 31.223783432053743,
+  "median_centered_fold_spread": 4.165047892268092,
+  "centering_medians_log2_uM": {
+    "apex_1_1_E._coli_ATCC_11775": 8.199452639575664,
+    "mbc_attention_E._coli_unspecified_strain": 3.9168657875504844,
+    "ampredictor_E._coli_unspecified_strain": 3.251187804030096
+  }
+}

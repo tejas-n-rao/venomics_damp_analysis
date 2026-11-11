@@ -1,0 +1,25 @@
+{
+  "cutoff_uM": 16,
+  "rule": "exported predicted MIC <= cutoff",
+  "input_sha256": "ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600",
+  "n_common": 194947,
+  "selected_counts": {
+    "APEX 1.1": 1362,
+    "MBC-Attention": 100676,
+    "AMPredictor": 126192
+  },
+  "any_pass": 144361,
+  "all_pass": 897,
+  "none_pass": 50586,
+  "checks": {
+    "common_cohort_194947": true,
+    "all_eight_cells_partition_full_cohort": true,
+    "seven_displayed_cells_partition_any_pass": true,
+    "cell_counts_reproduce_each_model_total": true,
+    "independent_set_operations_reproduce_all_eight_cells": true,
+    "totals_match_reported_cutoff_analysis": true,
+    "no_missing_or_nonpositive_predictions": true
+  },
+  "all_checks_passed": true,
+  "scope": "Same approximately matched E. coli outputs as the shortlist comparison. No clinical breakpoint or accuracy inference."
+}

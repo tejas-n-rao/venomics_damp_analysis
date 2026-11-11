@@ -1,0 +1,4 @@
+model,n_all_adjacent_swap_pairs,n_also_classified_as_letter_rotation,n_response_at_least_twofold,fraction_response_at_least_twofold
+APEX 1.1,285,1,2,0.007017543859649123
+MBC-Attention,285,1,53,0.18596491228070175
+AMPredictor,285,1,24,0.08421052631578947

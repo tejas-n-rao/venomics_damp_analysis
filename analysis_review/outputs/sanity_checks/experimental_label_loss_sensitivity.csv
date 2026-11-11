@@ -1,0 +1,5 @@
+model,n_numeric,n_source_coded_inactive,numeric_point_MAE_log2,numeric_doubling_interval_distance_log2,all79_distance_to_intervals_conditional_inactive_gt64_log2,all79_MAE_if_wrongly_treat_512_as_exact,n_numeric_predictions_below_interval,n_numeric_predictions_inside_interval,n_numeric_predictions_above_interval
+APEX 1.0,37,42,1.1213478873999378,0.6654731972949269,1.010917824218889,2.8147150998944133,12,11,14
+APEX 1.1,37,42,1.270969108230166,0.7472596567678587,0.9711258570778221,2.810661851226905,15,8,14
+MBC-Attention,37,42,1.562218855125661,0.866255945111161,1.3467970442032138,3.2381652743656493,23,6,8
+AMPredictor,37,42,1.9110055117291511,1.1074117999169606,1.6497363295967176,3.6112234374107044,25,10,2

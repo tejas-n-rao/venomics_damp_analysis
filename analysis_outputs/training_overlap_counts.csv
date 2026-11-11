@@ -1,0 +1,4 @@
+corpus,unique_corpus_sequences,exact_TSV_overlap,numeric_assay_overlap
+APEX_CV,1388,392,8
+APEX_Ind,348,92,5
+AMPredictor_train,2624,2597,0

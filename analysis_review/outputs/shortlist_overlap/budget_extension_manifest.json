@@ -1,0 +1,47 @@
+{
+  "input_sha256": "ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600",
+  "n_common": 194947,
+  "fractions": [
+    0.01,
+    0.02,
+    0.05
+  ],
+  "rounding": "ceil(fraction * N)",
+  "budget_checks": {
+    "0.01": {
+      "common_cohort_194947": true,
+      "each_shortlist_has_1950": true,
+      "exclusive_bars_partition_union": true,
+      "exclusive_memberships_reconstruct_total_selections": true,
+      "exclusive_memberships_reconstruct_each_shortlist": true,
+      "independent_set_algebra_reproduces_all_exclusive_cells": true,
+      "no_tied_selection_boundary": true,
+      "pairwise_counts_reproduce_previous_report": true
+    },
+    "0.02": {
+      "common_cohort_194947": true,
+      "each_shortlist_has_declared_size": true,
+      "exclusive_bars_partition_union": true,
+      "exclusive_memberships_reconstruct_total_selections": true,
+      "exclusive_memberships_reconstruct_each_shortlist": true,
+      "independent_set_algebra_reproduces_all_exclusive_cells": true,
+      "no_tied_selection_boundary": true
+    },
+    "0.05": {
+      "common_cohort_194947": true,
+      "each_shortlist_has_declared_size": true,
+      "exclusive_bars_partition_union": true,
+      "exclusive_memberships_reconstruct_total_selections": true,
+      "exclusive_memberships_reconstruct_each_shortlist": true,
+      "independent_set_algebra_reproduces_all_exclusive_cells": true,
+      "no_tied_selection_boundary": true
+    }
+  },
+  "correlation_checks": {
+    "average_tied_rank_Pearson_matches_Spearman_in_every_population": true,
+    "global_correlations_match_previous_independent_review": true,
+    "all_eight_sources_and_full_cohort_reported": true
+  },
+  "all_checks_passed": true,
+  "scope": "Spearman uses the same sequences within each stated population, not ranks restricted to a selected shortlist. No biological accuracy or significance claim."
+}

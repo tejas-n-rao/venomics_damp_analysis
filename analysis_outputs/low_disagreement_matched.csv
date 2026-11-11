@@ -1,0 +1,11 @@
+population,feature,matched_pairs,low_total,mean_paired_difference,median_paired_difference
+all,length,9318,9748,0.0,0.0
+all,charge_density,9318,9748,0.03564861533945525,0.0
+all,hydrophobic_fraction,9318,9748,0.0025290729202646248,0.0
+all,cys_fraction,9318,9748,-0.008432782019634011,0.0
+all,entropy_bits,9318,9748,-0.14534794899711911,-0.09543725231055489
+restricted,length,5965,6141,0.0,0.0
+restricted,charge_density,5965,6141,0.024879066428542464,0.0
+restricted,hydrophobic_fraction,5965,6141,0.007054994033278381,0.0
+restricted,cys_fraction,5965,6141,0.0,0.0
+restricted,entropy_bits,5965,6141,-0.15442061147326136,-0.10730936496245391

@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-09",
+  "checks": {
+    "all_184_existing_numerical_tables_unchanged": true,
+    "input_unchanged": true,
+    "both_notebook_code_and_stored_outputs_unchanged": true,
+    "all_13_listed_unused_files_removed": true,
+    "refactored_decision_and_upset_scripts_passed_their_checks": true,
+    "all_markdown_notebook_and_archive_links_valid": true,
+    "all_seven_pdf_html_reports_and_cross_links_valid": true,
+    "single_report_cli_retained_and_ambiguous_flags_rejected": true,
+    "changed_python_files_compile": true
+  },
+  "changed_numerical_tables": [],
+  "removed_files": 13,
+  "numerical_tables_verified": 184,
+  "reports": {
+    "FINAL_ANALYSIS": {
+      "pages": 5,
+      "words": 1758,
+      "images": 3
+    },
+    "TECHNICAL_OVERVIEW": {
+      "pages": 4,
+      "words": 1209,
+      "images": 1
+    },
+    "OVERVIEW": {
+      "pages": 3,
+      "words": 961,
+      "images": 0
+    },
+    "SEQUENCE_FINDINGS": {
+      "pages": 3,
+      "words": 814,
+      "images": 2
+    },
+    "MIC_VARIABILITY": {
+      "pages": 3,
+      "words": 750,
+      "images": 2
+    },
+    "MODEL_COMPARISON": {
+      "pages": 3,
+      "words": 839,
+      "images": 1
+    },
+    "VALIDATION_FINDINGS": {
+      "pages": 2,
+      "words": 602,
+      "images": 1
+    }
+  },
+  "all_checks_passed": true
+}

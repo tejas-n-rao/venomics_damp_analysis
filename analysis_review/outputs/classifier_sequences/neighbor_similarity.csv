@@ -1,0 +1,13 @@
+population,metric,n_pairs,weight_sum,observed_fraction,reference_fraction
+all_pairs,same_three_way_group,41253,41253.0,0.785954960851332,0.526415100271016
+all_pairs,same_group_vs_outside_component,41253,41253.0,0.785954960851332,0.5019843825816638
+all_pairs,same_vote_count,41253,41253.0,0.6993188374178848,
+all_pairs,identical_four_model_pattern,41253,41253.0,0.687513635371973,
+equal_component_weight,same_three_way_group,41253,3353.9999999999995,0.8935719412310498,0.5257210421715084
+equal_component_weight,same_group_vs_outside_component,41253,3353.9999999999995,0.8935719412310498,0.5231462498243549
+equal_component_weight,same_vote_count,41253,3353.9999999999995,0.8068872513090805,
+equal_component_weight,identical_four_model_pattern,41253,3353.9999999999995,0.7992613257749254,
+one_pair_per_component,same_three_way_group,3354,3354.0,0.8893858079904592,0.5261216777960531
+one_pair_per_component,same_group_vs_outside_component,3354,3354.0,0.8893858079904592,0.523575118385251
+one_pair_per_component,same_vote_count,3354,3354.0,0.8029218843172331,
+one_pair_per_component,identical_four_model_pattern,3354,3354.0,0.7936791890280263,

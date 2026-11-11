@@ -1,0 +1,42 @@
+{
+  "thresholds": [
+    0.3,
+    0.5,
+    0.7
+  ],
+  "positive_rule": "score >= threshold; negative score < threshold",
+  "n_complete": 195620,
+  "n_pairs": 41253,
+  "AMP_CLIP_fixed_binary": true,
+  "scope": "Sensitivity to two additional score rules; no calibrated probability, causal, or accuracy interpretation. Matched contrasts use equal sequence weights within source/exact-length cells; pairs remain dependent.",
+  "checks": {
+    "0.3_All negative_count_and_KR_DE_match_saved_profiles": true,
+    "0.3_Mixed_count_and_KR_DE_match_saved_profiles": true,
+    "0.3_All positive_count_and_KR_DE_match_saved_profiles": true,
+    "0.3_24_explicit_anchor_references_match": true,
+    "0.3_votes_partition_full_cohort": true,
+    "0.3_AMP_CLIP_decisions_unchanged": true,
+    "0.5_All negative_count_and_KR_DE_match_saved_profiles": true,
+    "0.5_Mixed_count_and_KR_DE_match_saved_profiles": true,
+    "0.5_All positive_count_and_KR_DE_match_saved_profiles": true,
+    "0.5_24_explicit_anchor_references_match": true,
+    "0.5_votes_partition_full_cohort": true,
+    "0.5_AMP_CLIP_decisions_unchanged": true,
+    "0.5_higher_rule_cannot_increase_votes": true,
+    "0.7_All negative_count_and_KR_DE_match_saved_profiles": true,
+    "0.7_Mixed_count_and_KR_DE_match_saved_profiles": true,
+    "0.7_All positive_count_and_KR_DE_match_saved_profiles": true,
+    "0.7_24_explicit_anchor_references_match": true,
+    "0.7_votes_partition_full_cohort": true,
+    "0.7_AMP_CLIP_decisions_unchanged": true,
+    "0.7_higher_rule_cannot_increase_votes": true,
+    "baseline_neighbors_match_saved_result": true,
+    "all_matched_length_differences_zero": true
+  },
+  "all_checks_passed": true,
+  "input_hashes": {
+    "df_damp_195625x57.tsv": "ef8ced4ef2a260fced7e47b2d6b2ca415793e356a2d94997b1329ce464cac600",
+    "analysis_review/outputs/classifier_sequences/sequence_groups.csv.gz": "ee6686e707943939a6e531f427c080ce4e2946b929fd31f802b55fc3e90fcf38",
+    "analysis_review/outputs/classifier_sequences/one_substitution_pairs.csv.gz": "4cbbcb8a7bac2dd8fe40e0bc1c4b2c55e4eb683d8873abcd1c83fcc769d50c2a"
+  }
+}

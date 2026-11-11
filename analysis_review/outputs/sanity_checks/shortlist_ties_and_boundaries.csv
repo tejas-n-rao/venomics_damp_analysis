@@ -1,0 +1,5 @@
+model,k,cutoff_uM,n_strictly_below_cutoff,n_equal_cutoff,n_within_0_1_log2_of_cutoff,n_within_0_01_log2_of_cutoff
+APEX 1.0,1950,14.461570739746094,1949,1,833,88
+APEX 1.1,1950,19.113559722900394,1949,1,581,64
+MBC-Attention,1950,0.6026541590690613,1949,1,572,53
+AMPredictor,1950,0.6421471238136292,1949,1,794,78
